@@ -1,0 +1,1601 @@
+Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category,Date Time
+France,Ajaccio,44,Good,1,Good,60,Good,89,Good,7,Good,2024-04-25 15:00:00
+India,Mangaldai,64,Moderate,13,Good,59,Good,69,Good,29,Moderate,2024-09-16 03:00:00
+Brazil,Carazinho,19,Good,11,Good,72,Good,87,Good,12,Good,2024-01-10 14:00:00
+Thailand,Chumphon,41,Good,4,Good,33,Good,44,Good,4,Good,2024-06-24 18:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,6,Good,116,Moderate,74,Good,124,Unhealthy,2024-04-15 08:00:00
+France,Limeil Brevannes,73,Moderate,6,Good,79,Good,85,Good,13,Moderate,2024-12-14 15:00:00
+Italy,Porto Empedocle,65,Moderate,11,Good,6,Good,4,Good,33,Moderate,2024-11-30 01:00:00
+India,Polur,60,Moderate,5,Good,116,Good,11,Good,19,Moderate,2024-10-13 19:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,14,Good,43,Good,36,Good,37,Unhealthy for Sensitive Groups,2024-11-26 23:00:00
+France,Saint Benoit,57,Moderate,3,Good,54,Good,91,Good,18,Moderate,2024-03-21 03:00:00
+Germany,Tostedt,35,Good,4,Good,81,Good,58,Good,12,Good,2024-04-22 14:00:00
+France,Saint Sebastien Sur Loire,32,Good,11,Good,14,Good,15,Good,10,Good,2024-10-18 13:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,5,Good,83,Good,32,Good,35,Moderate,2024-02-28 22:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,14,Good,58,Good,93,Good,36,Unhealthy for Sensitive Groups,2024-06-26 20:00:00
+Italy,Trebaseleghe,78,Moderate,6,Good,78,Good,5,Good,34,Moderate,2024-10-03 23:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,6,Good,17,Good,91,Good,34,Moderate,2024-01-28 22:00:00
+Montenegro,Niksic,79,Moderate,0,Good,95,Good,55,Good,15,Moderate,2024-09-21 10:00:00
+Madagascar,Nosy Varika,25,Good,2,Good,54,Good,13,Good,6,Good,2024-12-14 06:00:00
+Spain,Martorell,36,Good,14,Good,32,Good,8,Good,2,Good,2024-03-12 02:00:00
+India,Tirur,71,Moderate,13,Good,41,Good,74,Good,33,Moderate,2024-01-13 16:00:00
+Germany,Rehburg Loccum,43,Good,12,Good,52,Good,74,Good,10,Good,2024-02-15 02:00:00
+Brazil,Vitoria Da Conquista,38,Good,6,Good,88,Good,52,Good,12,Good,2024-04-19 21:00:00
+United States of America,Fairview Heights,45,Good,4,Good,16,Good,62,Good,4,Good,2024-11-07 03:00:00
+India,Sanquelim,84,Moderate,4,Good,14,Good,90,Good,32,Moderate,2024-07-12 20:00:00
+Belgium,Soignies,49,Good,1,Good,7,Good,35,Good,8,Good,2024-04-28 15:00:00
+Brazil,Sertanopolis,36,Good,1,Good,80,Good,93,Good,8,Good,2024-12-23 16:00:00
+Cameroon,Guider,76,Moderate,8,Good,109,Good,37,Good,13,Moderate,2024-09-22 07:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,4,Good,87,Good,89,Good,45,Unhealthy for Sensitive Groups,2024-07-03 01:00:00
+United States of America,Edison,50,Good,13,Good,29,Good,78,Good,6,Good,2024-01-18 18:00:00
+Germany,Bad Langensalza,32,Good,12,Good,68,Good,66,Good,7,Good,2024-03-01 19:00:00
+France,Pessac,54,Moderate,7,Good,46,Good,92,Good,29,Moderate,2024-05-10 20:00:00
+Philippines,Katipunan,152,Unhealthy,2,Good,108,Good,54,Good,130,Unhealthy,2024-01-09 04:00:00
+Slovenia,Celje,85,Moderate,8,Good,49,Good,78,Good,13,Moderate,2024-03-30 23:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,0,Good,35,Unhealthy for Sensitive Groups,72,Good,35,Moderate,2024-07-07 01:00:00
+South Africa,Fochville,154,Unhealthy,2,Good,90,Good,81,Good,64,Unhealthy,2024-08-02 22:00:00
+Belgium,Herzele,51,Moderate,11,Good,55,Good,46,Good,13,Moderate,2024-05-06 02:00:00
+United States of America,Beeville,36,Good,12,Good,55,Good,3,Good,1,Good,2024-08-18 11:00:00
+Brazil,Varzea Alegre,22,Good,1,Good,14,Good,84,Good,7,Good,2024-03-06 16:00:00
+United States of America,Glen Allen,53,Moderate,9,Good,2,Good,21,Good,25,Moderate,2024-06-14 00:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,4,Good,39,Good,96,Good,49,Unhealthy for Sensitive Groups,2024-03-19 05:00:00
+Greece,Ioannina,69,Moderate,11,Good,62,Good,30,Good,27,Moderate,2024-08-18 01:00:00
+El Salvador,Gotera,95,Moderate,0,Good,45,Good,23,Good,16,Moderate,2024-12-07 06:00:00
+Ukraine,Chernyakhiv,56,Moderate,9,Good,93,Good,21,Good,30,Moderate,2024-02-19 15:00:00
+Spain,San Lorenzo De El Escorial,23,Good,11,Good,77,Good,17,Good,1,Good,2024-09-16 06:00:00
+Poland,Szamotuly,51,Moderate,7,Good,73,Good,29,Good,27,Moderate,2024-07-09 23:00:00
+Portugal,Lamego,25,Good,10,Good,90,Good,44,Good,9,Good,2024-04-30 09:00:00
+Italy,Bracciano,41,Good,8,Good,9,Good,82,Good,2,Good,2024-09-16 15:00:00
+United States of America,Woonsocket,42,Good,7,Good,108,Good,77,Good,10,Good,2024-04-11 09:00:00
+Panama,Panama,61,Moderate,10,Good,53,Good,44,Good,15,Moderate,2024-04-08 09:00:00
+United Republic of Tanzania,Bugarama,45,Good,14,Good,73,Good,75,Good,5,Good,2024-12-18 09:00:00
+Thailand,Phon,93,Moderate,13,Good,12,Good,12,Good,22,Moderate,2024-07-12 17:00:00
+India,Bhander,166,Unhealthy,10,Good,38,Unhealthy for Sensitive Groups,34,Good,150,Unhealthy,2024-06-01 18:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,0,Good,114,Good,39,Good,44,Unhealthy for Sensitive Groups,2024-06-22 21:00:00
+Viet Nam,Cao Bang,47,Good,9,Good,29,Good,73,Good,7,Good,2024-04-01 12:00:00
+Russian Federation,Kurskaya,40,Good,6,Good,22,Good,55,Good,4,Good,2024-04-17 20:00:00
+Brazil,Palmares,45,Good,10,Good,73,Good,38,Good,10,Good,2024-07-22 18:00:00
+India,Sidhi,162,Unhealthy,12,Good,92,Unhealthy,58,Good,110,Unhealthy,2024-12-21 11:00:00
+Myanmar,Loikaw,15,Good,5,Good,105,Good,20,Good,7,Good,2024-08-03 21:00:00
+Netherlands,Harenkarspel,38,Good,1,Good,90,Good,40,Good,0,Good,2024-12-27 16:00:00
+Lesotho,Quthing,77,Moderate,0,Good,49,Good,71,Good,18,Moderate,2024-05-27 18:00:00
+Belgium,Brugge,37,Good,0,Good,1,Good,23,Good,11,Good,2024-05-22 07:00:00
+France,Enghien Les Bains,55,Moderate,12,Good,113,Good,59,Good,18,Moderate,2024-06-19 18:00:00
+Poland,Szamotuly,51,Moderate,12,Good,96,Good,46,Good,16,Moderate,2024-11-16 09:00:00
+Poland,Zory,68,Moderate,0,Good,15,Good,71,Good,16,Moderate,2024-01-08 17:00:00
+United States of America,Taylors,58,Moderate,4,Good,55,Good,84,Good,24,Moderate,2024-01-25 06:00:00
+Brazil,Novo Cruzeiro,23,Good,2,Good,34,Good,92,Good,7,Good,2024-04-11 01:00:00
+United States of America,Berkley,85,Moderate,7,Good,83,Good,67,Good,15,Moderate,2024-10-11 21:00:00
+India,Karauli,213,Very Unhealthy,3,Good,2,Good,18,Good,199,Very Unhealthy,2024-12-24 01:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,12,Good,22,Good,53,Good,2,Good,2024-03-08 12:00:00
+Honduras,Cofradia,74,Moderate,4,Good,97,Good,17,Good,17,Moderate,2024-03-14 09:00:00
+Nigeria,Port Harcourt,179,Unhealthy,10,Good,54,Good,94,Good,147,Unhealthy,2024-11-17 11:00:00
+Russian Federation,Uzhur,33,Good,13,Good,104,Good,48,Good,12,Good,2024-12-13 07:00:00
+India,Rajur,150,Unhealthy,4,Good,69,Good,45,Good,68,Unhealthy,2024-04-29 22:00:00
+Japan,Inuyama,47,Good,13,Good,3,Good,23,Good,10,Good,2024-05-08 13:00:00
+Czechia,Pisek,66,Moderate,14,Good,9,Good,7,Good,20,Moderate,2024-11-21 11:00:00
+Netherlands,Bussum,38,Good,14,Good,34,Good,91,Good,11,Good,2024-04-11 10:00:00
+Congo,Kinkala,68,Moderate,13,Good,47,Good,43,Good,35,Moderate,2024-10-31 07:00:00
+Brazil,Barreirinha,25,Good,4,Good,30,Good,88,Good,6,Good,2024-06-09 21:00:00
+India,Bali Chak,166,Unhealthy,7,Good,7,Moderate,37,Good,102,Unhealthy,2024-04-27 20:00:00
+United States of America,South Lake Tahoe,54,Moderate,8,Good,33,Good,45,Good,13,Moderate,2024-11-26 00:00:00
+Russian Federation,Meleuz,36,Good,2,Good,77,Good,76,Good,3,Good,2024-12-21 06:00:00
+United States of America,Grand Haven,53,Moderate,3,Good,0,Good,98,Good,13,Moderate,2024-01-08 21:00:00
+Guatemala,Cubulco,77,Moderate,10,Good,94,Good,17,Good,22,Moderate,2024-08-06 16:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,8,Good,45,Good,70,Good,52,Unhealthy for Sensitive Groups,2024-08-11 06:00:00
+El Salvador,Acajutla,71,Moderate,14,Good,117,Good,96,Good,17,Moderate,2024-10-12 05:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,8,Good,82,Good,3,Good,38,Unhealthy for Sensitive Groups,2024-09-19 02:00:00
+United States of America,White Settlement,50,Good,9,Good,96,Good,91,Good,2,Good,2024-07-22 10:00:00
+United States of America,University Place,44,Good,11,Good,28,Good,86,Good,6,Good,2024-03-04 14:00:00
+Netherlands,Haaren,41,Good,10,Good,7,Good,91,Good,3,Good,2024-01-20 09:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,9,Good,59,Good,55,Good,52,Unhealthy for Sensitive Groups,2024-12-12 17:00:00
+Germany,Peine,45,Good,14,Good,64,Good,63,Good,0,Good,2024-01-21 21:00:00
+China,Suozhen,156,Unhealthy,9,Good,25,Unhealthy for Sensitive Groups,59,Good,63,Unhealthy,2024-06-19 21:00:00
+India,Handia,189,Unhealthy,1,Good,97,Moderate,80,Good,130,Unhealthy,2024-05-02 10:00:00
+Romania,Petrila,53,Moderate,6,Good,52,Good,20,Good,34,Moderate,2024-03-21 08:00:00
+Netherlands,Breukelen,35,Good,7,Good,109,Good,18,Good,11,Good,2024-02-26 18:00:00
+Pakistan,Lalian,173,Unhealthy,0,Good,76,Unhealthy for Sensitive Groups,5,Good,74,Unhealthy,2024-08-25 08:00:00
+Italy,Villa Literno,49,Good,4,Good,96,Good,90,Good,4,Good,2024-10-25 10:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,7,Good,102,Good,25,Good,49,Unhealthy for Sensitive Groups,2024-07-01 02:00:00
+Germany,Hagen,30,Good,9,Good,8,Good,42,Good,3,Good,2024-06-02 02:00:00
+Bulgaria,Kazanlak,56,Moderate,8,Good,42,Good,51,Good,21,Moderate,2024-03-09 01:00:00
+Italy,Trezzo,59,Moderate,10,Good,45,Good,35,Good,32,Moderate,2024-11-30 17:00:00
+India,Harpalpur,167,Unhealthy,10,Good,66,Unhealthy for Sensitive Groups,47,Good,138,Unhealthy,2024-02-16 18:00:00
+United States of America,Little Rock,68,Moderate,11,Good,66,Good,17,Good,28,Moderate,2024-03-30 08:00:00
+Italy,Roncade,52,Moderate,7,Good,83,Good,32,Good,33,Moderate,2024-05-12 10:00:00
+India,Handia,189,Unhealthy,1,Good,82,Moderate,45,Good,101,Unhealthy,2024-07-15 22:00:00
+Brazil,Guapiacu,57,Moderate,8,Good,103,Good,2,Good,34,Moderate,2024-01-18 04:00:00
+India,Narnaund,152,Unhealthy,14,Good,74,Unhealthy for Sensitive Groups,78,Good,142,Unhealthy,2024-01-22 17:00:00
+Germany,Hameln,37,Good,11,Good,4,Good,54,Good,0,Good,2024-09-22 05:00:00
+United Republic of Tanzania,Kilindoni,36,Good,2,Good,43,Good,76,Good,6,Good,2024-12-30 22:00:00
+Croatia,Vukovar,69,Moderate,10,Good,72,Good,73,Good,31,Moderate,2024-12-29 04:00:00
+Germany,Erlenbach,35,Good,10,Good,43,Good,78,Good,9,Good,2024-09-07 14:00:00
+India,Baramula,152,Unhealthy,2,Good,29,Good,99,Good,136,Unhealthy,2024-01-15 22:00:00
+Paraguay,Asuncion,26,Good,1,Good,72,Good,14,Good,11,Good,2024-09-13 22:00:00
+Japan,Nobeoka,40,Good,11,Good,91,Good,68,Good,3,Good,2024-09-21 15:00:00
+Germany,Cadolzburg,64,Moderate,10,Good,109,Moderate,89,Good,35,Moderate,2024-12-24 22:00:00
+Philippines,Calatagan,50,Good,12,Good,37,Good,6,Good,3,Good,2024-03-15 08:00:00
+India,Shahpura,169,Unhealthy,0,Good,36,Good,47,Good,150,Unhealthy,2024-04-15 02:00:00
+United States of America,Takoma Park,47,Good,14,Good,101,Good,12,Good,0,Good,2024-10-16 04:00:00
+Mexico,Cuautepec,160,Unhealthy,4,Good,7,Good,96,Good,70,Unhealthy,2024-06-05 23:00:00
+United Republic of Tanzania,Maswa,24,Good,13,Good,97,Good,9,Good,8,Good,2024-01-15 17:00:00
+France,Coudekerque Branche,44,Good,9,Good,111,Good,85,Good,7,Good,2024-02-24 15:00:00
+Belgium,Temse,42,Good,2,Good,8,Good,36,Good,3,Good,2024-12-04 17:00:00
+India,Dahanu,76,Moderate,9,Good,0,Good,26,Good,33,Moderate,2024-05-27 15:00:00
+Japan,Yoshii,69,Moderate,4,Good,65,Good,96,Good,14,Moderate,2024-04-25 00:00:00
+United States of America,Rome,67,Moderate,3,Good,104,Good,46,Good,19,Moderate,2024-05-08 00:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,13,Good,107,Good,62,Good,54,Unhealthy for Sensitive Groups,2024-08-20 09:00:00
+Colombia,Soata,26,Good,1,Good,59,Good,66,Good,0,Good,2024-12-17 08:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,13,Good,68,Good,10,Good,12,Good,2024-01-23 21:00:00
+Lesotho,Quthing,77,Moderate,5,Good,57,Good,39,Good,21,Moderate,2024-04-09 23:00:00
+Italy,Racconigi,73,Moderate,1,Good,59,Good,77,Good,25,Moderate,2024-02-01 09:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,4,Good,85,Good,91,Good,12,Good,2024-12-02 10:00:00
+Netherlands,Sint Oedenrode,38,Good,10,Good,107,Good,78,Good,11,Good,2024-12-02 11:00:00
+Italy,Porto Empedocle,65,Moderate,0,Good,103,Good,37,Good,18,Moderate,2024-09-23 21:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,14,Good,75,Good,10,Good,4,Good,2024-05-05 01:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,9,Good,79,Unhealthy,41,Good,183,Very Unhealthy,2024-11-23 14:00:00
+Poland,Sulecin,55,Moderate,13,Good,7,Good,93,Good,15,Moderate,2024-10-11 09:00:00
+Japan,Yatsuo,43,Good,3,Good,106,Good,84,Good,1,Good,2024-01-03 16:00:00
+Germany,Lilienthal,65,Moderate,13,Good,89,Good,93,Good,19,Moderate,2024-04-19 01:00:00
+India,Karauli,213,Very Unhealthy,13,Good,102,Good,82,Good,178,Very Unhealthy,2024-06-01 07:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,7,Good,25,Good,54,Good,19,Moderate,2024-04-08 22:00:00
+Germany,Goslar,38,Good,7,Good,49,Good,83,Good,9,Good,2024-02-15 13:00:00
+India,Hangal,70,Moderate,3,Good,0,Good,27,Good,34,Moderate,2024-04-04 10:00:00
+India,Sardhana,160,Unhealthy,7,Good,52,Unhealthy for Sensitive Groups,61,Good,134,Unhealthy,2024-12-04 05:00:00
+Japan,Hitoyoshi,52,Moderate,4,Good,10,Good,89,Good,16,Moderate,2024-12-30 00:00:00
+Germany,Bremen,66,Moderate,9,Good,26,Good,74,Good,13,Moderate,2024-02-20 15:00:00
+United States of America,Taylors,58,Moderate,4,Good,97,Good,65,Good,23,Moderate,2024-08-30 19:00:00
+Russian Federation,Gorkovskiy,38,Good,3,Good,60,Good,75,Good,11,Good,2024-05-10 23:00:00
+China,Beibei,166,Unhealthy,4,Good,14,Moderate,98,Good,116,Unhealthy,2024-03-08 19:00:00
+Spain,Huesca,37,Good,5,Good,37,Good,56,Good,1,Good,2024-06-11 14:00:00
+Ghana,Nsawam,28,Good,3,Good,7,Good,93,Good,6,Good,2024-09-24 02:00:00
+Pakistan,Sarhari,165,Unhealthy,7,Good,87,Good,14,Good,73,Unhealthy,2024-08-07 05:00:00
+United States of America,Ledyard,41,Good,0,Good,77,Good,9,Good,9,Good,2024-07-21 22:00:00
+Germany,Kall,58,Moderate,14,Good,59,Good,17,Good,16,Moderate,2024-12-02 17:00:00
+Kazakhstan,Ilyich,161,Unhealthy,12,Good,58,Moderate,73,Good,108,Unhealthy,2024-05-25 03:00:00
+India,Phulabani,161,Unhealthy,3,Good,17,Moderate,28,Good,78,Unhealthy,2024-11-09 02:00:00
+India,Kodumudi,71,Moderate,7,Good,108,Good,57,Good,20,Moderate,2024-11-05 23:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,14,Good,78,Good,5,Good,51,Unhealthy for Sensitive Groups,2024-01-20 17:00:00
+Russian Federation,Korkino,34,Good,13,Good,45,Good,31,Good,2,Good,2024-12-16 07:00:00
+France,Epernay,53,Moderate,4,Good,97,Good,62,Good,30,Moderate,2024-04-28 21:00:00
+United States of America,Wayland,47,Good,10,Good,30,Good,36,Good,6,Good,2024-10-02 15:00:00
+Chile,Curico,93,Moderate,0,Good,22,Good,84,Good,24,Moderate,2024-05-19 23:00:00
+France,Septemes Les Vallons,31,Good,5,Good,78,Good,88,Good,4,Good,2024-10-31 14:00:00
+Myanmar,Taunggyi,39,Good,6,Good,83,Good,97,Good,0,Good,2024-12-04 19:00:00
+United Republic of Tanzania,Kisesa,24,Good,11,Good,61,Good,37,Good,2,Good,2024-11-22 17:00:00
+India,Manohar Thana,168,Unhealthy,6,Good,12,Good,37,Good,133,Unhealthy,2024-05-04 17:00:00
+United States of America,Lompoc,38,Good,8,Good,8,Good,89,Good,10,Good,2024-03-02 10:00:00
+Russian Federation,Cherdakly,51,Moderate,14,Good,111,Good,94,Good,14,Moderate,2024-01-27 07:00:00
+France,Levallois Perret,70,Moderate,1,Good,119,Good,83,Good,35,Moderate,2024-10-06 20:00:00
+France,Epernay,53,Moderate,13,Good,18,Good,96,Good,26,Moderate,2024-04-30 21:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,1,Good,103,Good,65,Good,98,Unhealthy,2024-07-09 03:00:00
+Japan,Inuyama,47,Good,1,Good,31,Good,13,Good,9,Good,2024-10-18 12:00:00
+Hungary,Tata,66,Moderate,12,Good,5,Good,13,Good,35,Moderate,2024-04-18 12:00:00
+Germany,Wehr,94,Moderate,12,Good,81,Good,87,Good,23,Moderate,2024-12-04 07:00:00
+Brazil,Iguaba Grande,61,Moderate,6,Good,58,Good,32,Good,19,Moderate,2024-09-20 05:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,0,Good,48,Good,85,Good,13,Moderate,2024-03-17 23:00:00
+Belgium,De Pinte,36,Good,3,Good,97,Good,76,Good,1,Good,2024-10-14 00:00:00
+Brazil,Caririacu,27,Good,0,Good,90,Good,85,Good,2,Good,2024-10-23 23:00:00
+United States of America,Shawnee,95,Moderate,13,Good,5,Good,30,Good,14,Moderate,2024-07-15 17:00:00
+India,Neyveli,61,Moderate,14,Good,77,Good,24,Good,15,Moderate,2024-08-04 20:00:00
+United States of America,Beeville,36,Good,14,Good,29,Good,30,Good,3,Good,2024-05-29 01:00:00
+France,Levallois Perret,70,Moderate,12,Good,62,Good,34,Good,14,Moderate,2024-06-11 09:00:00
+United States of America,Rock Springs,22,Good,0,Good,84,Good,60,Good,11,Good,2024-12-15 15:00:00
+Poland,Katowice,80,Moderate,11,Good,99,Good,62,Good,28,Moderate,2024-12-28 17:00:00
+United States of America,Hopkins,54,Moderate,9,Good,14,Good,91,Good,32,Moderate,2024-08-29 20:00:00
+Brazil,Piquete,52,Moderate,11,Good,60,Good,2,Good,14,Moderate,2024-04-29 05:00:00
+France,Luneville,38,Good,0,Good,88,Good,59,Good,9,Good,2024-11-23 22:00:00
+Poland,Pulawy,30,Good,14,Good,40,Good,16,Good,3,Good,2024-07-02 04:00:00
+Madagascar,Arivonimamo,21,Good,5,Good,113,Good,91,Good,4,Good,2024-06-15 03:00:00
+Russian Federation,Gusev,34,Good,7,Good,60,Good,46,Good,1,Good,2024-02-18 16:00:00
+India,Mundwa,212,Very Unhealthy,3,Good,24,Good,64,Good,189,Very Unhealthy,2024-01-15 20:00:00
+United States of America,Orange,51,Moderate,2,Good,77,Good,95,Good,18,Moderate,2024-11-16 11:00:00
+Afghanistan,Dawlatabad,92,Moderate,1,Good,59,Good,68,Good,32,Moderate,2024-09-15 12:00:00
+United States of America,Rosedale,42,Good,2,Good,25,Good,15,Good,6,Good,2024-09-02 11:00:00
+Brazil,Russas,28,Good,12,Good,53,Good,52,Good,9,Good,2024-06-07 12:00:00
+Pakistan,Bhopalwala,153,Unhealthy,11,Good,75,Unhealthy for Sensitive Groups,68,Good,143,Unhealthy,2024-12-01 21:00:00
+Russian Federation,Izberbash,51,Moderate,6,Good,12,Good,78,Good,17,Moderate,2024-08-11 23:00:00
+Poland,Krotoszyn,55,Moderate,13,Good,42,Good,87,Good,30,Moderate,2024-09-14 16:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,0,Good,116,Good,64,Good,4,Good,2024-10-29 23:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,10,Good,111,Moderate,47,Good,48,Unhealthy for Sensitive Groups,2024-11-06 13:00:00
+United States of America,Corsicana,47,Good,7,Good,64,Good,81,Good,2,Good,2024-05-16 01:00:00
+France,Ajaccio,44,Good,9,Good,111,Good,74,Good,10,Good,2023-10-02 18:00:00
+India,Mangaldai,64,Moderate,12,Good,30,Good,47,Good,21,Moderate,2023-07-28 13:00:00
+Brazil,Carazinho,19,Good,2,Good,33,Good,65,Good,3,Good,2023-05-15 08:00:00
+Thailand,Chumphon,41,Good,2,Good,90,Good,59,Good,2,Good,2023-11-04 19:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,0,Good,9,Moderate,16,Good,60,Unhealthy,2023-12-11 12:00:00
+France,Limeil Brevannes,73,Moderate,6,Good,4,Good,34,Good,30,Moderate,2023-08-18 00:00:00
+Italy,Porto Empedocle,65,Moderate,6,Good,62,Good,29,Good,29,Moderate,2023-01-07 18:00:00
+India,Polur,60,Moderate,8,Good,3,Good,44,Good,32,Moderate,2023-05-27 19:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,3,Good,27,Good,80,Good,51,Unhealthy for Sensitive Groups,2023-03-25 00:00:00
+France,Saint Benoit,57,Moderate,11,Good,97,Good,83,Good,29,Moderate,2023-11-24 15:00:00
+Germany,Tostedt,35,Good,6,Good,90,Good,61,Good,4,Good,2023-08-02 12:00:00
+France,Saint Sebastien Sur Loire,32,Good,10,Good,29,Good,67,Good,8,Good,2023-06-22 12:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,6,Good,5,Good,98,Good,14,Moderate,2023-10-11 23:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,7,Good,103,Good,31,Good,51,Unhealthy for Sensitive Groups,2023-12-28 10:00:00
+Italy,Trebaseleghe,78,Moderate,12,Good,19,Good,32,Good,34,Moderate,2023-06-29 23:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,1,Good,0,Good,56,Good,27,Moderate,2023-05-13 05:00:00
+Montenegro,Niksic,79,Moderate,14,Good,21,Good,15,Good,21,Moderate,2023-07-03 10:00:00
+Madagascar,Nosy Varika,25,Good,13,Good,4,Good,52,Good,3,Good,2023-08-18 04:00:00
+Spain,Martorell,36,Good,3,Good,4,Good,14,Good,10,Good,2023-06-30 18:00:00
+India,Tirur,71,Moderate,3,Good,2,Good,42,Good,27,Moderate,2023-05-19 17:00:00
+Germany,Rehburg Loccum,43,Good,4,Good,29,Good,47,Good,1,Good,2023-04-28 09:00:00
+Brazil,Vitoria Da Conquista,38,Good,4,Good,18,Good,55,Good,1,Good,2023-06-13 19:00:00
+United States of America,Fairview Heights,45,Good,2,Good,100,Good,71,Good,9,Good,2023-05-16 11:00:00
+India,Sanquelim,84,Moderate,12,Good,4,Good,99,Good,30,Moderate,2023-10-25 05:00:00
+Belgium,Soignies,49,Good,13,Good,54,Good,15,Good,8,Good,2023-11-17 23:00:00
+Brazil,Sertanopolis,36,Good,3,Good,38,Good,84,Good,4,Good,2023-08-29 10:00:00
+Cameroon,Guider,76,Moderate,10,Good,107,Good,15,Good,33,Moderate,2023-08-31 19:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,10,Good,113,Good,11,Good,52,Unhealthy for Sensitive Groups,2023-02-08 05:00:00
+United States of America,Edison,50,Good,6,Good,21,Good,6,Good,3,Good,2023-05-26 08:00:00
+Germany,Bad Langensalza,32,Good,4,Good,24,Good,22,Good,3,Good,2023-06-27 00:00:00
+France,Pessac,54,Moderate,4,Good,50,Good,88,Good,19,Moderate,2023-02-26 23:00:00
+Philippines,Katipunan,152,Unhealthy,7,Good,116,Good,27,Good,85,Unhealthy,2023-11-23 05:00:00
+Slovenia,Celje,85,Moderate,7,Good,15,Good,4,Good,26,Moderate,2023-04-14 17:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,2,Good,38,Unhealthy for Sensitive Groups,77,Good,30,Moderate,2023-09-11 13:00:00
+South Africa,Fochville,154,Unhealthy,0,Good,28,Good,49,Good,119,Unhealthy,2023-06-28 22:00:00
+Belgium,Herzele,51,Moderate,1,Good,56,Good,45,Good,20,Moderate,2023-07-13 02:00:00
+United States of America,Beeville,36,Good,10,Good,56,Good,57,Good,2,Good,2023-03-07 20:00:00
+Brazil,Varzea Alegre,22,Good,11,Good,71,Good,73,Good,2,Good,2023-06-15 18:00:00
+United States of America,Glen Allen,53,Moderate,4,Good,62,Good,22,Good,35,Moderate,2023-02-28 01:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,10,Good,67,Good,7,Good,54,Unhealthy for Sensitive Groups,2023-05-28 12:00:00
+Greece,Ioannina,69,Moderate,3,Good,10,Good,56,Good,28,Moderate,2023-03-07 02:00:00
+El Salvador,Gotera,95,Moderate,5,Good,112,Good,68,Good,30,Moderate,2023-09-18 18:00:00
+Ukraine,Chernyakhiv,56,Moderate,11,Good,29,Good,92,Good,33,Moderate,2023-10-23 09:00:00
+Spain,San Lorenzo De El Escorial,23,Good,7,Good,82,Good,62,Good,1,Good,2023-02-16 05:00:00
+Poland,Szamotuly,51,Moderate,5,Good,47,Good,52,Good,25,Moderate,2023-03-21 04:00:00
+Portugal,Lamego,25,Good,4,Good,92,Good,88,Good,0,Good,2023-02-12 05:00:00
+Italy,Bracciano,41,Good,12,Good,25,Good,56,Good,10,Good,2023-02-13 00:00:00
+United States of America,Woonsocket,42,Good,4,Good,34,Good,29,Good,12,Good,2023-04-09 22:00:00
+Panama,Panama,61,Moderate,14,Good,90,Good,20,Good,33,Moderate,2023-08-09 06:00:00
+United Republic of Tanzania,Bugarama,45,Good,3,Good,79,Good,84,Good,4,Good,2023-03-08 18:00:00
+Thailand,Phon,93,Moderate,13,Good,10,Good,75,Good,32,Moderate,2023-09-13 11:00:00
+India,Bhander,166,Unhealthy,1,Good,85,Unhealthy for Sensitive Groups,10,Good,145,Unhealthy,2023-04-19 03:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,0,Good,119,Good,32,Good,42,Unhealthy for Sensitive Groups,2023-08-31 21:00:00
+Viet Nam,Cao Bang,47,Good,12,Good,92,Good,33,Good,9,Good,2023-07-27 19:00:00
+Russian Federation,Kurskaya,40,Good,10,Good,72,Good,4,Good,4,Good,2023-10-22 09:00:00
+Brazil,Palmares,45,Good,8,Good,7,Good,56,Good,8,Good,2023-07-17 12:00:00
+India,Sidhi,162,Unhealthy,11,Good,13,Unhealthy,66,Good,73,Unhealthy,2023-05-21 17:00:00
+Myanmar,Loikaw,15,Good,10,Good,12,Good,48,Good,2,Good,2023-02-06 17:00:00
+Netherlands,Harenkarspel,38,Good,2,Good,54,Good,42,Good,8,Good,2023-10-28 17:00:00
+Lesotho,Quthing,77,Moderate,6,Good,118,Good,87,Good,31,Moderate,2023-10-01 20:00:00
+Belgium,Brugge,37,Good,5,Good,116,Good,16,Good,9,Good,2023-03-25 13:00:00
+France,Enghien Les Bains,55,Moderate,13,Good,107,Good,43,Good,26,Moderate,2023-02-10 12:00:00
+Poland,Szamotuly,51,Moderate,13,Good,118,Good,85,Good,24,Moderate,2023-09-22 05:00:00
+Poland,Zory,68,Moderate,0,Good,109,Good,73,Good,20,Moderate,2023-10-09 21:00:00
+United States of America,Taylors,58,Moderate,6,Good,74,Good,20,Good,28,Moderate,2023-12-21 09:00:00
+Brazil,Novo Cruzeiro,23,Good,8,Good,56,Good,77,Good,10,Good,2023-08-12 05:00:00
+United States of America,Berkley,85,Moderate,3,Good,20,Good,61,Good,14,Moderate,2023-06-18 22:00:00
+India,Karauli,213,Very Unhealthy,9,Good,97,Good,35,Good,233,Very Unhealthy,2023-03-24 16:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,14,Good,40,Good,16,Good,3,Good,2023-11-22 22:00:00
+Honduras,Cofradia,74,Moderate,11,Good,63,Good,89,Good,34,Moderate,2023-06-08 07:00:00
+Nigeria,Port Harcourt,179,Unhealthy,3,Good,117,Good,64,Good,115,Unhealthy,2023-06-01 20:00:00
+Russian Federation,Uzhur,33,Good,0,Good,29,Good,56,Good,10,Good,2023-10-22 03:00:00
+India,Rajur,150,Unhealthy,6,Good,115,Good,14,Good,137,Unhealthy,2023-06-07 13:00:00
+Japan,Inuyama,47,Good,13,Good,93,Good,61,Good,1,Good,2023-03-31 17:00:00
+Czechia,Pisek,66,Moderate,13,Good,1,Good,4,Good,29,Moderate,2023-10-08 21:00:00
+Netherlands,Bussum,38,Good,4,Good,100,Good,67,Good,9,Good,2023-10-01 00:00:00
+Congo,Kinkala,68,Moderate,14,Good,12,Good,79,Good,32,Moderate,2023-10-24 16:00:00
+Brazil,Barreirinha,25,Good,2,Good,19,Good,60,Good,12,Good,2023-03-03 13:00:00
+India,Bali Chak,166,Unhealthy,10,Good,92,Moderate,73,Good,150,Unhealthy,2023-07-10 20:00:00
+United States of America,South Lake Tahoe,54,Moderate,11,Good,119,Good,88,Good,32,Moderate,2023-09-08 15:00:00
+Russian Federation,Meleuz,36,Good,1,Good,22,Good,60,Good,10,Good,2023-03-06 18:00:00
+United States of America,Grand Haven,53,Moderate,6,Good,106,Good,76,Good,34,Moderate,2023-11-01 13:00:00
+Guatemala,Cubulco,77,Moderate,7,Good,102,Good,37,Good,32,Moderate,2023-10-30 13:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,5,Good,16,Good,42,Good,40,Unhealthy for Sensitive Groups,2023-02-01 14:00:00
+El Salvador,Acajutla,71,Moderate,4,Good,99,Good,41,Good,29,Moderate,2023-11-22 18:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,10,Good,101,Good,41,Good,44,Unhealthy for Sensitive Groups,2023-07-05 05:00:00
+United States of America,White Settlement,50,Good,10,Good,91,Good,14,Good,2,Good,2023-02-03 20:00:00
+United States of America,University Place,44,Good,7,Good,113,Good,10,Good,7,Good,2023-04-24 20:00:00
+Netherlands,Haaren,41,Good,12,Good,113,Good,85,Good,2,Good,2023-07-27 10:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,12,Good,43,Good,63,Good,40,Unhealthy for Sensitive Groups,2023-10-25 22:00:00
+Germany,Peine,45,Good,7,Good,94,Good,71,Good,9,Good,2023-07-17 21:00:00
+China,Suozhen,156,Unhealthy,3,Good,114,Unhealthy for Sensitive Groups,67,Good,57,Unhealthy,2023-02-23 11:00:00
+India,Handia,189,Unhealthy,1,Good,80,Moderate,83,Good,67,Unhealthy,2023-06-08 04:00:00
+Romania,Petrila,53,Moderate,6,Good,14,Good,16,Good,18,Moderate,2023-02-19 08:00:00
+Netherlands,Breukelen,35,Good,12,Good,48,Good,35,Good,3,Good,2023-12-27 16:00:00
+Pakistan,Lalian,173,Unhealthy,12,Good,85,Unhealthy for Sensitive Groups,91,Good,83,Unhealthy,2023-02-18 18:00:00
+Italy,Villa Literno,49,Good,3,Good,109,Good,82,Good,11,Good,2023-01-06 10:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,3,Good,93,Good,9,Good,49,Unhealthy for Sensitive Groups,2023-12-06 17:00:00
+Germany,Hagen,30,Good,2,Good,71,Good,16,Good,0,Good,2023-04-21 12:00:00
+Bulgaria,Kazanlak,56,Moderate,1,Good,86,Good,71,Good,15,Moderate,2023-05-14 03:00:00
+Italy,Trezzo,59,Moderate,9,Good,105,Good,91,Good,21,Moderate,2023-02-22 05:00:00
+India,Harpalpur,167,Unhealthy,9,Good,110,Unhealthy for Sensitive Groups,78,Good,134,Unhealthy,2023-06-03 03:00:00
+United States of America,Little Rock,68,Moderate,6,Good,24,Good,12,Good,35,Moderate,2023-04-27 17:00:00
+Italy,Roncade,52,Moderate,14,Good,69,Good,75,Good,13,Moderate,2023-08-05 03:00:00
+India,Handia,189,Unhealthy,4,Good,91,Moderate,30,Good,146,Unhealthy,2023-12-25 13:00:00
+Brazil,Guapiacu,57,Moderate,8,Good,91,Good,24,Good,16,Moderate,2023-10-01 17:00:00
+India,Narnaund,152,Unhealthy,2,Good,84,Unhealthy for Sensitive Groups,86,Good,62,Unhealthy,2023-01-31 18:00:00
+Germany,Hameln,37,Good,10,Good,57,Good,57,Good,0,Good,2023-07-14 12:00:00
+United Republic of Tanzania,Kilindoni,36,Good,14,Good,18,Good,20,Good,5,Good,2023-06-12 09:00:00
+Croatia,Vukovar,69,Moderate,14,Good,34,Good,55,Good,28,Moderate,2023-03-03 11:00:00
+Germany,Erlenbach,35,Good,2,Good,62,Good,56,Good,3,Good,2023-12-08 01:00:00
+India,Baramula,152,Unhealthy,6,Good,76,Good,98,Good,97,Unhealthy,2023-07-06 02:00:00
+Paraguay,Asuncion,26,Good,4,Good,92,Good,13,Good,10,Good,2023-11-19 13:00:00
+Japan,Nobeoka,40,Good,14,Good,41,Good,99,Good,5,Good,2023-05-01 18:00:00
+Germany,Cadolzburg,64,Moderate,10,Good,100,Moderate,66,Good,14,Moderate,2023-12-23 16:00:00
+Philippines,Calatagan,50,Good,8,Good,85,Good,38,Good,1,Good,2023-10-08 04:00:00
+India,Shahpura,169,Unhealthy,6,Good,74,Good,38,Good,75,Unhealthy,2023-10-24 21:00:00
+United States of America,Takoma Park,47,Good,2,Good,76,Good,45,Good,1,Good,2023-01-12 20:00:00
+Mexico,Cuautepec,160,Unhealthy,4,Good,63,Good,88,Good,129,Unhealthy,2023-02-14 09:00:00
+United Republic of Tanzania,Maswa,24,Good,11,Good,73,Good,18,Good,2,Good,2023-04-25 01:00:00
+France,Coudekerque Branche,44,Good,10,Good,92,Good,36,Good,6,Good,2023-04-06 22:00:00
+Belgium,Temse,42,Good,7,Good,64,Good,91,Good,7,Good,2023-04-18 02:00:00
+India,Dahanu,76,Moderate,1,Good,36,Good,48,Good,22,Moderate,2023-05-06 10:00:00
+Japan,Yoshii,69,Moderate,0,Good,37,Good,7,Good,28,Moderate,2023-11-16 09:00:00
+United States of America,Rome,67,Moderate,8,Good,114,Good,67,Good,34,Moderate,2023-05-23 14:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,6,Good,107,Good,22,Good,38,Unhealthy for Sensitive Groups,2023-04-11 03:00:00
+Colombia,Soata,26,Good,3,Good,113,Good,78,Good,0,Good,2023-09-12 12:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,9,Good,23,Good,97,Good,6,Good,2023-11-24 00:00:00
+Lesotho,Quthing,77,Moderate,0,Good,25,Good,20,Good,31,Moderate,2023-04-14 01:00:00
+Italy,Racconigi,73,Moderate,14,Good,92,Good,51,Good,34,Moderate,2023-02-10 05:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,5,Good,83,Good,34,Good,10,Good,2023-04-23 01:00:00
+Netherlands,Sint Oedenrode,38,Good,8,Good,69,Good,31,Good,4,Good,2023-09-13 17:00:00
+Italy,Porto Empedocle,65,Moderate,9,Good,68,Good,23,Good,21,Moderate,2023-10-13 08:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,11,Good,65,Good,69,Good,9,Good,2023-08-24 21:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,6,Good,102,Unhealthy,99,Good,212,Very Unhealthy,2023-02-15 01:00:00
+Poland,Sulecin,55,Moderate,6,Good,18,Good,16,Good,30,Moderate,2023-02-27 21:00:00
+Japan,Yatsuo,43,Good,0,Good,63,Good,4,Good,11,Good,2023-07-30 15:00:00
+Germany,Lilienthal,65,Moderate,2,Good,61,Good,16,Good,22,Moderate,2023-06-07 03:00:00
+India,Karauli,213,Very Unhealthy,13,Good,116,Good,8,Good,172,Very Unhealthy,2023-09-15 17:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,5,Good,0,Good,48,Good,33,Moderate,2023-09-04 21:00:00
+Germany,Goslar,38,Good,2,Good,115,Good,53,Good,7,Good,2023-03-31 11:00:00
+India,Hangal,70,Moderate,8,Good,22,Good,1,Good,17,Moderate,2023-01-04 04:00:00
+India,Sardhana,160,Unhealthy,12,Good,47,Unhealthy for Sensitive Groups,19,Good,148,Unhealthy,2023-02-07 03:00:00
+Japan,Hitoyoshi,52,Moderate,8,Good,47,Good,87,Good,19,Moderate,2023-06-20 14:00:00
+Germany,Bremen,66,Moderate,10,Good,100,Good,35,Good,13,Moderate,2023-09-27 06:00:00
+United States of America,Taylors,58,Moderate,8,Good,114,Good,24,Good,28,Moderate,2023-01-09 11:00:00
+Russian Federation,Gorkovskiy,38,Good,12,Good,119,Good,57,Good,1,Good,2023-11-01 16:00:00
+China,Beibei,166,Unhealthy,2,Good,10,Moderate,44,Good,74,Unhealthy,2023-12-25 05:00:00
+Spain,Huesca,37,Good,13,Good,31,Good,67,Good,9,Good,2023-01-23 07:00:00
+Ghana,Nsawam,28,Good,9,Good,69,Good,59,Good,5,Good,2023-05-29 10:00:00
+Pakistan,Sarhari,165,Unhealthy,5,Good,23,Good,65,Good,56,Unhealthy,2023-11-10 16:00:00
+United States of America,Ledyard,41,Good,10,Good,86,Good,43,Good,1,Good,2023-02-12 22:00:00
+Germany,Kall,58,Moderate,4,Good,60,Good,85,Good,14,Moderate,2023-10-21 03:00:00
+Kazakhstan,Ilyich,161,Unhealthy,0,Good,68,Moderate,73,Good,63,Unhealthy,2023-05-08 21:00:00
+India,Phulabani,161,Unhealthy,12,Good,115,Moderate,86,Good,145,Unhealthy,2023-09-28 01:00:00
+India,Kodumudi,71,Moderate,13,Good,77,Good,31,Good,30,Moderate,2023-05-16 06:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,13,Good,48,Good,13,Good,53,Unhealthy for Sensitive Groups,2023-09-02 12:00:00
+Russian Federation,Korkino,34,Good,5,Good,62,Good,43,Good,5,Good,2023-10-08 22:00:00
+France,Epernay,53,Moderate,7,Good,95,Good,1,Good,27,Moderate,2023-09-18 08:00:00
+United States of America,Wayland,47,Good,8,Good,68,Good,92,Good,6,Good,2023-12-02 22:00:00
+Chile,Curico,93,Moderate,0,Good,111,Good,72,Good,27,Moderate,2023-11-06 14:00:00
+France,Septemes Les Vallons,31,Good,0,Good,107,Good,85,Good,10,Good,2023-05-03 07:00:00
+Myanmar,Taunggyi,39,Good,7,Good,8,Good,23,Good,4,Good,2023-03-20 07:00:00
+United Republic of Tanzania,Kisesa,24,Good,14,Good,58,Good,20,Good,11,Good,2023-05-29 00:00:00
+India,Manohar Thana,168,Unhealthy,7,Good,61,Good,81,Good,104,Unhealthy,2023-09-19 17:00:00
+United States of America,Lompoc,38,Good,3,Good,75,Good,62,Good,8,Good,2023-08-15 07:00:00
+Russian Federation,Cherdakly,51,Moderate,14,Good,48,Good,95,Good,32,Moderate,2023-06-04 02:00:00
+France,Levallois Perret,70,Moderate,7,Good,65,Good,23,Good,15,Moderate,2023-11-19 14:00:00
+France,Epernay,53,Moderate,6,Good,80,Good,53,Good,22,Moderate,2023-09-19 22:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,1,Good,54,Good,84,Good,60,Unhealthy,2023-10-04 08:00:00
+Japan,Inuyama,47,Good,8,Good,64,Good,83,Good,9,Good,2023-12-02 02:00:00
+Hungary,Tata,66,Moderate,5,Good,119,Good,24,Good,30,Moderate,2023-03-21 18:00:00
+Germany,Wehr,94,Moderate,0,Good,83,Good,28,Good,35,Moderate,2023-12-15 19:00:00
+Brazil,Iguaba Grande,61,Moderate,2,Good,118,Good,95,Good,13,Moderate,2023-09-29 12:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,0,Good,10,Good,63,Good,26,Moderate,2023-03-06 01:00:00
+Belgium,De Pinte,36,Good,8,Good,80,Good,66,Good,3,Good,2023-09-13 06:00:00
+Brazil,Caririacu,27,Good,13,Good,45,Good,86,Good,6,Good,2023-04-01 12:00:00
+United States of America,Shawnee,95,Moderate,9,Good,7,Good,33,Good,19,Moderate,2023-08-01 04:00:00
+India,Neyveli,61,Moderate,5,Good,11,Good,62,Good,14,Moderate,2023-06-17 19:00:00
+United States of America,Beeville,36,Good,1,Good,9,Good,24,Good,12,Good,2023-05-16 21:00:00
+France,Levallois Perret,70,Moderate,9,Good,57,Good,89,Good,15,Moderate,2023-05-12 01:00:00
+United States of America,Rock Springs,22,Good,4,Good,60,Good,18,Good,7,Good,2023-07-22 05:00:00
+Poland,Katowice,80,Moderate,4,Good,89,Good,91,Good,23,Moderate,2023-06-09 03:00:00
+United States of America,Hopkins,54,Moderate,3,Good,74,Good,34,Good,17,Moderate,2023-05-06 12:00:00
+Brazil,Piquete,52,Moderate,3,Good,98,Good,50,Good,17,Moderate,2023-07-01 23:00:00
+France,Luneville,38,Good,0,Good,19,Good,20,Good,1,Good,2023-12-26 01:00:00
+Poland,Pulawy,30,Good,0,Good,76,Good,98,Good,2,Good,2023-10-01 04:00:00
+Madagascar,Arivonimamo,21,Good,2,Good,56,Good,56,Good,3,Good,2023-05-29 13:00:00
+Russian Federation,Gusev,34,Good,1,Good,55,Good,3,Good,4,Good,2023-08-06 15:00:00
+India,Mundwa,212,Very Unhealthy,5,Good,42,Good,57,Good,215,Very Unhealthy,2023-05-26 05:00:00
+United States of America,Orange,51,Moderate,7,Good,28,Good,61,Good,23,Moderate,2023-05-24 08:00:00
+Afghanistan,Dawlatabad,92,Moderate,9,Good,29,Good,6,Good,29,Moderate,2023-04-24 09:00:00
+United States of America,Rosedale,42,Good,9,Good,81,Good,57,Good,6,Good,2023-07-01 14:00:00
+Brazil,Russas,28,Good,9,Good,48,Good,93,Good,4,Good,2023-08-06 01:00:00
+Pakistan,Bhopalwala,153,Unhealthy,1,Good,107,Unhealthy for Sensitive Groups,58,Good,111,Unhealthy,2023-07-02 12:00:00
+Russian Federation,Izberbash,51,Moderate,9,Good,12,Good,24,Good,19,Moderate,2023-11-22 16:00:00
+Poland,Krotoszyn,55,Moderate,1,Good,70,Good,59,Good,34,Moderate,2023-02-08 18:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,9,Good,113,Good,38,Good,3,Good,2023-01-29 16:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,14,Good,55,Moderate,14,Good,37,Unhealthy for Sensitive Groups,2023-08-05 07:00:00
+United States of America,Corsicana,47,Good,0,Good,40,Good,73,Good,8,Good,2023-12-08 04:00:00
+France,Ajaccio,44,Good,8,Good,98,Good,8,Good,6,Good,2022-01-09 14:00:00
+India,Mangaldai,64,Moderate,6,Good,87,Good,37,Good,22,Moderate,2022-07-13 07:00:00
+Brazil,Carazinho,19,Good,12,Good,65,Good,94,Good,5,Good,2022-09-03 11:00:00
+Thailand,Chumphon,41,Good,2,Good,10,Good,99,Good,5,Good,2022-07-20 19:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,12,Good,95,Moderate,59,Good,128,Unhealthy,2022-06-28 02:00:00
+France,Limeil Brevannes,73,Moderate,6,Good,21,Good,29,Good,16,Moderate,2022-08-31 18:00:00
+Italy,Porto Empedocle,65,Moderate,0,Good,40,Good,15,Good,27,Moderate,2022-10-03 10:00:00
+India,Polur,60,Moderate,5,Good,4,Good,53,Good,23,Moderate,2022-05-04 20:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,10,Good,110,Good,79,Good,53,Unhealthy for Sensitive Groups,2022-07-03 15:00:00
+France,Saint Benoit,57,Moderate,13,Good,47,Good,42,Good,23,Moderate,2022-06-25 15:00:00
+Germany,Tostedt,35,Good,6,Good,13,Good,91,Good,5,Good,2022-06-15 00:00:00
+France,Saint Sebastien Sur Loire,32,Good,3,Good,5,Good,44,Good,5,Good,2022-04-22 23:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,7,Good,30,Good,67,Good,24,Moderate,2022-05-12 23:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,8,Good,89,Good,81,Good,50,Unhealthy for Sensitive Groups,2022-04-11 12:00:00
+Italy,Trebaseleghe,78,Moderate,8,Good,95,Good,19,Good,22,Moderate,2022-04-16 05:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,0,Good,104,Good,38,Good,34,Moderate,2022-10-15 21:00:00
+Montenegro,Niksic,79,Moderate,6,Good,53,Good,30,Good,20,Moderate,2022-12-15 02:00:00
+Madagascar,Nosy Varika,25,Good,7,Good,20,Good,57,Good,9,Good,2022-01-31 20:00:00
+Spain,Martorell,36,Good,6,Good,109,Good,47,Good,10,Good,2022-10-18 12:00:00
+India,Tirur,71,Moderate,7,Good,4,Good,27,Good,34,Moderate,2022-03-19 18:00:00
+Germany,Rehburg Loccum,43,Good,2,Good,4,Good,65,Good,9,Good,2022-07-30 17:00:00
+Brazil,Vitoria Da Conquista,38,Good,2,Good,3,Good,78,Good,4,Good,2022-07-17 02:00:00
+United States of America,Fairview Heights,45,Good,11,Good,95,Good,50,Good,0,Good,2022-01-08 15:00:00
+India,Sanquelim,84,Moderate,5,Good,19,Good,91,Good,14,Moderate,2022-09-27 01:00:00
+Belgium,Soignies,49,Good,12,Good,28,Good,92,Good,9,Good,2022-12-17 06:00:00
+Brazil,Sertanopolis,36,Good,12,Good,14,Good,47,Good,6,Good,2022-03-20 13:00:00
+Cameroon,Guider,76,Moderate,9,Good,106,Good,47,Good,30,Moderate,2022-03-13 06:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,11,Good,18,Good,28,Good,44,Unhealthy for Sensitive Groups,2022-03-20 02:00:00
+United States of America,Edison,50,Good,9,Good,0,Good,38,Good,6,Good,2022-09-26 11:00:00
+Germany,Bad Langensalza,32,Good,3,Good,63,Good,1,Good,11,Good,2022-01-06 01:00:00
+France,Pessac,54,Moderate,7,Good,92,Good,67,Good,17,Moderate,2022-11-28 19:00:00
+Philippines,Katipunan,152,Unhealthy,7,Good,83,Good,63,Good,93,Unhealthy,2022-02-25 01:00:00
+Slovenia,Celje,85,Moderate,12,Good,38,Good,37,Good,15,Moderate,2022-07-14 20:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,11,Good,54,Unhealthy for Sensitive Groups,39,Good,25,Moderate,2022-09-29 13:00:00
+South Africa,Fochville,154,Unhealthy,1,Good,13,Good,60,Good,122,Unhealthy,2022-01-10 09:00:00
+Belgium,Herzele,51,Moderate,5,Good,69,Good,77,Good,29,Moderate,2022-05-22 06:00:00
+United States of America,Beeville,36,Good,6,Good,45,Good,93,Good,5,Good,2022-10-10 05:00:00
+Brazil,Varzea Alegre,22,Good,7,Good,118,Good,68,Good,12,Good,2022-05-15 05:00:00
+United States of America,Glen Allen,53,Moderate,12,Good,3,Good,10,Good,14,Moderate,2022-05-20 09:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,13,Good,80,Good,40,Good,55,Unhealthy for Sensitive Groups,2022-07-17 18:00:00
+Greece,Ioannina,69,Moderate,5,Good,65,Good,46,Good,22,Moderate,2022-12-19 09:00:00
+El Salvador,Gotera,95,Moderate,8,Good,55,Good,50,Good,15,Moderate,2022-07-02 06:00:00
+Ukraine,Chernyakhiv,56,Moderate,4,Good,17,Good,29,Good,25,Moderate,2022-05-09 17:00:00
+Spain,San Lorenzo De El Escorial,23,Good,14,Good,46,Good,10,Good,4,Good,2022-04-26 13:00:00
+Poland,Szamotuly,51,Moderate,9,Good,10,Good,81,Good,18,Moderate,2022-07-22 02:00:00
+Portugal,Lamego,25,Good,10,Good,111,Good,76,Good,10,Good,2022-05-07 12:00:00
+Italy,Bracciano,41,Good,11,Good,83,Good,48,Good,8,Good,2022-04-27 16:00:00
+United States of America,Woonsocket,42,Good,6,Good,70,Good,47,Good,6,Good,2022-08-18 23:00:00
+Panama,Panama,61,Moderate,6,Good,23,Good,28,Good,19,Moderate,2022-06-11 17:00:00
+United Republic of Tanzania,Bugarama,45,Good,12,Good,96,Good,66,Good,1,Good,2022-12-25 07:00:00
+Thailand,Phon,93,Moderate,14,Good,81,Good,30,Good,17,Moderate,2022-05-13 00:00:00
+India,Bhander,166,Unhealthy,6,Good,64,Unhealthy for Sensitive Groups,71,Good,149,Unhealthy,2022-11-29 22:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,6,Good,98,Good,52,Good,48,Unhealthy for Sensitive Groups,2022-09-20 23:00:00
+Viet Nam,Cao Bang,47,Good,4,Good,74,Good,10,Good,8,Good,2022-09-03 09:00:00
+Russian Federation,Kurskaya,40,Good,0,Good,117,Good,58,Good,9,Good,2022-02-08 14:00:00
+Brazil,Palmares,45,Good,14,Good,96,Good,34,Good,8,Good,2022-05-05 16:00:00
+India,Sidhi,162,Unhealthy,7,Good,23,Unhealthy,17,Good,133,Unhealthy,2022-07-24 04:00:00
+Myanmar,Loikaw,15,Good,14,Good,30,Good,17,Good,11,Good,2022-03-13 20:00:00
+Netherlands,Harenkarspel,38,Good,0,Good,39,Good,86,Good,4,Good,2022-07-13 02:00:00
+Lesotho,Quthing,77,Moderate,2,Good,14,Good,12,Good,29,Moderate,2022-03-26 09:00:00
+Belgium,Brugge,37,Good,4,Good,76,Good,29,Good,2,Good,2022-11-15 17:00:00
+France,Enghien Les Bains,55,Moderate,13,Good,101,Good,82,Good,22,Moderate,2022-09-05 06:00:00
+Poland,Szamotuly,51,Moderate,10,Good,93,Good,41,Good,19,Moderate,2022-07-11 11:00:00
+Poland,Zory,68,Moderate,11,Good,4,Good,3,Good,14,Moderate,2022-09-27 20:00:00
+United States of America,Taylors,58,Moderate,8,Good,48,Good,23,Good,13,Moderate,2022-04-19 00:00:00
+Brazil,Novo Cruzeiro,23,Good,6,Good,110,Good,34,Good,10,Good,2022-08-10 11:00:00
+United States of America,Berkley,85,Moderate,2,Good,42,Good,50,Good,22,Moderate,2022-10-16 20:00:00
+India,Karauli,213,Very Unhealthy,14,Good,45,Good,12,Good,243,Very Unhealthy,2022-08-01 11:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,8,Good,57,Good,31,Good,2,Good,2022-07-28 18:00:00
+Honduras,Cofradia,74,Moderate,7,Good,89,Good,92,Good,24,Moderate,2022-11-12 11:00:00
+Nigeria,Port Harcourt,179,Unhealthy,6,Good,25,Good,63,Good,135,Unhealthy,2022-04-15 05:00:00
+Russian Federation,Uzhur,33,Good,11,Good,79,Good,20,Good,3,Good,2022-04-16 11:00:00
+India,Rajur,150,Unhealthy,1,Good,21,Good,52,Good,75,Unhealthy,2022-07-13 05:00:00
+Japan,Inuyama,47,Good,0,Good,14,Good,59,Good,3,Good,2022-03-06 04:00:00
+Czechia,Pisek,66,Moderate,1,Good,59,Good,49,Good,24,Moderate,2022-12-11 12:00:00
+Netherlands,Bussum,38,Good,12,Good,102,Good,7,Good,1,Good,2022-01-18 18:00:00
+Congo,Kinkala,68,Moderate,11,Good,100,Good,43,Good,20,Moderate,2022-06-27 22:00:00
+Brazil,Barreirinha,25,Good,5,Good,98,Good,30,Good,8,Good,2022-03-07 00:00:00
+India,Bali Chak,166,Unhealthy,11,Good,2,Moderate,1,Good,122,Unhealthy,2022-06-18 18:00:00
+United States of America,South Lake Tahoe,54,Moderate,6,Good,100,Good,66,Good,21,Moderate,2022-07-23 06:00:00
+Russian Federation,Meleuz,36,Good,13,Good,15,Good,11,Good,8,Good,2022-04-22 16:00:00
+United States of America,Grand Haven,53,Moderate,8,Good,28,Good,28,Good,30,Moderate,2022-05-21 08:00:00
+Guatemala,Cubulco,77,Moderate,6,Good,88,Good,93,Good,33,Moderate,2022-04-08 22:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,11,Good,119,Good,81,Good,46,Unhealthy for Sensitive Groups,2022-05-05 23:00:00
+El Salvador,Acajutla,71,Moderate,14,Good,34,Good,51,Good,20,Moderate,2022-08-13 10:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,4,Good,45,Good,1,Good,37,Unhealthy for Sensitive Groups,2022-01-31 03:00:00
+United States of America,White Settlement,50,Good,14,Good,109,Good,10,Good,9,Good,2022-03-13 15:00:00
+United States of America,University Place,44,Good,3,Good,118,Good,1,Good,1,Good,2022-09-30 19:00:00
+Netherlands,Haaren,41,Good,2,Good,41,Good,32,Good,8,Good,2022-03-11 11:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,9,Good,95,Good,57,Good,39,Unhealthy for Sensitive Groups,2022-05-23 04:00:00
+Germany,Peine,45,Good,0,Good,25,Good,1,Good,8,Good,2022-05-16 11:00:00
+China,Suozhen,156,Unhealthy,9,Good,65,Unhealthy for Sensitive Groups,87,Good,132,Unhealthy,2022-10-18 06:00:00
+India,Handia,189,Unhealthy,8,Good,116,Moderate,41,Good,59,Unhealthy,2022-10-20 00:00:00
+Romania,Petrila,53,Moderate,6,Good,96,Good,69,Good,23,Moderate,2022-12-06 22:00:00
+Netherlands,Breukelen,35,Good,14,Good,44,Good,58,Good,1,Good,2022-12-23 11:00:00
+Pakistan,Lalian,173,Unhealthy,12,Good,25,Unhealthy for Sensitive Groups,34,Good,118,Unhealthy,2022-05-29 13:00:00
+Italy,Villa Literno,49,Good,9,Good,82,Good,71,Good,3,Good,2022-10-24 22:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,2,Good,23,Good,52,Good,40,Unhealthy for Sensitive Groups,2022-12-18 22:00:00
+Germany,Hagen,30,Good,6,Good,73,Good,44,Good,12,Good,2022-10-25 21:00:00
+Bulgaria,Kazanlak,56,Moderate,2,Good,49,Good,85,Good,17,Moderate,2022-02-02 09:00:00
+Italy,Trezzo,59,Moderate,13,Good,36,Good,56,Good,19,Moderate,2022-06-15 14:00:00
+India,Harpalpur,167,Unhealthy,5,Good,119,Unhealthy for Sensitive Groups,91,Good,124,Unhealthy,2022-07-20 07:00:00
+United States of America,Little Rock,68,Moderate,3,Good,107,Good,52,Good,16,Moderate,2022-09-22 10:00:00
+Italy,Roncade,52,Moderate,6,Good,113,Good,51,Good,30,Moderate,2022-06-16 10:00:00
+India,Handia,189,Unhealthy,1,Good,62,Moderate,78,Good,64,Unhealthy,2022-09-19 11:00:00
+Brazil,Guapiacu,57,Moderate,11,Good,20,Good,67,Good,24,Moderate,2022-04-01 01:00:00
+India,Narnaund,152,Unhealthy,10,Good,27,Unhealthy for Sensitive Groups,49,Good,88,Unhealthy,2022-06-19 18:00:00
+Germany,Hameln,37,Good,1,Good,59,Good,3,Good,8,Good,2022-06-24 02:00:00
+United Republic of Tanzania,Kilindoni,36,Good,4,Good,116,Good,88,Good,2,Good,2022-01-05 10:00:00
+Croatia,Vukovar,69,Moderate,3,Good,69,Good,54,Good,15,Moderate,2022-05-28 05:00:00
+Germany,Erlenbach,35,Good,3,Good,69,Good,62,Good,10,Good,2022-10-09 14:00:00
+India,Baramula,152,Unhealthy,8,Good,10,Good,94,Good,96,Unhealthy,2022-12-03 05:00:00
+Paraguay,Asuncion,26,Good,7,Good,98,Good,25,Good,8,Good,2022-10-01 06:00:00
+Japan,Nobeoka,40,Good,10,Good,20,Good,73,Good,10,Good,2022-03-27 23:00:00
+Germany,Cadolzburg,64,Moderate,1,Good,108,Moderate,98,Good,16,Moderate,2022-11-03 19:00:00
+Philippines,Calatagan,50,Good,2,Good,95,Good,96,Good,10,Good,2022-08-22 02:00:00
+India,Shahpura,169,Unhealthy,12,Good,114,Good,28,Good,105,Unhealthy,2022-11-24 23:00:00
+United States of America,Takoma Park,47,Good,12,Good,52,Good,81,Good,0,Good,2022-02-17 01:00:00
+Mexico,Cuautepec,160,Unhealthy,6,Good,85,Good,78,Good,140,Unhealthy,2022-09-18 20:00:00
+United Republic of Tanzania,Maswa,24,Good,9,Good,41,Good,52,Good,9,Good,2022-08-15 03:00:00
+France,Coudekerque Branche,44,Good,7,Good,30,Good,4,Good,3,Good,2022-07-08 09:00:00
+Belgium,Temse,42,Good,0,Good,21,Good,93,Good,7,Good,2022-01-22 12:00:00
+India,Dahanu,76,Moderate,0,Good,33,Good,35,Good,21,Moderate,2022-08-17 18:00:00
+Japan,Yoshii,69,Moderate,3,Good,11,Good,2,Good,22,Moderate,2022-06-24 13:00:00
+United States of America,Rome,67,Moderate,8,Good,86,Good,22,Good,33,Moderate,2022-05-29 22:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,13,Good,80,Good,9,Good,45,Unhealthy for Sensitive Groups,2022-01-29 11:00:00
+Colombia,Soata,26,Good,6,Good,3,Good,7,Good,11,Good,2022-08-23 13:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,13,Good,16,Good,52,Good,6,Good,2022-09-14 20:00:00
+Lesotho,Quthing,77,Moderate,2,Good,108,Good,98,Good,15,Moderate,2022-05-13 04:00:00
+Italy,Racconigi,73,Moderate,13,Good,43,Good,82,Good,33,Moderate,2022-02-15 08:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,6,Good,0,Good,89,Good,8,Good,2022-04-26 23:00:00
+Netherlands,Sint Oedenrode,38,Good,7,Good,9,Good,19,Good,1,Good,2022-10-08 08:00:00
+Italy,Porto Empedocle,65,Moderate,14,Good,73,Good,97,Good,15,Moderate,2022-12-22 18:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,13,Good,106,Good,90,Good,5,Good,2022-09-12 22:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,0,Good,52,Unhealthy,13,Good,159,Very Unhealthy,2022-06-04 03:00:00
+Poland,Sulecin,55,Moderate,7,Good,111,Good,89,Good,35,Moderate,2022-06-08 20:00:00
+Japan,Yatsuo,43,Good,3,Good,117,Good,90,Good,5,Good,2022-12-31 03:00:00
+Germany,Lilienthal,65,Moderate,5,Good,92,Good,69,Good,25,Moderate,2022-09-21 00:00:00
+India,Karauli,213,Very Unhealthy,7,Good,22,Good,80,Good,202,Very Unhealthy,2022-11-28 08:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,2,Good,53,Good,83,Good,17,Moderate,2022-06-19 16:00:00
+Germany,Goslar,38,Good,10,Good,99,Good,35,Good,4,Good,2022-07-16 18:00:00
+India,Hangal,70,Moderate,5,Good,3,Good,35,Good,28,Moderate,2022-09-28 13:00:00
+India,Sardhana,160,Unhealthy,4,Good,25,Unhealthy for Sensitive Groups,36,Good,87,Unhealthy,2022-01-20 21:00:00
+Japan,Hitoyoshi,52,Moderate,7,Good,84,Good,64,Good,13,Moderate,2022-01-13 05:00:00
+Germany,Bremen,66,Moderate,14,Good,4,Good,91,Good,28,Moderate,2022-03-10 19:00:00
+United States of America,Taylors,58,Moderate,10,Good,2,Good,97,Good,25,Moderate,2022-02-16 22:00:00
+Russian Federation,Gorkovskiy,38,Good,2,Good,53,Good,61,Good,12,Good,2022-09-03 04:00:00
+China,Beibei,166,Unhealthy,13,Good,96,Moderate,84,Good,87,Unhealthy,2022-05-18 17:00:00
+Spain,Huesca,37,Good,5,Good,65,Good,80,Good,10,Good,2022-12-17 11:00:00
+Ghana,Nsawam,28,Good,10,Good,77,Good,33,Good,9,Good,2022-09-21 11:00:00
+Pakistan,Sarhari,165,Unhealthy,10,Good,32,Good,18,Good,138,Unhealthy,2022-11-26 18:00:00
+United States of America,Ledyard,41,Good,1,Good,24,Good,3,Good,5,Good,2022-11-10 21:00:00
+Germany,Kall,58,Moderate,5,Good,113,Good,77,Good,34,Moderate,2022-07-17 00:00:00
+Kazakhstan,Ilyich,161,Unhealthy,5,Good,45,Moderate,69,Good,96,Unhealthy,2022-04-21 10:00:00
+India,Phulabani,161,Unhealthy,9,Good,43,Moderate,34,Good,124,Unhealthy,2022-07-15 10:00:00
+India,Kodumudi,71,Moderate,3,Good,1,Good,63,Good,34,Moderate,2022-05-12 20:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,9,Good,105,Good,7,Good,37,Unhealthy for Sensitive Groups,2022-04-14 23:00:00
+Russian Federation,Korkino,34,Good,0,Good,96,Good,60,Good,8,Good,2022-02-10 10:00:00
+France,Epernay,53,Moderate,6,Good,77,Good,52,Good,13,Moderate,2022-02-13 04:00:00
+United States of America,Wayland,47,Good,10,Good,43,Good,83,Good,7,Good,2022-10-31 19:00:00
+Chile,Curico,93,Moderate,4,Good,36,Good,82,Good,19,Moderate,2022-07-06 21:00:00
+France,Septemes Les Vallons,31,Good,8,Good,25,Good,77,Good,0,Good,2022-10-19 11:00:00
+Myanmar,Taunggyi,39,Good,7,Good,61,Good,55,Good,11,Good,2022-04-08 15:00:00
+United Republic of Tanzania,Kisesa,24,Good,4,Good,76,Good,83,Good,4,Good,2022-04-28 20:00:00
+India,Manohar Thana,168,Unhealthy,3,Good,118,Good,46,Good,72,Unhealthy,2022-01-22 20:00:00
+United States of America,Lompoc,38,Good,6,Good,111,Good,78,Good,2,Good,2022-05-31 04:00:00
+Russian Federation,Cherdakly,51,Moderate,8,Good,116,Good,72,Good,34,Moderate,2022-02-06 14:00:00
+France,Levallois Perret,70,Moderate,9,Good,15,Good,16,Good,13,Moderate,2022-08-22 22:00:00
+France,Epernay,53,Moderate,6,Good,47,Good,68,Good,13,Moderate,2022-10-27 05:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,8,Good,65,Good,43,Good,102,Unhealthy,2022-10-17 16:00:00
+Japan,Inuyama,47,Good,14,Good,2,Good,41,Good,3,Good,2022-01-27 02:00:00
+Hungary,Tata,66,Moderate,3,Good,101,Good,66,Good,24,Moderate,2022-11-15 08:00:00
+Germany,Wehr,94,Moderate,10,Good,64,Good,76,Good,26,Moderate,2022-08-24 12:00:00
+Brazil,Iguaba Grande,61,Moderate,10,Good,87,Good,29,Good,33,Moderate,2022-07-07 03:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,4,Good,0,Good,31,Good,22,Moderate,2022-05-03 23:00:00
+Belgium,De Pinte,36,Good,8,Good,109,Good,79,Good,0,Good,2022-04-03 08:00:00
+Brazil,Caririacu,27,Good,0,Good,32,Good,81,Good,12,Good,2022-01-01 07:00:00
+United States of America,Shawnee,95,Moderate,14,Good,8,Good,0,Good,32,Moderate,2022-03-03 07:00:00
+India,Neyveli,61,Moderate,6,Good,1,Good,92,Good,33,Moderate,2022-01-18 01:00:00
+United States of America,Beeville,36,Good,5,Good,117,Good,87,Good,5,Good,2022-11-12 20:00:00
+France,Levallois Perret,70,Moderate,11,Good,56,Good,97,Good,15,Moderate,2022-05-29 00:00:00
+United States of America,Rock Springs,22,Good,10,Good,77,Good,27,Good,9,Good,2022-07-08 06:00:00
+Poland,Katowice,80,Moderate,12,Good,52,Good,82,Good,34,Moderate,2022-10-24 21:00:00
+United States of America,Hopkins,54,Moderate,9,Good,49,Good,91,Good,34,Moderate,2022-02-09 05:00:00
+Brazil,Piquete,52,Moderate,2,Good,93,Good,29,Good,29,Moderate,2022-10-25 12:00:00
+France,Luneville,38,Good,13,Good,117,Good,46,Good,11,Good,2022-05-26 22:00:00
+Poland,Pulawy,30,Good,5,Good,68,Good,18,Good,1,Good,2022-12-15 10:00:00
+Madagascar,Arivonimamo,21,Good,14,Good,74,Good,29,Good,4,Good,2022-10-13 04:00:00
+Russian Federation,Gusev,34,Good,4,Good,80,Good,30,Good,3,Good,2022-01-08 05:00:00
+India,Mundwa,212,Very Unhealthy,2,Good,70,Good,28,Good,188,Very Unhealthy,2022-12-05 04:00:00
+United States of America,Orange,51,Moderate,12,Good,59,Good,26,Good,34,Moderate,2022-10-06 20:00:00
+Afghanistan,Dawlatabad,92,Moderate,9,Good,105,Good,92,Good,31,Moderate,2022-12-26 12:00:00
+United States of America,Rosedale,42,Good,3,Good,31,Good,16,Good,7,Good,2022-10-20 01:00:00
+Brazil,Russas,28,Good,0,Good,75,Good,70,Good,11,Good,2022-11-18 23:00:00
+Pakistan,Bhopalwala,153,Unhealthy,2,Good,112,Unhealthy for Sensitive Groups,27,Good,116,Unhealthy,2022-06-04 04:00:00
+Russian Federation,Izberbash,51,Moderate,7,Good,66,Good,85,Good,16,Moderate,2022-03-28 01:00:00
+Poland,Krotoszyn,55,Moderate,9,Good,2,Good,66,Good,19,Moderate,2022-10-07 00:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,3,Good,16,Good,59,Good,3,Good,2022-05-31 13:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,11,Good,11,Moderate,27,Good,51,Unhealthy for Sensitive Groups,2022-11-21 13:00:00
+United States of America,Corsicana,47,Good,1,Good,110,Good,25,Good,0,Good,2022-10-30 11:00:00
+France,Ajaccio,44,Good,1,Good,33,Good,50,Good,7,Good,2021-07-27 10:00:00
+India,Mangaldai,64,Moderate,10,Good,12,Good,66,Good,13,Moderate,2021-04-10 03:00:00
+Brazil,Carazinho,19,Good,4,Good,109,Good,36,Good,6,Good,2021-07-23 07:00:00
+Thailand,Chumphon,41,Good,4,Good,23,Good,94,Good,5,Good,2021-09-08 13:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,12,Good,52,Moderate,30,Good,82,Unhealthy,2021-04-23 12:00:00
+France,Limeil Brevannes,73,Moderate,14,Good,87,Good,41,Good,28,Moderate,2021-02-23 13:00:00
+Italy,Porto Empedocle,65,Moderate,10,Good,11,Good,90,Good,27,Moderate,2021-10-24 23:00:00
+India,Polur,60,Moderate,13,Good,58,Good,72,Good,28,Moderate,2021-08-22 23:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,7,Good,41,Good,17,Good,44,Unhealthy for Sensitive Groups,2021-10-22 16:00:00
+France,Saint Benoit,57,Moderate,7,Good,35,Good,54,Good,33,Moderate,2021-08-08 22:00:00
+Germany,Tostedt,35,Good,10,Good,40,Good,19,Good,11,Good,2021-05-19 15:00:00
+France,Saint Sebastien Sur Loire,32,Good,3,Good,13,Good,2,Good,8,Good,2021-09-24 11:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,9,Good,116,Good,45,Good,24,Moderate,2021-04-28 11:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,6,Good,39,Good,8,Good,40,Unhealthy for Sensitive Groups,2021-09-01 21:00:00
+Italy,Trebaseleghe,78,Moderate,3,Good,33,Good,9,Good,25,Moderate,2021-12-14 20:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,0,Good,108,Good,3,Good,33,Moderate,2021-02-25 12:00:00
+Montenegro,Niksic,79,Moderate,2,Good,81,Good,71,Good,23,Moderate,2021-06-04 16:00:00
+Madagascar,Nosy Varika,25,Good,5,Good,37,Good,41,Good,2,Good,2021-02-19 11:00:00
+Spain,Martorell,36,Good,5,Good,24,Good,91,Good,12,Good,2021-12-22 04:00:00
+India,Tirur,71,Moderate,12,Good,16,Good,62,Good,24,Moderate,2021-09-30 14:00:00
+Germany,Rehburg Loccum,43,Good,11,Good,90,Good,54,Good,0,Good,2021-01-24 03:00:00
+Brazil,Vitoria Da Conquista,38,Good,2,Good,117,Good,34,Good,4,Good,2021-02-13 21:00:00
+United States of America,Fairview Heights,45,Good,11,Good,4,Good,8,Good,1,Good,2021-03-05 02:00:00
+India,Sanquelim,84,Moderate,2,Good,43,Good,65,Good,29,Moderate,2021-03-24 09:00:00
+Belgium,Soignies,49,Good,6,Good,24,Good,54,Good,10,Good,2021-12-03 17:00:00
+Brazil,Sertanopolis,36,Good,10,Good,93,Good,48,Good,3,Good,2021-07-03 19:00:00
+Cameroon,Guider,76,Moderate,14,Good,39,Good,57,Good,26,Moderate,2021-01-06 13:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,7,Good,112,Good,85,Good,36,Unhealthy for Sensitive Groups,2021-04-15 12:00:00
+United States of America,Edison,50,Good,14,Good,25,Good,31,Good,9,Good,2021-09-18 18:00:00
+Germany,Bad Langensalza,32,Good,6,Good,84,Good,65,Good,8,Good,2021-07-15 21:00:00
+France,Pessac,54,Moderate,11,Good,2,Good,5,Good,18,Moderate,2021-09-04 15:00:00
+Philippines,Katipunan,152,Unhealthy,13,Good,66,Good,67,Good,142,Unhealthy,2021-10-04 19:00:00
+Slovenia,Celje,85,Moderate,13,Good,21,Good,89,Good,28,Moderate,2021-05-23 21:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,4,Good,74,Unhealthy for Sensitive Groups,18,Good,18,Moderate,2021-01-29 01:00:00
+South Africa,Fochville,154,Unhealthy,8,Good,24,Good,98,Good,102,Unhealthy,2021-04-27 22:00:00
+Belgium,Herzele,51,Moderate,8,Good,94,Good,93,Good,31,Moderate,2021-12-02 01:00:00
+United States of America,Beeville,36,Good,8,Good,48,Good,73,Good,5,Good,2021-02-24 11:00:00
+Brazil,Varzea Alegre,22,Good,14,Good,108,Good,7,Good,1,Good,2021-09-25 12:00:00
+United States of America,Glen Allen,53,Moderate,5,Good,32,Good,64,Good,25,Moderate,2021-05-16 16:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,1,Good,102,Good,50,Good,54,Unhealthy for Sensitive Groups,2021-07-05 06:00:00
+Greece,Ioannina,69,Moderate,13,Good,24,Good,5,Good,33,Moderate,2021-05-31 06:00:00
+El Salvador,Gotera,95,Moderate,4,Good,49,Good,71,Good,31,Moderate,2021-04-18 13:00:00
+Ukraine,Chernyakhiv,56,Moderate,0,Good,67,Good,8,Good,31,Moderate,2021-03-27 20:00:00
+Spain,San Lorenzo De El Escorial,23,Good,13,Good,41,Good,48,Good,10,Good,2021-03-19 07:00:00
+Poland,Szamotuly,51,Moderate,3,Good,20,Good,32,Good,21,Moderate,2021-05-05 19:00:00
+Portugal,Lamego,25,Good,12,Good,57,Good,76,Good,5,Good,2021-12-08 15:00:00
+Italy,Bracciano,41,Good,4,Good,60,Good,9,Good,4,Good,2021-12-21 04:00:00
+United States of America,Woonsocket,42,Good,6,Good,61,Good,67,Good,10,Good,2021-05-05 21:00:00
+Panama,Panama,61,Moderate,4,Good,107,Good,29,Good,33,Moderate,2021-03-15 01:00:00
+United Republic of Tanzania,Bugarama,45,Good,5,Good,24,Good,34,Good,4,Good,2021-12-24 13:00:00
+Thailand,Phon,93,Moderate,2,Good,47,Good,84,Good,25,Moderate,2021-09-11 23:00:00
+India,Bhander,166,Unhealthy,11,Good,51,Unhealthy for Sensitive Groups,46,Good,67,Unhealthy,2021-04-04 04:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,2,Good,38,Good,0,Good,50,Unhealthy for Sensitive Groups,2021-11-06 05:00:00
+Viet Nam,Cao Bang,47,Good,8,Good,1,Good,86,Good,1,Good,2021-04-25 19:00:00
+Russian Federation,Kurskaya,40,Good,7,Good,105,Good,25,Good,11,Good,2021-10-05 16:00:00
+Brazil,Palmares,45,Good,0,Good,56,Good,24,Good,4,Good,2021-03-12 11:00:00
+India,Sidhi,162,Unhealthy,12,Good,72,Unhealthy,98,Good,122,Unhealthy,2021-08-23 06:00:00
+Myanmar,Loikaw,15,Good,10,Good,85,Good,67,Good,1,Good,2021-11-06 08:00:00
+Netherlands,Harenkarspel,38,Good,12,Good,28,Good,90,Good,0,Good,2021-10-27 14:00:00
+Lesotho,Quthing,77,Moderate,0,Good,118,Good,46,Good,20,Moderate,2021-09-10 21:00:00
+Belgium,Brugge,37,Good,1,Good,31,Good,27,Good,3,Good,2021-07-04 04:00:00
+France,Enghien Les Bains,55,Moderate,13,Good,50,Good,61,Good,22,Moderate,2021-06-15 15:00:00
+Poland,Szamotuly,51,Moderate,0,Good,41,Good,22,Good,16,Moderate,2021-08-26 07:00:00
+Poland,Zory,68,Moderate,7,Good,119,Good,55,Good,30,Moderate,2021-07-02 22:00:00
+United States of America,Taylors,58,Moderate,3,Good,105,Good,84,Good,26,Moderate,2021-07-29 17:00:00
+Brazil,Novo Cruzeiro,23,Good,13,Good,50,Good,47,Good,11,Good,2021-04-14 22:00:00
+United States of America,Berkley,85,Moderate,6,Good,14,Good,35,Good,33,Moderate,2021-02-08 13:00:00
+India,Karauli,213,Very Unhealthy,14,Good,95,Good,42,Good,181,Very Unhealthy,2021-02-27 00:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,11,Good,9,Good,78,Good,12,Good,2021-09-20 11:00:00
+Honduras,Cofradia,74,Moderate,2,Good,74,Good,46,Good,35,Moderate,2021-10-27 08:00:00
+Nigeria,Port Harcourt,179,Unhealthy,6,Good,72,Good,13,Good,137,Unhealthy,2021-05-23 19:00:00
+Russian Federation,Uzhur,33,Good,7,Good,0,Good,48,Good,4,Good,2021-06-08 06:00:00
+India,Rajur,150,Unhealthy,6,Good,47,Good,69,Good,103,Unhealthy,2021-06-23 09:00:00
+Japan,Inuyama,47,Good,6,Good,7,Good,0,Good,12,Good,2021-01-17 09:00:00
+Czechia,Pisek,66,Moderate,8,Good,59,Good,56,Good,14,Moderate,2021-04-22 07:00:00
+Netherlands,Bussum,38,Good,9,Good,4,Good,30,Good,5,Good,2021-12-03 00:00:00
+Congo,Kinkala,68,Moderate,5,Good,99,Good,62,Good,25,Moderate,2021-12-23 02:00:00
+Brazil,Barreirinha,25,Good,2,Good,90,Good,33,Good,3,Good,2021-05-24 19:00:00
+India,Bali Chak,166,Unhealthy,9,Good,79,Moderate,91,Good,140,Unhealthy,2021-06-20 21:00:00
+United States of America,South Lake Tahoe,54,Moderate,0,Good,50,Good,94,Good,20,Moderate,2021-12-28 12:00:00
+Russian Federation,Meleuz,36,Good,14,Good,7,Good,23,Good,12,Good,2021-03-17 17:00:00
+United States of America,Grand Haven,53,Moderate,14,Good,39,Good,7,Good,33,Moderate,2021-07-25 21:00:00
+Guatemala,Cubulco,77,Moderate,12,Good,94,Good,43,Good,24,Moderate,2021-08-21 19:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,4,Good,17,Good,36,Good,38,Unhealthy for Sensitive Groups,2021-04-05 11:00:00
+El Salvador,Acajutla,71,Moderate,8,Good,93,Good,58,Good,33,Moderate,2021-04-01 20:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,12,Good,12,Good,11,Good,55,Unhealthy for Sensitive Groups,2021-09-12 08:00:00
+United States of America,White Settlement,50,Good,12,Good,28,Good,76,Good,4,Good,2021-10-12 13:00:00
+United States of America,University Place,44,Good,1,Good,88,Good,84,Good,7,Good,2021-08-05 08:00:00
+Netherlands,Haaren,41,Good,13,Good,33,Good,90,Good,3,Good,2021-03-13 10:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,2,Good,69,Good,42,Good,39,Unhealthy for Sensitive Groups,2021-05-09 13:00:00
+Germany,Peine,45,Good,1,Good,50,Good,0,Good,3,Good,2021-01-06 00:00:00
+China,Suozhen,156,Unhealthy,0,Good,102,Unhealthy for Sensitive Groups,67,Good,111,Unhealthy,2021-10-22 18:00:00
+India,Handia,189,Unhealthy,0,Good,50,Moderate,67,Good,95,Unhealthy,2021-03-23 18:00:00
+Romania,Petrila,53,Moderate,10,Good,10,Good,74,Good,30,Moderate,2021-08-18 01:00:00
+Netherlands,Breukelen,35,Good,12,Good,15,Good,49,Good,6,Good,2021-09-15 03:00:00
+Pakistan,Lalian,173,Unhealthy,2,Good,74,Unhealthy for Sensitive Groups,1,Good,117,Unhealthy,2021-01-09 20:00:00
+Italy,Villa Literno,49,Good,11,Good,30,Good,78,Good,12,Good,2021-10-06 01:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,6,Good,85,Good,60,Good,50,Unhealthy for Sensitive Groups,2021-04-17 21:00:00
+Germany,Hagen,30,Good,10,Good,22,Good,44,Good,7,Good,2021-02-05 13:00:00
+Bulgaria,Kazanlak,56,Moderate,7,Good,25,Good,9,Good,31,Moderate,2021-11-11 05:00:00
+Italy,Trezzo,59,Moderate,6,Good,61,Good,42,Good,16,Moderate,2021-06-21 12:00:00
+India,Harpalpur,167,Unhealthy,4,Good,11,Unhealthy for Sensitive Groups,18,Good,112,Unhealthy,2021-03-18 15:00:00
+United States of America,Little Rock,68,Moderate,6,Good,55,Good,71,Good,35,Moderate,2021-12-21 00:00:00
+Italy,Roncade,52,Moderate,13,Good,101,Good,28,Good,28,Moderate,2021-07-29 18:00:00
+India,Handia,189,Unhealthy,2,Good,92,Moderate,16,Good,102,Unhealthy,2021-08-11 20:00:00
+Brazil,Guapiacu,57,Moderate,12,Good,40,Good,83,Good,14,Moderate,2021-03-19 11:00:00
+India,Narnaund,152,Unhealthy,11,Good,13,Unhealthy for Sensitive Groups,60,Good,87,Unhealthy,2021-03-03 10:00:00
+Germany,Hameln,37,Good,0,Good,10,Good,79,Good,9,Good,2021-03-01 10:00:00
+United Republic of Tanzania,Kilindoni,36,Good,3,Good,64,Good,46,Good,8,Good,2021-11-27 14:00:00
+Croatia,Vukovar,69,Moderate,7,Good,61,Good,81,Good,27,Moderate,2021-10-01 00:00:00
+Germany,Erlenbach,35,Good,7,Good,70,Good,93,Good,6,Good,2021-11-19 03:00:00
+India,Baramula,152,Unhealthy,9,Good,8,Good,76,Good,119,Unhealthy,2021-10-12 04:00:00
+Paraguay,Asuncion,26,Good,10,Good,68,Good,31,Good,12,Good,2021-06-21 06:00:00
+Japan,Nobeoka,40,Good,12,Good,7,Good,19,Good,12,Good,2021-04-28 20:00:00
+Germany,Cadolzburg,64,Moderate,7,Good,54,Moderate,6,Good,29,Moderate,2021-12-18 09:00:00
+Philippines,Calatagan,50,Good,6,Good,118,Good,36,Good,6,Good,2021-03-21 21:00:00
+India,Shahpura,169,Unhealthy,7,Good,12,Good,13,Good,104,Unhealthy,2021-03-26 21:00:00
+United States of America,Takoma Park,47,Good,0,Good,104,Good,37,Good,5,Good,2021-09-05 10:00:00
+Mexico,Cuautepec,160,Unhealthy,13,Good,9,Good,17,Good,108,Unhealthy,2021-03-27 10:00:00
+United Republic of Tanzania,Maswa,24,Good,0,Good,29,Good,77,Good,9,Good,2021-08-27 11:00:00
+France,Coudekerque Branche,44,Good,9,Good,20,Good,29,Good,10,Good,2021-10-26 06:00:00
+Belgium,Temse,42,Good,6,Good,10,Good,87,Good,12,Good,2021-06-03 16:00:00
+India,Dahanu,76,Moderate,10,Good,66,Good,91,Good,21,Moderate,2021-02-06 17:00:00
+Japan,Yoshii,69,Moderate,10,Good,111,Good,87,Good,32,Moderate,2021-05-24 07:00:00
+United States of America,Rome,67,Moderate,8,Good,117,Good,19,Good,30,Moderate,2021-08-23 22:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,6,Good,25,Good,40,Good,54,Unhealthy for Sensitive Groups,2021-05-03 08:00:00
+Colombia,Soata,26,Good,12,Good,28,Good,58,Good,11,Good,2021-06-02 18:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,10,Good,3,Good,91,Good,5,Good,2021-12-08 20:00:00
+Lesotho,Quthing,77,Moderate,8,Good,4,Good,59,Good,28,Moderate,2021-04-25 03:00:00
+Italy,Racconigi,73,Moderate,0,Good,108,Good,98,Good,14,Moderate,2021-02-14 14:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,0,Good,40,Good,30,Good,11,Good,2021-09-10 23:00:00
+Netherlands,Sint Oedenrode,38,Good,4,Good,64,Good,71,Good,3,Good,2021-07-12 08:00:00
+Italy,Porto Empedocle,65,Moderate,2,Good,107,Good,90,Good,24,Moderate,2021-11-08 19:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,3,Good,119,Good,45,Good,1,Good,2021-01-12 04:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,2,Good,58,Unhealthy,61,Good,238,Very Unhealthy,2021-03-27 21:00:00
+Poland,Sulecin,55,Moderate,4,Good,114,Good,55,Good,29,Moderate,2021-02-16 06:00:00
+Japan,Yatsuo,43,Good,13,Good,78,Good,53,Good,3,Good,2021-01-29 18:00:00
+Germany,Lilienthal,65,Moderate,9,Good,33,Good,9,Good,32,Moderate,2021-02-18 09:00:00
+India,Karauli,213,Very Unhealthy,5,Good,63,Good,81,Good,164,Very Unhealthy,2021-03-14 13:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,11,Good,16,Good,28,Good,35,Moderate,2021-12-24 12:00:00
+Germany,Goslar,38,Good,11,Good,118,Good,60,Good,9,Good,2021-01-11 08:00:00
+India,Hangal,70,Moderate,0,Good,33,Good,82,Good,22,Moderate,2021-02-18 00:00:00
+India,Sardhana,160,Unhealthy,11,Good,44,Unhealthy for Sensitive Groups,86,Good,126,Unhealthy,2021-04-29 01:00:00
+Japan,Hitoyoshi,52,Moderate,1,Good,34,Good,76,Good,35,Moderate,2021-02-07 12:00:00
+Germany,Bremen,66,Moderate,10,Good,34,Good,70,Good,19,Moderate,2021-12-27 08:00:00
+United States of America,Taylors,58,Moderate,14,Good,1,Good,95,Good,24,Moderate,2021-10-30 09:00:00
+Russian Federation,Gorkovskiy,38,Good,9,Good,58,Good,15,Good,4,Good,2021-06-12 18:00:00
+China,Beibei,166,Unhealthy,10,Good,56,Moderate,82,Good,117,Unhealthy,2021-11-14 21:00:00
+Spain,Huesca,37,Good,5,Good,34,Good,7,Good,4,Good,2021-12-17 03:00:00
+Ghana,Nsawam,28,Good,8,Good,47,Good,12,Good,5,Good,2021-08-22 21:00:00
+Pakistan,Sarhari,165,Unhealthy,14,Good,65,Good,41,Good,143,Unhealthy,2021-12-31 23:00:00
+United States of America,Ledyard,41,Good,10,Good,103,Good,90,Good,3,Good,2021-06-16 03:00:00
+Germany,Kall,58,Moderate,2,Good,1,Good,95,Good,25,Moderate,2021-02-27 12:00:00
+Kazakhstan,Ilyich,161,Unhealthy,0,Good,71,Moderate,14,Good,66,Unhealthy,2021-07-29 20:00:00
+India,Phulabani,161,Unhealthy,2,Good,107,Moderate,4,Good,66,Unhealthy,2021-03-12 16:00:00
+India,Kodumudi,71,Moderate,11,Good,50,Good,65,Good,22,Moderate,2021-04-21 02:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,4,Good,50,Good,87,Good,42,Unhealthy for Sensitive Groups,2021-11-15 00:00:00
+Russian Federation,Korkino,34,Good,3,Good,34,Good,83,Good,9,Good,2021-08-09 11:00:00
+France,Epernay,53,Moderate,10,Good,82,Good,8,Good,26,Moderate,2021-06-24 23:00:00
+United States of America,Wayland,47,Good,10,Good,32,Good,50,Good,6,Good,2021-08-15 13:00:00
+Chile,Curico,93,Moderate,5,Good,58,Good,92,Good,20,Moderate,2021-08-15 18:00:00
+France,Septemes Les Vallons,31,Good,1,Good,63,Good,41,Good,9,Good,2021-06-05 02:00:00
+Myanmar,Taunggyi,39,Good,0,Good,106,Good,97,Good,11,Good,2021-10-14 05:00:00
+United Republic of Tanzania,Kisesa,24,Good,8,Good,95,Good,78,Good,7,Good,2021-11-16 05:00:00
+India,Manohar Thana,168,Unhealthy,1,Good,20,Good,67,Good,60,Unhealthy,2021-06-06 10:00:00
+United States of America,Lompoc,38,Good,13,Good,39,Good,68,Good,12,Good,2021-08-31 05:00:00
+Russian Federation,Cherdakly,51,Moderate,4,Good,14,Good,83,Good,33,Moderate,2021-03-06 21:00:00
+France,Levallois Perret,70,Moderate,13,Good,37,Good,53,Good,23,Moderate,2021-09-15 02:00:00
+France,Epernay,53,Moderate,12,Good,75,Good,28,Good,18,Moderate,2021-11-27 20:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,1,Good,89,Good,77,Good,126,Unhealthy,2021-06-18 01:00:00
+Japan,Inuyama,47,Good,2,Good,64,Good,47,Good,11,Good,2021-07-07 19:00:00
+Hungary,Tata,66,Moderate,5,Good,34,Good,45,Good,26,Moderate,2021-08-26 15:00:00
+Germany,Wehr,94,Moderate,9,Good,42,Good,36,Good,20,Moderate,2021-02-09 17:00:00
+Brazil,Iguaba Grande,61,Moderate,2,Good,88,Good,19,Good,15,Moderate,2021-10-16 03:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,1,Good,17,Good,6,Good,25,Moderate,2021-12-11 22:00:00
+Belgium,De Pinte,36,Good,11,Good,100,Good,75,Good,3,Good,2021-07-04 20:00:00
+Brazil,Caririacu,27,Good,6,Good,18,Good,24,Good,9,Good,2021-01-07 23:00:00
+United States of America,Shawnee,95,Moderate,11,Good,18,Good,37,Good,28,Moderate,2021-02-14 03:00:00
+India,Neyveli,61,Moderate,4,Good,111,Good,77,Good,28,Moderate,2021-10-18 08:00:00
+United States of America,Beeville,36,Good,4,Good,58,Good,60,Good,1,Good,2021-06-11 14:00:00
+France,Levallois Perret,70,Moderate,8,Good,33,Good,69,Good,18,Moderate,2021-09-30 21:00:00
+United States of America,Rock Springs,22,Good,8,Good,114,Good,8,Good,7,Good,2021-06-21 03:00:00
+Poland,Katowice,80,Moderate,8,Good,78,Good,35,Good,21,Moderate,2021-04-21 05:00:00
+United States of America,Hopkins,54,Moderate,6,Good,74,Good,88,Good,16,Moderate,2021-07-08 09:00:00
+Brazil,Piquete,52,Moderate,6,Good,93,Good,2,Good,20,Moderate,2021-12-13 16:00:00
+France,Luneville,38,Good,6,Good,7,Good,85,Good,7,Good,2021-06-17 02:00:00
+Poland,Pulawy,30,Good,1,Good,48,Good,84,Good,10,Good,2021-03-03 21:00:00
+Madagascar,Arivonimamo,21,Good,8,Good,110,Good,3,Good,8,Good,2021-02-23 11:00:00
+Russian Federation,Gusev,34,Good,6,Good,83,Good,34,Good,6,Good,2021-05-11 16:00:00
+India,Mundwa,212,Very Unhealthy,7,Good,67,Good,73,Good,217,Very Unhealthy,2021-11-09 22:00:00
+United States of America,Orange,51,Moderate,10,Good,91,Good,78,Good,35,Moderate,2021-01-20 16:00:00
+Afghanistan,Dawlatabad,92,Moderate,1,Good,112,Good,96,Good,13,Moderate,2021-02-27 02:00:00
+United States of America,Rosedale,42,Good,14,Good,13,Good,89,Good,4,Good,2021-06-15 05:00:00
+Brazil,Russas,28,Good,9,Good,25,Good,76,Good,5,Good,2021-10-06 00:00:00
+Pakistan,Bhopalwala,153,Unhealthy,10,Good,60,Unhealthy for Sensitive Groups,1,Good,92,Unhealthy,2021-11-13 02:00:00
+Russian Federation,Izberbash,51,Moderate,12,Good,56,Good,21,Good,22,Moderate,2021-07-02 16:00:00
+Poland,Krotoszyn,55,Moderate,3,Good,24,Good,47,Good,17,Moderate,2021-07-06 10:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,0,Good,100,Good,2,Good,10,Good,2021-01-18 08:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,4,Good,70,Moderate,29,Good,46,Unhealthy for Sensitive Groups,2021-03-25 00:00:00
+United States of America,Corsicana,47,Good,1,Good,30,Good,31,Good,10,Good,2021-06-28 13:00:00
+France,Ajaccio,44,Good,12,Good,100,Good,70,Good,9,Good,2020-04-07 04:00:00
+India,Mangaldai,64,Moderate,14,Good,18,Good,93,Good,33,Moderate,2020-06-07 00:00:00
+Brazil,Carazinho,19,Good,11,Good,24,Good,83,Good,12,Good,2020-07-05 02:00:00
+Thailand,Chumphon,41,Good,9,Good,93,Good,53,Good,4,Good,2020-01-24 13:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,2,Good,2,Moderate,67,Good,79,Unhealthy,2020-02-12 17:00:00
+France,Limeil Brevannes,73,Moderate,5,Good,61,Good,45,Good,15,Moderate,2020-04-27 06:00:00
+Italy,Porto Empedocle,65,Moderate,10,Good,119,Good,99,Good,29,Moderate,2020-09-09 05:00:00
+India,Polur,60,Moderate,2,Good,9,Good,27,Good,18,Moderate,2020-07-27 03:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,13,Good,110,Good,45,Good,36,Unhealthy for Sensitive Groups,2020-04-25 04:00:00
+France,Saint Benoit,57,Moderate,7,Good,102,Good,0,Good,16,Moderate,2020-10-23 20:00:00
+Germany,Tostedt,35,Good,4,Good,51,Good,24,Good,12,Good,2020-07-31 10:00:00
+France,Saint Sebastien Sur Loire,32,Good,12,Good,58,Good,63,Good,11,Good,2020-06-13 11:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,5,Good,55,Good,13,Good,22,Moderate,2020-07-02 10:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,9,Good,101,Good,10,Good,42,Unhealthy for Sensitive Groups,2020-10-04 20:00:00
+Italy,Trebaseleghe,78,Moderate,5,Good,0,Good,38,Good,32,Moderate,2020-07-26 11:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,12,Good,82,Good,15,Good,22,Moderate,2020-11-16 09:00:00
+Montenegro,Niksic,79,Moderate,5,Good,35,Good,40,Good,15,Moderate,2020-02-25 05:00:00
+Madagascar,Nosy Varika,25,Good,6,Good,76,Good,99,Good,3,Good,2020-11-12 04:00:00
+Spain,Martorell,36,Good,3,Good,76,Good,64,Good,11,Good,2020-10-10 18:00:00
+India,Tirur,71,Moderate,13,Good,118,Good,60,Good,34,Moderate,2020-04-15 15:00:00
+Germany,Rehburg Loccum,43,Good,10,Good,84,Good,21,Good,10,Good,2020-02-03 22:00:00
+Brazil,Vitoria Da Conquista,38,Good,0,Good,91,Good,3,Good,11,Good,2020-02-08 05:00:00
+United States of America,Fairview Heights,45,Good,3,Good,17,Good,49,Good,12,Good,2020-05-29 06:00:00
+India,Sanquelim,84,Moderate,6,Good,79,Good,42,Good,29,Moderate,2020-04-12 07:00:00
+Belgium,Soignies,49,Good,13,Good,105,Good,25,Good,4,Good,2020-05-10 08:00:00
+Brazil,Sertanopolis,36,Good,6,Good,12,Good,55,Good,0,Good,2020-09-24 11:00:00
+Cameroon,Guider,76,Moderate,0,Good,86,Good,27,Good,14,Moderate,2020-05-19 02:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,10,Good,40,Good,41,Good,46,Unhealthy for Sensitive Groups,2020-02-20 09:00:00
+United States of America,Edison,50,Good,11,Good,9,Good,99,Good,10,Good,2020-02-18 00:00:00
+Germany,Bad Langensalza,32,Good,0,Good,74,Good,42,Good,9,Good,2020-04-01 15:00:00
+France,Pessac,54,Moderate,1,Good,108,Good,5,Good,31,Moderate,2020-11-14 06:00:00
+Philippines,Katipunan,152,Unhealthy,0,Good,92,Good,96,Good,120,Unhealthy,2020-11-26 01:00:00
+Slovenia,Celje,85,Moderate,3,Good,49,Good,32,Good,21,Moderate,2020-09-01 10:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,8,Good,62,Unhealthy for Sensitive Groups,64,Good,29,Moderate,2020-05-31 10:00:00
+South Africa,Fochville,154,Unhealthy,5,Good,78,Good,89,Good,105,Unhealthy,2020-10-05 20:00:00
+Belgium,Herzele,51,Moderate,12,Good,98,Good,48,Good,19,Moderate,2020-05-27 10:00:00
+United States of America,Beeville,36,Good,11,Good,20,Good,14,Good,11,Good,2020-10-20 05:00:00
+Brazil,Varzea Alegre,22,Good,10,Good,105,Good,18,Good,8,Good,2020-02-27 06:00:00
+United States of America,Glen Allen,53,Moderate,10,Good,19,Good,26,Good,18,Moderate,2020-04-02 07:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,12,Good,52,Good,29,Good,46,Unhealthy for Sensitive Groups,2020-07-09 15:00:00
+Greece,Ioannina,69,Moderate,9,Good,28,Good,59,Good,32,Moderate,2020-07-03 22:00:00
+El Salvador,Gotera,95,Moderate,4,Good,105,Good,85,Good,31,Moderate,2020-08-17 17:00:00
+Ukraine,Chernyakhiv,56,Moderate,5,Good,116,Good,3,Good,25,Moderate,2020-02-07 01:00:00
+Spain,San Lorenzo De El Escorial,23,Good,8,Good,71,Good,36,Good,8,Good,2020-09-05 21:00:00
+Poland,Szamotuly,51,Moderate,8,Good,81,Good,47,Good,15,Moderate,2020-08-28 11:00:00
+Portugal,Lamego,25,Good,2,Good,6,Good,36,Good,5,Good,2020-08-01 11:00:00
+Italy,Bracciano,41,Good,11,Good,38,Good,33,Good,5,Good,2020-11-13 21:00:00
+United States of America,Woonsocket,42,Good,10,Good,14,Good,60,Good,3,Good,2020-08-11 07:00:00
+Panama,Panama,61,Moderate,3,Good,63,Good,18,Good,21,Moderate,2020-01-22 10:00:00
+United Republic of Tanzania,Bugarama,45,Good,5,Good,1,Good,65,Good,4,Good,2020-03-02 15:00:00
+Thailand,Phon,93,Moderate,7,Good,101,Good,80,Good,25,Moderate,2020-06-25 04:00:00
+India,Bhander,166,Unhealthy,6,Good,74,Unhealthy for Sensitive Groups,35,Good,120,Unhealthy,2020-12-10 11:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,10,Good,19,Good,20,Good,49,Unhealthy for Sensitive Groups,2020-11-11 09:00:00
+Viet Nam,Cao Bang,47,Good,13,Good,53,Good,50,Good,10,Good,2020-08-29 23:00:00
+Russian Federation,Kurskaya,40,Good,0,Good,74,Good,30,Good,12,Good,2020-04-04 07:00:00
+Brazil,Palmares,45,Good,14,Good,70,Good,50,Good,10,Good,2020-06-14 05:00:00
+India,Sidhi,162,Unhealthy,6,Good,82,Unhealthy,6,Good,106,Unhealthy,2020-08-30 17:00:00
+Myanmar,Loikaw,15,Good,7,Good,20,Good,8,Good,4,Good,2020-10-31 12:00:00
+Netherlands,Harenkarspel,38,Good,12,Good,100,Good,22,Good,7,Good,2020-02-19 11:00:00
+Lesotho,Quthing,77,Moderate,5,Good,24,Good,33,Good,33,Moderate,2020-06-12 19:00:00
+Belgium,Brugge,37,Good,6,Good,70,Good,13,Good,9,Good,2020-01-11 08:00:00
+France,Enghien Les Bains,55,Moderate,8,Good,81,Good,25,Good,21,Moderate,2020-04-11 07:00:00
+Poland,Szamotuly,51,Moderate,6,Good,64,Good,45,Good,30,Moderate,2020-07-27 08:00:00
+Poland,Zory,68,Moderate,2,Good,41,Good,26,Good,28,Moderate,2020-06-29 05:00:00
+United States of America,Taylors,58,Moderate,13,Good,20,Good,85,Good,13,Moderate,2020-12-21 09:00:00
+Brazil,Novo Cruzeiro,23,Good,12,Good,47,Good,69,Good,12,Good,2020-01-04 16:00:00
+United States of America,Berkley,85,Moderate,12,Good,24,Good,86,Good,18,Moderate,2020-09-19 07:00:00
+India,Karauli,213,Very Unhealthy,7,Good,39,Good,67,Good,232,Very Unhealthy,2020-02-01 12:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,1,Good,98,Good,71,Good,3,Good,2020-05-03 23:00:00
+Honduras,Cofradia,74,Moderate,4,Good,3,Good,42,Good,35,Moderate,2020-02-14 12:00:00
+Nigeria,Port Harcourt,179,Unhealthy,11,Good,58,Good,92,Good,127,Unhealthy,2020-08-30 10:00:00
+Russian Federation,Uzhur,33,Good,0,Good,76,Good,90,Good,9,Good,2020-11-13 14:00:00
+India,Rajur,150,Unhealthy,5,Good,85,Good,3,Good,79,Unhealthy,2020-02-20 12:00:00
+Japan,Inuyama,47,Good,2,Good,5,Good,5,Good,2,Good,2020-03-07 15:00:00
+Czechia,Pisek,66,Moderate,12,Good,64,Good,71,Good,25,Moderate,2020-06-29 08:00:00
+Netherlands,Bussum,38,Good,7,Good,4,Good,42,Good,10,Good,2020-01-25 18:00:00
+Congo,Kinkala,68,Moderate,14,Good,88,Good,15,Good,35,Moderate,2020-10-25 01:00:00
+Brazil,Barreirinha,25,Good,10,Good,61,Good,78,Good,9,Good,2020-08-29 22:00:00
+India,Bali Chak,166,Unhealthy,0,Good,42,Moderate,40,Good,87,Unhealthy,2020-02-07 02:00:00
+United States of America,South Lake Tahoe,54,Moderate,5,Good,82,Good,25,Good,21,Moderate,2020-06-10 16:00:00
+Russian Federation,Meleuz,36,Good,4,Good,103,Good,3,Good,3,Good,2020-04-23 11:00:00
+United States of America,Grand Haven,53,Moderate,7,Good,28,Good,98,Good,35,Moderate,2020-02-21 09:00:00
+Guatemala,Cubulco,77,Moderate,4,Good,71,Good,17,Good,22,Moderate,2020-07-30 18:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,13,Good,72,Good,12,Good,53,Unhealthy for Sensitive Groups,2020-02-18 10:00:00
+El Salvador,Acajutla,71,Moderate,14,Good,41,Good,73,Good,25,Moderate,2020-05-30 15:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,12,Good,67,Good,31,Good,39,Unhealthy for Sensitive Groups,2020-01-01 21:00:00
+United States of America,White Settlement,50,Good,6,Good,13,Good,31,Good,12,Good,2020-12-20 03:00:00
+United States of America,University Place,44,Good,14,Good,39,Good,46,Good,1,Good,2020-07-17 15:00:00
+Netherlands,Haaren,41,Good,12,Good,34,Good,30,Good,10,Good,2020-07-25 22:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,11,Good,54,Good,14,Good,40,Unhealthy for Sensitive Groups,2020-09-12 12:00:00
+Germany,Peine,45,Good,0,Good,114,Good,92,Good,3,Good,2020-06-08 06:00:00
+China,Suozhen,156,Unhealthy,14,Good,114,Unhealthy for Sensitive Groups,26,Good,109,Unhealthy,2020-02-22 04:00:00
+India,Handia,189,Unhealthy,13,Good,118,Moderate,3,Good,85,Unhealthy,2020-05-27 08:00:00
+Romania,Petrila,53,Moderate,13,Good,119,Good,20,Good,19,Moderate,2020-02-23 05:00:00
+Netherlands,Breukelen,35,Good,8,Good,67,Good,33,Good,2,Good,2020-08-26 06:00:00
+Pakistan,Lalian,173,Unhealthy,5,Good,8,Unhealthy for Sensitive Groups,93,Good,123,Unhealthy,2020-02-21 06:00:00
+Italy,Villa Literno,49,Good,11,Good,118,Good,57,Good,5,Good,2020-06-27 00:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,12,Good,20,Good,35,Good,52,Unhealthy for Sensitive Groups,2020-10-14 00:00:00
+Germany,Hagen,30,Good,3,Good,55,Good,8,Good,6,Good,2020-03-26 06:00:00
+Bulgaria,Kazanlak,56,Moderate,11,Good,87,Good,41,Good,19,Moderate,2020-01-28 21:00:00
+Italy,Trezzo,59,Moderate,2,Good,25,Good,72,Good,35,Moderate,2020-10-06 12:00:00
+India,Harpalpur,167,Unhealthy,8,Good,81,Unhealthy for Sensitive Groups,38,Good,84,Unhealthy,2020-12-17 21:00:00
+United States of America,Little Rock,68,Moderate,11,Good,67,Good,13,Good,31,Moderate,2020-09-12 16:00:00
+Italy,Roncade,52,Moderate,9,Good,65,Good,49,Good,16,Moderate,2020-04-27 12:00:00
+India,Handia,189,Unhealthy,12,Good,69,Moderate,42,Good,74,Unhealthy,2020-10-01 13:00:00
+Brazil,Guapiacu,57,Moderate,6,Good,104,Good,42,Good,17,Moderate,2020-04-04 13:00:00
+India,Narnaund,152,Unhealthy,4,Good,59,Unhealthy for Sensitive Groups,67,Good,84,Unhealthy,2020-01-25 09:00:00
+Germany,Hameln,37,Good,2,Good,60,Good,85,Good,0,Good,2020-01-23 16:00:00
+United Republic of Tanzania,Kilindoni,36,Good,10,Good,35,Good,41,Good,9,Good,2020-05-14 15:00:00
+Croatia,Vukovar,69,Moderate,13,Good,12,Good,66,Good,31,Moderate,2020-02-10 14:00:00
+Germany,Erlenbach,35,Good,3,Good,92,Good,33,Good,12,Good,2020-01-09 12:00:00
+India,Baramula,152,Unhealthy,13,Good,74,Good,12,Good,132,Unhealthy,2020-07-21 04:00:00
+Paraguay,Asuncion,26,Good,1,Good,110,Good,94,Good,2,Good,2020-02-29 14:00:00
+Japan,Nobeoka,40,Good,9,Good,104,Good,20,Good,2,Good,2020-04-18 01:00:00
+Germany,Cadolzburg,64,Moderate,5,Good,19,Moderate,23,Good,31,Moderate,2020-04-07 21:00:00
+Philippines,Calatagan,50,Good,5,Good,1,Good,78,Good,7,Good,2020-09-29 14:00:00
+India,Shahpura,169,Unhealthy,14,Good,22,Good,89,Good,148,Unhealthy,2020-11-21 18:00:00
+United States of America,Takoma Park,47,Good,10,Good,31,Good,10,Good,3,Good,2020-06-29 22:00:00
+Mexico,Cuautepec,160,Unhealthy,13,Good,94,Good,8,Good,83,Unhealthy,2020-01-07 16:00:00
+United Republic of Tanzania,Maswa,24,Good,13,Good,112,Good,48,Good,11,Good,2020-08-17 14:00:00
+France,Coudekerque Branche,44,Good,9,Good,92,Good,90,Good,5,Good,2020-08-05 02:00:00
+Belgium,Temse,42,Good,0,Good,5,Good,68,Good,7,Good,2020-03-16 00:00:00
+India,Dahanu,76,Moderate,6,Good,6,Good,27,Good,32,Moderate,2020-09-20 22:00:00
+Japan,Yoshii,69,Moderate,7,Good,78,Good,72,Good,24,Moderate,2020-03-05 06:00:00
+United States of America,Rome,67,Moderate,9,Good,23,Good,11,Good,33,Moderate,2020-10-15 11:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,9,Good,114,Good,67,Good,52,Unhealthy for Sensitive Groups,2020-05-22 04:00:00
+Colombia,Soata,26,Good,5,Good,92,Good,66,Good,5,Good,2020-09-29 17:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,12,Good,75,Good,84,Good,6,Good,2020-04-11 22:00:00
+Lesotho,Quthing,77,Moderate,11,Good,61,Good,57,Good,18,Moderate,2020-10-11 23:00:00
+Italy,Racconigi,73,Moderate,1,Good,0,Good,14,Good,32,Moderate,2020-03-18 07:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,3,Good,78,Good,18,Good,2,Good,2020-06-08 23:00:00
+Netherlands,Sint Oedenrode,38,Good,6,Good,112,Good,85,Good,7,Good,2020-05-06 07:00:00
+Italy,Porto Empedocle,65,Moderate,2,Good,73,Good,88,Good,27,Moderate,2020-06-23 23:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,14,Good,7,Good,63,Good,12,Good,2020-03-27 12:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,12,Good,81,Unhealthy,62,Good,197,Very Unhealthy,2020-08-11 22:00:00
+Poland,Sulecin,55,Moderate,2,Good,58,Good,56,Good,13,Moderate,2020-06-25 23:00:00
+Japan,Yatsuo,43,Good,10,Good,94,Good,18,Good,6,Good,2020-06-09 18:00:00
+Germany,Lilienthal,65,Moderate,4,Good,16,Good,71,Good,30,Moderate,2020-12-10 18:00:00
+India,Karauli,213,Very Unhealthy,9,Good,99,Good,8,Good,235,Very Unhealthy,2020-03-27 22:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,0,Good,91,Good,41,Good,28,Moderate,2020-09-05 16:00:00
+Germany,Goslar,38,Good,14,Good,35,Good,21,Good,4,Good,2020-07-01 04:00:00
+India,Hangal,70,Moderate,7,Good,80,Good,16,Good,32,Moderate,2020-04-18 22:00:00
+India,Sardhana,160,Unhealthy,7,Good,14,Unhealthy for Sensitive Groups,61,Good,59,Unhealthy,2020-01-15 03:00:00
+Japan,Hitoyoshi,52,Moderate,8,Good,113,Good,58,Good,29,Moderate,2020-01-14 02:00:00
+Germany,Bremen,66,Moderate,8,Good,113,Good,99,Good,32,Moderate,2020-09-15 13:00:00
+United States of America,Taylors,58,Moderate,14,Good,88,Good,56,Good,34,Moderate,2020-04-26 23:00:00
+Russian Federation,Gorkovskiy,38,Good,7,Good,88,Good,4,Good,4,Good,2020-11-08 12:00:00
+China,Beibei,166,Unhealthy,11,Good,16,Moderate,86,Good,86,Unhealthy,2020-01-11 04:00:00
+Spain,Huesca,37,Good,3,Good,5,Good,72,Good,0,Good,2020-02-01 09:00:00
+Ghana,Nsawam,28,Good,8,Good,81,Good,34,Good,0,Good,2020-01-31 09:00:00
+Pakistan,Sarhari,165,Unhealthy,3,Good,102,Good,44,Good,77,Unhealthy,2020-08-12 07:00:00
+United States of America,Ledyard,41,Good,9,Good,102,Good,25,Good,10,Good,2020-03-13 07:00:00
+Germany,Kall,58,Moderate,3,Good,40,Good,49,Good,27,Moderate,2020-10-11 16:00:00
+Kazakhstan,Ilyich,161,Unhealthy,8,Good,12,Moderate,55,Good,113,Unhealthy,2020-12-31 14:00:00
+India,Phulabani,161,Unhealthy,5,Good,60,Moderate,91,Good,91,Unhealthy,2020-12-19 07:00:00
+India,Kodumudi,71,Moderate,8,Good,80,Good,8,Good,29,Moderate,2020-09-16 15:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,0,Good,82,Good,33,Good,45,Unhealthy for Sensitive Groups,2020-01-21 12:00:00
+Russian Federation,Korkino,34,Good,5,Good,117,Good,72,Good,11,Good,2020-10-17 00:00:00
+France,Epernay,53,Moderate,14,Good,106,Good,21,Good,20,Moderate,2020-11-27 21:00:00
+United States of America,Wayland,47,Good,7,Good,48,Good,82,Good,10,Good,2020-02-14 19:00:00
+Chile,Curico,93,Moderate,2,Good,3,Good,70,Good,19,Moderate,2020-10-17 16:00:00
+France,Septemes Les Vallons,31,Good,5,Good,95,Good,42,Good,11,Good,2020-12-19 20:00:00
+Myanmar,Taunggyi,39,Good,1,Good,117,Good,7,Good,9,Good,2020-06-05 08:00:00
+United Republic of Tanzania,Kisesa,24,Good,3,Good,110,Good,25,Good,1,Good,2020-05-10 12:00:00
+India,Manohar Thana,168,Unhealthy,7,Good,23,Good,25,Good,138,Unhealthy,2020-07-18 03:00:00
+United States of America,Lompoc,38,Good,0,Good,109,Good,78,Good,2,Good,2020-05-04 19:00:00
+Russian Federation,Cherdakly,51,Moderate,2,Good,90,Good,33,Good,22,Moderate,2020-04-03 17:00:00
+France,Levallois Perret,70,Moderate,2,Good,39,Good,8,Good,28,Moderate,2020-06-03 08:00:00
+France,Epernay,53,Moderate,10,Good,19,Good,22,Good,31,Moderate,2020-11-18 01:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,5,Good,10,Good,10,Good,122,Unhealthy,2020-08-29 02:00:00
+Japan,Inuyama,47,Good,10,Good,67,Good,62,Good,12,Good,2020-07-12 03:00:00
+Hungary,Tata,66,Moderate,0,Good,79,Good,73,Good,23,Moderate,2020-06-14 03:00:00
+Germany,Wehr,94,Moderate,0,Good,3,Good,29,Good,27,Moderate,2020-03-04 13:00:00
+Brazil,Iguaba Grande,61,Moderate,12,Good,13,Good,78,Good,13,Moderate,2020-01-09 14:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,8,Good,6,Good,88,Good,35,Moderate,2020-11-21 08:00:00
+Belgium,De Pinte,36,Good,8,Good,113,Good,58,Good,7,Good,2020-06-15 13:00:00
+Brazil,Caririacu,27,Good,4,Good,111,Good,89,Good,2,Good,2020-01-17 01:00:00
+United States of America,Shawnee,95,Moderate,11,Good,63,Good,79,Good,33,Moderate,2020-04-04 11:00:00
+India,Neyveli,61,Moderate,9,Good,52,Good,22,Good,26,Moderate,2020-12-07 10:00:00
+United States of America,Beeville,36,Good,10,Good,41,Good,32,Good,2,Good,2020-09-17 05:00:00
+France,Levallois Perret,70,Moderate,6,Good,101,Good,76,Good,13,Moderate,2020-07-20 16:00:00
+United States of America,Rock Springs,22,Good,7,Good,16,Good,61,Good,6,Good,2020-11-10 21:00:00
+Poland,Katowice,80,Moderate,6,Good,3,Good,29,Good,32,Moderate,2020-11-10 13:00:00
+United States of America,Hopkins,54,Moderate,6,Good,30,Good,67,Good,28,Moderate,2020-09-02 23:00:00
+Brazil,Piquete,52,Moderate,5,Good,106,Good,96,Good,14,Moderate,2020-07-03 19:00:00
+France,Luneville,38,Good,12,Good,2,Good,3,Good,2,Good,2020-10-03 16:00:00
+Poland,Pulawy,30,Good,11,Good,19,Good,21,Good,8,Good,2020-02-09 17:00:00
+Madagascar,Arivonimamo,21,Good,14,Good,62,Good,40,Good,10,Good,2020-09-27 05:00:00
+Russian Federation,Gusev,34,Good,7,Good,58,Good,88,Good,12,Good,2020-08-18 23:00:00
+India,Mundwa,212,Very Unhealthy,12,Good,53,Good,99,Good,157,Very Unhealthy,2020-05-10 10:00:00
+United States of America,Orange,51,Moderate,1,Good,89,Good,82,Good,30,Moderate,2020-08-13 05:00:00
+Afghanistan,Dawlatabad,92,Moderate,1,Good,62,Good,8,Good,29,Moderate,2020-02-09 23:00:00
+United States of America,Rosedale,42,Good,1,Good,49,Good,38,Good,7,Good,2020-03-20 08:00:00
+Brazil,Russas,28,Good,3,Good,40,Good,82,Good,4,Good,2020-07-15 15:00:00
+Pakistan,Bhopalwala,153,Unhealthy,0,Good,33,Unhealthy for Sensitive Groups,5,Good,84,Unhealthy,2020-11-17 17:00:00
+Russian Federation,Izberbash,51,Moderate,5,Good,70,Good,58,Good,25,Moderate,2020-03-08 16:00:00
+Poland,Krotoszyn,55,Moderate,6,Good,48,Good,53,Good,26,Moderate,2020-01-06 21:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,8,Good,18,Good,37,Good,3,Good,2020-09-20 00:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,11,Good,60,Moderate,59,Good,54,Unhealthy for Sensitive Groups,2020-05-17 12:00:00
+United States of America,Corsicana,47,Good,5,Good,15,Good,92,Good,3,Good,2020-01-24 10:00:00
+France,Ajaccio,44,Good,7,Good,26,Good,58,Good,0,Good,2019-08-09 14:00:00
+India,Mangaldai,64,Moderate,13,Good,104,Good,50,Good,34,Moderate,2019-03-27 17:00:00
+Brazil,Carazinho,19,Good,8,Good,111,Good,71,Good,11,Good,2019-12-29 02:00:00
+Thailand,Chumphon,41,Good,10,Good,15,Good,64,Good,5,Good,2019-03-29 10:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,0,Good,65,Moderate,6,Good,131,Unhealthy,2019-04-26 14:00:00
+France,Limeil Brevannes,73,Moderate,13,Good,83,Good,20,Good,32,Moderate,2019-07-30 10:00:00
+Italy,Porto Empedocle,65,Moderate,14,Good,10,Good,2,Good,22,Moderate,2019-05-27 00:00:00
+India,Polur,60,Moderate,8,Good,25,Good,26,Good,34,Moderate,2019-03-31 03:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,2,Good,74,Good,35,Good,46,Unhealthy for Sensitive Groups,2019-02-09 15:00:00
+France,Saint Benoit,57,Moderate,10,Good,92,Good,36,Good,26,Moderate,2019-09-30 13:00:00
+Germany,Tostedt,35,Good,10,Good,5,Good,78,Good,3,Good,2019-03-26 15:00:00
+France,Saint Sebastien Sur Loire,32,Good,14,Good,57,Good,12,Good,1,Good,2019-05-18 10:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,9,Good,29,Good,0,Good,35,Moderate,2019-03-23 00:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,3,Good,11,Good,57,Good,37,Unhealthy for Sensitive Groups,2019-03-23 09:00:00
+Italy,Trebaseleghe,78,Moderate,8,Good,6,Good,35,Good,14,Moderate,2019-04-13 14:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,9,Good,72,Good,30,Good,13,Moderate,2019-02-11 15:00:00
+Montenegro,Niksic,79,Moderate,0,Good,35,Good,10,Good,13,Moderate,2019-06-28 01:00:00
+Madagascar,Nosy Varika,25,Good,8,Good,52,Good,64,Good,12,Good,2019-02-27 03:00:00
+Spain,Martorell,36,Good,6,Good,72,Good,78,Good,0,Good,2019-10-24 19:00:00
+India,Tirur,71,Moderate,11,Good,17,Good,47,Good,15,Moderate,2019-12-17 23:00:00
+Germany,Rehburg Loccum,43,Good,8,Good,88,Good,82,Good,7,Good,2019-04-16 05:00:00
+Brazil,Vitoria Da Conquista,38,Good,6,Good,51,Good,36,Good,8,Good,2019-07-05 10:00:00
+United States of America,Fairview Heights,45,Good,12,Good,82,Good,82,Good,7,Good,2019-06-18 19:00:00
+India,Sanquelim,84,Moderate,7,Good,26,Good,97,Good,19,Moderate,2019-05-09 15:00:00
+Belgium,Soignies,49,Good,11,Good,114,Good,98,Good,1,Good,2019-11-26 09:00:00
+Brazil,Sertanopolis,36,Good,1,Good,35,Good,15,Good,1,Good,2019-11-21 10:00:00
+Cameroon,Guider,76,Moderate,4,Good,6,Good,80,Good,22,Moderate,2019-03-30 13:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,3,Good,64,Good,61,Good,38,Unhealthy for Sensitive Groups,2019-01-25 03:00:00
+United States of America,Edison,50,Good,11,Good,87,Good,51,Good,9,Good,2019-02-02 08:00:00
+Germany,Bad Langensalza,32,Good,12,Good,21,Good,89,Good,4,Good,2019-09-29 07:00:00
+France,Pessac,54,Moderate,10,Good,62,Good,25,Good,23,Moderate,2019-04-03 23:00:00
+Philippines,Katipunan,152,Unhealthy,8,Good,0,Good,24,Good,73,Unhealthy,2019-02-03 08:00:00
+Slovenia,Celje,85,Moderate,13,Good,38,Good,24,Good,26,Moderate,2019-12-22 07:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,13,Good,28,Unhealthy for Sensitive Groups,36,Good,27,Moderate,2019-11-20 13:00:00
+South Africa,Fochville,154,Unhealthy,10,Good,14,Good,57,Good,117,Unhealthy,2019-09-20 05:00:00
+Belgium,Herzele,51,Moderate,3,Good,42,Good,90,Good,16,Moderate,2019-02-28 23:00:00
+United States of America,Beeville,36,Good,3,Good,20,Good,1,Good,1,Good,2019-07-13 14:00:00
+Brazil,Varzea Alegre,22,Good,14,Good,57,Good,25,Good,7,Good,2019-10-01 13:00:00
+United States of America,Glen Allen,53,Moderate,8,Good,101,Good,63,Good,30,Moderate,2019-11-07 06:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,5,Good,109,Good,28,Good,38,Unhealthy for Sensitive Groups,2019-01-20 23:00:00
+Greece,Ioannina,69,Moderate,9,Good,112,Good,76,Good,26,Moderate,2019-08-28 08:00:00
+El Salvador,Gotera,95,Moderate,9,Good,73,Good,14,Good,30,Moderate,2019-07-20 18:00:00
+Ukraine,Chernyakhiv,56,Moderate,10,Good,20,Good,64,Good,17,Moderate,2019-08-11 10:00:00
+Spain,San Lorenzo De El Escorial,23,Good,6,Good,18,Good,87,Good,4,Good,2019-09-02 15:00:00
+Poland,Szamotuly,51,Moderate,3,Good,37,Good,39,Good,15,Moderate,2019-01-03 09:00:00
+Portugal,Lamego,25,Good,3,Good,9,Good,48,Good,7,Good,2019-10-19 13:00:00
+Italy,Bracciano,41,Good,1,Good,84,Good,15,Good,12,Good,2019-08-22 01:00:00
+United States of America,Woonsocket,42,Good,1,Good,22,Good,71,Good,11,Good,2019-08-08 19:00:00
+Panama,Panama,61,Moderate,2,Good,97,Good,78,Good,19,Moderate,2019-10-28 19:00:00
+United Republic of Tanzania,Bugarama,45,Good,13,Good,87,Good,74,Good,9,Good,2019-04-06 08:00:00
+Thailand,Phon,93,Moderate,14,Good,107,Good,8,Good,35,Moderate,2019-05-21 12:00:00
+India,Bhander,166,Unhealthy,1,Good,55,Unhealthy for Sensitive Groups,16,Good,120,Unhealthy,2019-05-06 17:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,13,Good,70,Good,47,Good,46,Unhealthy for Sensitive Groups,2019-04-13 05:00:00
+Viet Nam,Cao Bang,47,Good,10,Good,97,Good,89,Good,8,Good,2019-10-18 18:00:00
+Russian Federation,Kurskaya,40,Good,7,Good,65,Good,2,Good,6,Good,2019-09-13 06:00:00
+Brazil,Palmares,45,Good,14,Good,12,Good,93,Good,9,Good,2019-01-28 07:00:00
+India,Sidhi,162,Unhealthy,11,Good,46,Unhealthy,59,Good,85,Unhealthy,2019-01-10 22:00:00
+Myanmar,Loikaw,15,Good,5,Good,106,Good,28,Good,9,Good,2019-09-16 22:00:00
+Netherlands,Harenkarspel,38,Good,0,Good,101,Good,77,Good,2,Good,2019-10-14 15:00:00
+Lesotho,Quthing,77,Moderate,2,Good,53,Good,48,Good,15,Moderate,2019-08-30 00:00:00
+Belgium,Brugge,37,Good,7,Good,87,Good,15,Good,12,Good,2019-05-11 07:00:00
+France,Enghien Les Bains,55,Moderate,7,Good,109,Good,47,Good,16,Moderate,2019-05-01 04:00:00
+Poland,Szamotuly,51,Moderate,9,Good,118,Good,64,Good,32,Moderate,2019-06-20 09:00:00
+Poland,Zory,68,Moderate,0,Good,28,Good,38,Good,25,Moderate,2019-03-18 08:00:00
+United States of America,Taylors,58,Moderate,12,Good,72,Good,8,Good,30,Moderate,2019-09-06 18:00:00
+Brazil,Novo Cruzeiro,23,Good,0,Good,22,Good,58,Good,4,Good,2019-02-19 15:00:00
+United States of America,Berkley,85,Moderate,7,Good,62,Good,31,Good,16,Moderate,2019-07-25 06:00:00
+India,Karauli,213,Very Unhealthy,7,Good,16,Good,94,Good,234,Very Unhealthy,2019-05-09 11:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,10,Good,53,Good,65,Good,3,Good,2019-10-13 18:00:00
+Honduras,Cofradia,74,Moderate,4,Good,17,Good,75,Good,22,Moderate,2019-09-10 02:00:00
+Nigeria,Port Harcourt,179,Unhealthy,13,Good,96,Good,0,Good,78,Unhealthy,2019-02-23 00:00:00
+Russian Federation,Uzhur,33,Good,3,Good,79,Good,50,Good,12,Good,2019-11-01 09:00:00
+India,Rajur,150,Unhealthy,14,Good,106,Good,95,Good,114,Unhealthy,2019-12-26 10:00:00
+Japan,Inuyama,47,Good,4,Good,113,Good,36,Good,6,Good,2019-02-03 09:00:00
+Czechia,Pisek,66,Moderate,5,Good,88,Good,22,Good,34,Moderate,2019-07-24 20:00:00
+Netherlands,Bussum,38,Good,13,Good,77,Good,79,Good,3,Good,2019-12-26 07:00:00
+Congo,Kinkala,68,Moderate,1,Good,101,Good,3,Good,19,Moderate,2019-06-08 13:00:00
+Brazil,Barreirinha,25,Good,1,Good,98,Good,61,Good,1,Good,2019-05-09 10:00:00
+India,Bali Chak,166,Unhealthy,1,Good,1,Moderate,25,Good,113,Unhealthy,2019-03-05 14:00:00
+United States of America,South Lake Tahoe,54,Moderate,0,Good,53,Good,22,Good,21,Moderate,2019-03-27 06:00:00
+Russian Federation,Meleuz,36,Good,10,Good,52,Good,18,Good,7,Good,2019-07-01 03:00:00
+United States of America,Grand Haven,53,Moderate,11,Good,102,Good,61,Good,30,Moderate,2019-08-05 14:00:00
+Guatemala,Cubulco,77,Moderate,13,Good,9,Good,66,Good,31,Moderate,2019-09-08 23:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,4,Good,25,Good,9,Good,40,Unhealthy for Sensitive Groups,2019-03-01 15:00:00
+El Salvador,Acajutla,71,Moderate,1,Good,112,Good,93,Good,19,Moderate,2019-02-12 00:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,12,Good,64,Good,39,Good,37,Unhealthy for Sensitive Groups,2019-08-05 22:00:00
+United States of America,White Settlement,50,Good,2,Good,111,Good,89,Good,8,Good,2019-02-07 20:00:00
+United States of America,University Place,44,Good,4,Good,56,Good,13,Good,9,Good,2019-02-13 08:00:00
+Netherlands,Haaren,41,Good,5,Good,48,Good,38,Good,2,Good,2019-02-19 19:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,13,Good,19,Good,31,Good,43,Unhealthy for Sensitive Groups,2019-08-06 04:00:00
+Germany,Peine,45,Good,0,Good,70,Good,69,Good,12,Good,2019-03-18 01:00:00
+China,Suozhen,156,Unhealthy,9,Good,10,Unhealthy for Sensitive Groups,71,Good,133,Unhealthy,2019-03-10 03:00:00
+India,Handia,189,Unhealthy,1,Good,11,Moderate,36,Good,71,Unhealthy,2019-02-14 16:00:00
+Romania,Petrila,53,Moderate,2,Good,109,Good,25,Good,33,Moderate,2019-07-26 18:00:00
+Netherlands,Breukelen,35,Good,1,Good,85,Good,73,Good,1,Good,2019-09-24 22:00:00
+Pakistan,Lalian,173,Unhealthy,7,Good,58,Unhealthy for Sensitive Groups,65,Good,92,Unhealthy,2019-12-30 14:00:00
+Italy,Villa Literno,49,Good,5,Good,43,Good,54,Good,12,Good,2019-11-09 07:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,2,Good,35,Good,61,Good,41,Unhealthy for Sensitive Groups,2019-07-20 03:00:00
+Germany,Hagen,30,Good,4,Good,119,Good,62,Good,7,Good,2019-12-24 11:00:00
+Bulgaria,Kazanlak,56,Moderate,11,Good,107,Good,59,Good,32,Moderate,2019-09-17 15:00:00
+Italy,Trezzo,59,Moderate,8,Good,79,Good,93,Good,16,Moderate,2019-12-26 17:00:00
+India,Harpalpur,167,Unhealthy,11,Good,52,Unhealthy for Sensitive Groups,69,Good,56,Unhealthy,2019-07-01 14:00:00
+United States of America,Little Rock,68,Moderate,1,Good,53,Good,16,Good,26,Moderate,2019-11-29 15:00:00
+Italy,Roncade,52,Moderate,8,Good,83,Good,90,Good,22,Moderate,2019-08-04 07:00:00
+India,Handia,189,Unhealthy,11,Good,100,Moderate,49,Good,144,Unhealthy,2019-03-21 13:00:00
+Brazil,Guapiacu,57,Moderate,14,Good,64,Good,6,Good,21,Moderate,2019-11-09 17:00:00
+India,Narnaund,152,Unhealthy,14,Good,33,Unhealthy for Sensitive Groups,7,Good,141,Unhealthy,2019-09-13 12:00:00
+Germany,Hameln,37,Good,4,Good,47,Good,83,Good,1,Good,2019-06-11 21:00:00
+United Republic of Tanzania,Kilindoni,36,Good,10,Good,62,Good,46,Good,6,Good,2019-10-17 11:00:00
+Croatia,Vukovar,69,Moderate,13,Good,111,Good,84,Good,31,Moderate,2019-04-30 01:00:00
+Germany,Erlenbach,35,Good,10,Good,101,Good,8,Good,10,Good,2019-05-26 20:00:00
+India,Baramula,152,Unhealthy,9,Good,119,Good,52,Good,56,Unhealthy,2019-09-02 02:00:00
+Paraguay,Asuncion,26,Good,0,Good,45,Good,6,Good,7,Good,2019-10-25 04:00:00
+Japan,Nobeoka,40,Good,13,Good,95,Good,22,Good,2,Good,2019-03-05 15:00:00
+Germany,Cadolzburg,64,Moderate,4,Good,111,Moderate,90,Good,19,Moderate,2019-06-13 15:00:00
+Philippines,Calatagan,50,Good,14,Good,65,Good,55,Good,1,Good,2019-09-25 04:00:00
+India,Shahpura,169,Unhealthy,11,Good,24,Good,25,Good,105,Unhealthy,2019-06-19 23:00:00
+United States of America,Takoma Park,47,Good,11,Good,77,Good,29,Good,8,Good,2019-05-27 07:00:00
+Mexico,Cuautepec,160,Unhealthy,8,Good,72,Good,8,Good,131,Unhealthy,2019-10-18 06:00:00
+United Republic of Tanzania,Maswa,24,Good,5,Good,9,Good,50,Good,6,Good,2019-11-05 21:00:00
+France,Coudekerque Branche,44,Good,6,Good,1,Good,85,Good,1,Good,2019-06-05 14:00:00
+Belgium,Temse,42,Good,9,Good,105,Good,69,Good,5,Good,2019-08-08 09:00:00
+India,Dahanu,76,Moderate,11,Good,94,Good,97,Good,20,Moderate,2019-04-21 14:00:00
+Japan,Yoshii,69,Moderate,9,Good,108,Good,53,Good,19,Moderate,2019-05-16 14:00:00
+United States of America,Rome,67,Moderate,2,Good,116,Good,94,Good,21,Moderate,2019-11-04 18:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,4,Good,97,Good,30,Good,52,Unhealthy for Sensitive Groups,2019-04-20 01:00:00
+Colombia,Soata,26,Good,3,Good,36,Good,96,Good,0,Good,2019-09-29 15:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,12,Good,70,Good,80,Good,1,Good,2019-11-21 21:00:00
+Lesotho,Quthing,77,Moderate,14,Good,27,Good,95,Good,22,Moderate,2019-11-12 06:00:00
+Italy,Racconigi,73,Moderate,10,Good,0,Good,22,Good,16,Moderate,2019-10-26 17:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,0,Good,102,Good,24,Good,5,Good,2019-09-10 22:00:00
+Netherlands,Sint Oedenrode,38,Good,14,Good,23,Good,14,Good,2,Good,2019-08-03 21:00:00
+Italy,Porto Empedocle,65,Moderate,7,Good,66,Good,71,Good,27,Moderate,2019-11-06 03:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,11,Good,95,Good,95,Good,1,Good,2019-03-10 14:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,3,Good,39,Unhealthy,70,Good,195,Very Unhealthy,2019-08-26 07:00:00
+Poland,Sulecin,55,Moderate,14,Good,33,Good,48,Good,30,Moderate,2019-01-12 15:00:00
+Japan,Yatsuo,43,Good,2,Good,112,Good,81,Good,9,Good,2019-09-28 10:00:00
+Germany,Lilienthal,65,Moderate,12,Good,21,Good,84,Good,19,Moderate,2019-09-29 20:00:00
+India,Karauli,213,Very Unhealthy,3,Good,91,Good,97,Good,239,Very Unhealthy,2019-10-21 03:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,13,Good,98,Good,46,Good,22,Moderate,2019-10-25 10:00:00
+Germany,Goslar,38,Good,12,Good,70,Good,8,Good,11,Good,2019-05-04 14:00:00
+India,Hangal,70,Moderate,13,Good,109,Good,69,Good,30,Moderate,2019-09-02 16:00:00
+India,Sardhana,160,Unhealthy,4,Good,31,Unhealthy for Sensitive Groups,7,Good,89,Unhealthy,2019-05-13 06:00:00
+Japan,Hitoyoshi,52,Moderate,7,Good,40,Good,53,Good,16,Moderate,2019-03-06 06:00:00
+Germany,Bremen,66,Moderate,13,Good,116,Good,16,Good,26,Moderate,2019-06-04 17:00:00
+United States of America,Taylors,58,Moderate,5,Good,27,Good,93,Good,17,Moderate,2019-04-20 02:00:00
+Russian Federation,Gorkovskiy,38,Good,6,Good,54,Good,66,Good,5,Good,2019-08-03 06:00:00
+China,Beibei,166,Unhealthy,7,Good,59,Moderate,20,Good,94,Unhealthy,2019-04-12 02:00:00
+Spain,Huesca,37,Good,14,Good,55,Good,97,Good,12,Good,2019-03-07 04:00:00
+Ghana,Nsawam,28,Good,14,Good,2,Good,98,Good,2,Good,2019-12-08 04:00:00
+Pakistan,Sarhari,165,Unhealthy,0,Good,97,Good,66,Good,111,Unhealthy,2019-03-20 13:00:00
+United States of America,Ledyard,41,Good,5,Good,63,Good,29,Good,5,Good,2019-08-07 12:00:00
+Germany,Kall,58,Moderate,8,Good,19,Good,35,Good,26,Moderate,2019-05-08 05:00:00
+Kazakhstan,Ilyich,161,Unhealthy,0,Good,83,Moderate,39,Good,113,Unhealthy,2019-12-25 12:00:00
+India,Phulabani,161,Unhealthy,13,Good,79,Moderate,32,Good,147,Unhealthy,2019-08-19 02:00:00
+India,Kodumudi,71,Moderate,7,Good,5,Good,39,Good,28,Moderate,2019-06-06 11:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,8,Good,60,Good,23,Good,47,Unhealthy for Sensitive Groups,2019-11-19 13:00:00
+Russian Federation,Korkino,34,Good,9,Good,50,Good,63,Good,1,Good,2019-07-22 08:00:00
+France,Epernay,53,Moderate,10,Good,57,Good,24,Good,28,Moderate,2019-03-31 08:00:00
+United States of America,Wayland,47,Good,7,Good,94,Good,3,Good,12,Good,2019-05-30 16:00:00
+Chile,Curico,93,Moderate,5,Good,13,Good,49,Good,14,Moderate,2019-08-08 07:00:00
+France,Septemes Les Vallons,31,Good,14,Good,101,Good,73,Good,6,Good,2019-07-13 19:00:00
+Myanmar,Taunggyi,39,Good,7,Good,54,Good,4,Good,10,Good,2019-01-14 22:00:00
+United Republic of Tanzania,Kisesa,24,Good,5,Good,48,Good,2,Good,3,Good,2019-10-13 12:00:00
+India,Manohar Thana,168,Unhealthy,14,Good,67,Good,64,Good,126,Unhealthy,2019-01-23 13:00:00
+United States of America,Lompoc,38,Good,10,Good,37,Good,47,Good,9,Good,2019-07-08 18:00:00
+Russian Federation,Cherdakly,51,Moderate,2,Good,117,Good,60,Good,17,Moderate,2019-06-05 22:00:00
+France,Levallois Perret,70,Moderate,1,Good,103,Good,24,Good,25,Moderate,2019-05-07 06:00:00
+France,Epernay,53,Moderate,10,Good,72,Good,65,Good,34,Moderate,2019-02-12 22:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,1,Good,64,Good,70,Good,109,Unhealthy,2019-04-07 03:00:00
+Japan,Inuyama,47,Good,10,Good,15,Good,58,Good,4,Good,2019-12-10 16:00:00
+Hungary,Tata,66,Moderate,13,Good,36,Good,72,Good,25,Moderate,2019-06-23 03:00:00
+Germany,Wehr,94,Moderate,9,Good,15,Good,73,Good,28,Moderate,2019-04-22 04:00:00
+Brazil,Iguaba Grande,61,Moderate,5,Good,66,Good,94,Good,24,Moderate,2019-11-15 21:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,0,Good,76,Good,83,Good,14,Moderate,2019-09-21 17:00:00
+Belgium,De Pinte,36,Good,9,Good,70,Good,29,Good,6,Good,2019-03-26 09:00:00
+Brazil,Caririacu,27,Good,0,Good,110,Good,0,Good,5,Good,2019-05-26 06:00:00
+United States of America,Shawnee,95,Moderate,13,Good,14,Good,69,Good,21,Moderate,2019-09-26 11:00:00
+India,Neyveli,61,Moderate,11,Good,33,Good,50,Good,31,Moderate,2019-10-17 01:00:00
+United States of America,Beeville,36,Good,8,Good,102,Good,20,Good,2,Good,2019-10-26 10:00:00
+France,Levallois Perret,70,Moderate,6,Good,109,Good,73,Good,26,Moderate,2019-01-08 09:00:00
+United States of America,Rock Springs,22,Good,10,Good,73,Good,58,Good,10,Good,2019-02-10 11:00:00
+Poland,Katowice,80,Moderate,0,Good,38,Good,51,Good,17,Moderate,2019-02-21 16:00:00
+United States of America,Hopkins,54,Moderate,8,Good,69,Good,9,Good,22,Moderate,2019-06-07 06:00:00
+Brazil,Piquete,52,Moderate,14,Good,105,Good,72,Good,23,Moderate,2019-04-11 12:00:00
+France,Luneville,38,Good,9,Good,111,Good,63,Good,1,Good,2019-04-11 10:00:00
+Poland,Pulawy,30,Good,3,Good,63,Good,62,Good,2,Good,2019-07-27 21:00:00
+Madagascar,Arivonimamo,21,Good,8,Good,36,Good,13,Good,3,Good,2019-09-02 23:00:00
+Russian Federation,Gusev,34,Good,6,Good,77,Good,73,Good,7,Good,2019-02-01 13:00:00
+India,Mundwa,212,Very Unhealthy,2,Good,53,Good,3,Good,212,Very Unhealthy,2019-05-09 14:00:00
+United States of America,Orange,51,Moderate,4,Good,70,Good,99,Good,17,Moderate,2019-04-25 21:00:00
+Afghanistan,Dawlatabad,92,Moderate,8,Good,77,Good,47,Good,23,Moderate,2019-03-25 06:00:00
+United States of America,Rosedale,42,Good,0,Good,92,Good,99,Good,2,Good,2019-01-27 14:00:00
+Brazil,Russas,28,Good,2,Good,17,Good,85,Good,1,Good,2019-02-10 16:00:00
+Pakistan,Bhopalwala,153,Unhealthy,13,Good,109,Unhealthy for Sensitive Groups,94,Good,149,Unhealthy,2019-10-01 12:00:00
+Russian Federation,Izberbash,51,Moderate,11,Good,38,Good,86,Good,26,Moderate,2019-09-04 02:00:00
+Poland,Krotoszyn,55,Moderate,4,Good,62,Good,25,Good,30,Moderate,2019-11-07 22:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,7,Good,98,Good,56,Good,2,Good,2019-07-26 02:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,10,Good,67,Moderate,14,Good,45,Unhealthy for Sensitive Groups,2019-02-20 05:00:00
+United States of America,Corsicana,47,Good,0,Good,54,Good,31,Good,0,Good,2019-02-23 05:00:00
+France,Ajaccio,44,Good,2,Good,78,Good,0,Good,8,Good,2018-12-22 02:00:00
+India,Mangaldai,64,Moderate,0,Good,15,Good,99,Good,22,Moderate,2018-05-30 07:00:00
+Brazil,Carazinho,19,Good,12,Good,76,Good,21,Good,1,Good,2018-12-17 02:00:00
+Thailand,Chumphon,41,Good,4,Good,32,Good,77,Good,11,Good,2018-11-24 22:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,9,Good,118,Moderate,18,Good,58,Unhealthy,2018-06-17 04:00:00
+France,Limeil Brevannes,73,Moderate,10,Good,33,Good,33,Good,18,Moderate,2018-09-19 20:00:00
+Italy,Porto Empedocle,65,Moderate,9,Good,95,Good,38,Good,29,Moderate,2018-11-06 03:00:00
+India,Polur,60,Moderate,6,Good,118,Good,72,Good,33,Moderate,2018-01-26 03:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,8,Good,106,Good,26,Good,44,Unhealthy for Sensitive Groups,2018-06-23 02:00:00
+France,Saint Benoit,57,Moderate,12,Good,57,Good,7,Good,26,Moderate,2018-02-01 12:00:00
+Germany,Tostedt,35,Good,7,Good,21,Good,31,Good,10,Good,2018-08-18 18:00:00
+France,Saint Sebastien Sur Loire,32,Good,5,Good,78,Good,65,Good,4,Good,2018-10-08 12:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,0,Good,38,Good,23,Good,31,Moderate,2018-04-05 11:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,0,Good,65,Good,75,Good,41,Unhealthy for Sensitive Groups,2018-01-12 17:00:00
+Italy,Trebaseleghe,78,Moderate,7,Good,105,Good,3,Good,23,Moderate,2018-05-05 00:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,14,Good,6,Good,35,Good,30,Moderate,2018-06-19 14:00:00
+Montenegro,Niksic,79,Moderate,6,Good,17,Good,94,Good,28,Moderate,2018-04-28 17:00:00
+Madagascar,Nosy Varika,25,Good,2,Good,2,Good,87,Good,2,Good,2018-06-29 03:00:00
+Spain,Martorell,36,Good,13,Good,64,Good,19,Good,1,Good,2018-04-19 07:00:00
+India,Tirur,71,Moderate,1,Good,69,Good,69,Good,21,Moderate,2018-05-18 11:00:00
+Germany,Rehburg Loccum,43,Good,1,Good,72,Good,21,Good,9,Good,2018-04-18 20:00:00
+Brazil,Vitoria Da Conquista,38,Good,6,Good,48,Good,72,Good,5,Good,2018-07-24 04:00:00
+United States of America,Fairview Heights,45,Good,2,Good,116,Good,66,Good,9,Good,2018-11-10 16:00:00
+India,Sanquelim,84,Moderate,9,Good,31,Good,44,Good,14,Moderate,2018-06-02 18:00:00
+Belgium,Soignies,49,Good,0,Good,79,Good,75,Good,10,Good,2018-10-20 06:00:00
+Brazil,Sertanopolis,36,Good,14,Good,40,Good,36,Good,11,Good,2018-08-09 07:00:00
+Cameroon,Guider,76,Moderate,14,Good,83,Good,56,Good,26,Moderate,2018-02-17 00:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,2,Good,41,Good,98,Good,46,Unhealthy for Sensitive Groups,2018-11-22 16:00:00
+United States of America,Edison,50,Good,12,Good,32,Good,86,Good,10,Good,2018-06-14 16:00:00
+Germany,Bad Langensalza,32,Good,14,Good,111,Good,0,Good,9,Good,2018-12-12 05:00:00
+France,Pessac,54,Moderate,11,Good,93,Good,24,Good,22,Moderate,2018-05-12 13:00:00
+Philippines,Katipunan,152,Unhealthy,3,Good,112,Good,11,Good,70,Unhealthy,2018-08-07 23:00:00
+Slovenia,Celje,85,Moderate,14,Good,28,Good,29,Good,18,Moderate,2018-06-28 14:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,13,Good,1,Unhealthy for Sensitive Groups,99,Good,16,Moderate,2018-07-23 10:00:00
+South Africa,Fochville,154,Unhealthy,4,Good,45,Good,24,Good,101,Unhealthy,2018-09-29 03:00:00
+Belgium,Herzele,51,Moderate,4,Good,88,Good,21,Good,35,Moderate,2018-01-01 23:00:00
+United States of America,Beeville,36,Good,1,Good,16,Good,75,Good,10,Good,2018-09-22 11:00:00
+Brazil,Varzea Alegre,22,Good,11,Good,101,Good,58,Good,10,Good,2018-09-01 16:00:00
+United States of America,Glen Allen,53,Moderate,8,Good,94,Good,14,Good,16,Moderate,2018-10-26 14:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,13,Good,53,Good,35,Good,47,Unhealthy for Sensitive Groups,2018-02-10 01:00:00
+Greece,Ioannina,69,Moderate,4,Good,98,Good,75,Good,16,Moderate,2018-06-20 13:00:00
+El Salvador,Gotera,95,Moderate,12,Good,93,Good,27,Good,18,Moderate,2018-05-14 16:00:00
+Ukraine,Chernyakhiv,56,Moderate,6,Good,89,Good,85,Good,30,Moderate,2018-08-18 02:00:00
+Spain,San Lorenzo De El Escorial,23,Good,5,Good,24,Good,87,Good,11,Good,2018-07-31 22:00:00
+Poland,Szamotuly,51,Moderate,1,Good,56,Good,35,Good,27,Moderate,2018-12-24 04:00:00
+Portugal,Lamego,25,Good,11,Good,118,Good,85,Good,6,Good,2018-04-20 13:00:00
+Italy,Bracciano,41,Good,14,Good,93,Good,17,Good,10,Good,2018-01-27 05:00:00
+United States of America,Woonsocket,42,Good,2,Good,103,Good,30,Good,7,Good,2018-09-07 17:00:00
+Panama,Panama,61,Moderate,11,Good,58,Good,24,Good,27,Moderate,2018-11-24 02:00:00
+United Republic of Tanzania,Bugarama,45,Good,8,Good,48,Good,49,Good,4,Good,2018-03-29 10:00:00
+Thailand,Phon,93,Moderate,13,Good,105,Good,77,Good,34,Moderate,2018-09-15 16:00:00
+India,Bhander,166,Unhealthy,0,Good,40,Unhealthy for Sensitive Groups,22,Good,123,Unhealthy,2018-08-20 14:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,8,Good,77,Good,8,Good,43,Unhealthy for Sensitive Groups,2018-08-05 14:00:00
+Viet Nam,Cao Bang,47,Good,2,Good,102,Good,38,Good,9,Good,2018-08-21 11:00:00
+Russian Federation,Kurskaya,40,Good,11,Good,0,Good,52,Good,5,Good,2018-11-12 07:00:00
+Brazil,Palmares,45,Good,3,Good,33,Good,26,Good,5,Good,2018-07-01 17:00:00
+India,Sidhi,162,Unhealthy,11,Good,25,Unhealthy,72,Good,130,Unhealthy,2018-08-29 10:00:00
+Myanmar,Loikaw,15,Good,9,Good,90,Good,45,Good,7,Good,2018-11-01 14:00:00
+Netherlands,Harenkarspel,38,Good,12,Good,24,Good,95,Good,7,Good,2018-01-31 11:00:00
+Lesotho,Quthing,77,Moderate,7,Good,99,Good,62,Good,19,Moderate,2018-07-06 11:00:00
+Belgium,Brugge,37,Good,10,Good,87,Good,46,Good,8,Good,2018-03-07 02:00:00
+France,Enghien Les Bains,55,Moderate,8,Good,3,Good,14,Good,29,Moderate,2018-01-31 15:00:00
+Poland,Szamotuly,51,Moderate,2,Good,48,Good,64,Good,30,Moderate,2018-04-07 14:00:00
+Poland,Zory,68,Moderate,14,Good,109,Good,71,Good,22,Moderate,2018-08-10 11:00:00
+United States of America,Taylors,58,Moderate,2,Good,46,Good,1,Good,25,Moderate,2018-11-30 01:00:00
+Brazil,Novo Cruzeiro,23,Good,10,Good,37,Good,54,Good,1,Good,2018-11-26 12:00:00
+United States of America,Berkley,85,Moderate,9,Good,102,Good,6,Good,27,Moderate,2018-10-11 18:00:00
+India,Karauli,213,Very Unhealthy,12,Good,10,Good,7,Good,202,Very Unhealthy,2018-12-31 05:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,11,Good,23,Good,58,Good,5,Good,2018-04-30 08:00:00
+Honduras,Cofradia,74,Moderate,5,Good,110,Good,11,Good,24,Moderate,2018-07-26 07:00:00
+Nigeria,Port Harcourt,179,Unhealthy,13,Good,82,Good,57,Good,142,Unhealthy,2018-09-18 19:00:00
+Russian Federation,Uzhur,33,Good,8,Good,85,Good,45,Good,1,Good,2018-02-21 14:00:00
+India,Rajur,150,Unhealthy,6,Good,94,Good,28,Good,105,Unhealthy,2018-02-12 12:00:00
+Japan,Inuyama,47,Good,11,Good,99,Good,36,Good,1,Good,2018-07-07 19:00:00
+Czechia,Pisek,66,Moderate,13,Good,10,Good,32,Good,27,Moderate,2018-12-12 16:00:00
+Netherlands,Bussum,38,Good,11,Good,110,Good,89,Good,5,Good,2018-10-10 07:00:00
+Congo,Kinkala,68,Moderate,1,Good,115,Good,79,Good,19,Moderate,2018-10-06 06:00:00
+Brazil,Barreirinha,25,Good,7,Good,90,Good,46,Good,1,Good,2018-11-29 08:00:00
+India,Bali Chak,166,Unhealthy,4,Good,110,Moderate,71,Good,62,Unhealthy,2018-11-06 16:00:00
+United States of America,South Lake Tahoe,54,Moderate,0,Good,109,Good,9,Good,19,Moderate,2018-12-11 01:00:00
+Russian Federation,Meleuz,36,Good,8,Good,117,Good,26,Good,6,Good,2018-06-11 08:00:00
+United States of America,Grand Haven,53,Moderate,11,Good,67,Good,75,Good,25,Moderate,2018-10-14 22:00:00
+Guatemala,Cubulco,77,Moderate,5,Good,9,Good,97,Good,20,Moderate,2018-08-30 23:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,5,Good,5,Good,12,Good,39,Unhealthy for Sensitive Groups,2018-04-03 10:00:00
+El Salvador,Acajutla,71,Moderate,8,Good,55,Good,52,Good,35,Moderate,2018-12-25 11:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,13,Good,22,Good,70,Good,38,Unhealthy for Sensitive Groups,2018-05-10 01:00:00
+United States of America,White Settlement,50,Good,13,Good,3,Good,14,Good,1,Good,2018-02-10 10:00:00
+United States of America,University Place,44,Good,4,Good,34,Good,71,Good,3,Good,2018-06-20 21:00:00
+Netherlands,Haaren,41,Good,8,Good,118,Good,26,Good,2,Good,2018-12-29 15:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,2,Good,39,Good,29,Good,54,Unhealthy for Sensitive Groups,2018-07-09 16:00:00
+Germany,Peine,45,Good,14,Good,35,Good,4,Good,6,Good,2018-07-25 12:00:00
+China,Suozhen,156,Unhealthy,7,Good,107,Unhealthy for Sensitive Groups,79,Good,94,Unhealthy,2018-02-05 15:00:00
+India,Handia,189,Unhealthy,4,Good,103,Moderate,29,Good,94,Unhealthy,2018-12-11 10:00:00
+Romania,Petrila,53,Moderate,6,Good,22,Good,44,Good,21,Moderate,2018-06-20 11:00:00
+Netherlands,Breukelen,35,Good,4,Good,51,Good,23,Good,3,Good,2018-10-31 04:00:00
+Pakistan,Lalian,173,Unhealthy,13,Good,119,Unhealthy for Sensitive Groups,58,Good,131,Unhealthy,2018-03-08 08:00:00
+Italy,Villa Literno,49,Good,8,Good,81,Good,93,Good,8,Good,2018-01-19 19:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,4,Good,59,Good,44,Good,49,Unhealthy for Sensitive Groups,2018-07-17 12:00:00
+Germany,Hagen,30,Good,12,Good,85,Good,11,Good,11,Good,2018-08-14 21:00:00
+Bulgaria,Kazanlak,56,Moderate,6,Good,4,Good,88,Good,29,Moderate,2018-11-13 01:00:00
+Italy,Trezzo,59,Moderate,9,Good,62,Good,64,Good,28,Moderate,2018-05-25 05:00:00
+India,Harpalpur,167,Unhealthy,12,Good,52,Unhealthy for Sensitive Groups,48,Good,140,Unhealthy,2018-06-23 16:00:00
+United States of America,Little Rock,68,Moderate,7,Good,36,Good,55,Good,30,Moderate,2018-07-22 09:00:00
+Italy,Roncade,52,Moderate,5,Good,97,Good,24,Good,28,Moderate,2018-11-07 09:00:00
+India,Handia,189,Unhealthy,4,Good,108,Moderate,21,Good,92,Unhealthy,2018-07-02 10:00:00
+Brazil,Guapiacu,57,Moderate,11,Good,25,Good,38,Good,18,Moderate,2018-04-29 22:00:00
+India,Narnaund,152,Unhealthy,0,Good,74,Unhealthy for Sensitive Groups,86,Good,68,Unhealthy,2018-04-10 03:00:00
+Germany,Hameln,37,Good,4,Good,112,Good,94,Good,8,Good,2018-01-30 23:00:00
+United Republic of Tanzania,Kilindoni,36,Good,11,Good,48,Good,70,Good,10,Good,2018-09-28 02:00:00
+Croatia,Vukovar,69,Moderate,0,Good,14,Good,70,Good,21,Moderate,2018-04-21 10:00:00
+Germany,Erlenbach,35,Good,3,Good,94,Good,59,Good,11,Good,2018-02-28 09:00:00
+India,Baramula,152,Unhealthy,13,Good,22,Good,46,Good,104,Unhealthy,2018-02-07 16:00:00
+Paraguay,Asuncion,26,Good,8,Good,115,Good,84,Good,11,Good,2018-11-14 20:00:00
+Japan,Nobeoka,40,Good,2,Good,99,Good,17,Good,12,Good,2018-09-23 22:00:00
+Germany,Cadolzburg,64,Moderate,4,Good,45,Moderate,53,Good,13,Moderate,2018-03-13 22:00:00
+Philippines,Calatagan,50,Good,2,Good,90,Good,52,Good,7,Good,2018-02-27 23:00:00
+India,Shahpura,169,Unhealthy,12,Good,113,Good,71,Good,63,Unhealthy,2018-09-04 06:00:00
+United States of America,Takoma Park,47,Good,4,Good,51,Good,71,Good,0,Good,2018-01-08 15:00:00
+Mexico,Cuautepec,160,Unhealthy,11,Good,112,Good,7,Good,139,Unhealthy,2018-02-01 01:00:00
+United Republic of Tanzania,Maswa,24,Good,1,Good,21,Good,87,Good,5,Good,2018-03-03 06:00:00
+France,Coudekerque Branche,44,Good,5,Good,61,Good,4,Good,6,Good,2018-04-07 05:00:00
+Belgium,Temse,42,Good,3,Good,69,Good,65,Good,3,Good,2018-01-07 07:00:00
+India,Dahanu,76,Moderate,14,Good,98,Good,22,Good,23,Moderate,2018-03-31 09:00:00
+Japan,Yoshii,69,Moderate,7,Good,111,Good,30,Good,14,Moderate,2018-10-02 07:00:00
+United States of America,Rome,67,Moderate,13,Good,110,Good,70,Good,22,Moderate,2018-05-20 01:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,14,Good,111,Good,54,Good,46,Unhealthy for Sensitive Groups,2018-05-11 00:00:00
+Colombia,Soata,26,Good,12,Good,52,Good,13,Good,6,Good,2018-08-11 17:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,9,Good,111,Good,35,Good,1,Good,2018-02-27 22:00:00
+Lesotho,Quthing,77,Moderate,10,Good,72,Good,55,Good,29,Moderate,2018-01-04 18:00:00
+Italy,Racconigi,73,Moderate,7,Good,64,Good,27,Good,30,Moderate,2018-06-20 06:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,7,Good,67,Good,15,Good,4,Good,2018-04-10 23:00:00
+Netherlands,Sint Oedenrode,38,Good,10,Good,49,Good,56,Good,8,Good,2018-02-13 23:00:00
+Italy,Porto Empedocle,65,Moderate,14,Good,102,Good,81,Good,17,Moderate,2018-01-29 07:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,13,Good,67,Good,3,Good,6,Good,2018-02-17 15:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,3,Good,29,Unhealthy,99,Good,222,Very Unhealthy,2018-04-25 10:00:00
+Poland,Sulecin,55,Moderate,13,Good,101,Good,67,Good,17,Moderate,2018-10-16 05:00:00
+Japan,Yatsuo,43,Good,2,Good,112,Good,75,Good,7,Good,2018-01-01 04:00:00
+Germany,Lilienthal,65,Moderate,8,Good,11,Good,90,Good,34,Moderate,2018-06-15 19:00:00
+India,Karauli,213,Very Unhealthy,10,Good,92,Good,10,Good,184,Very Unhealthy,2018-12-12 17:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,12,Good,83,Good,48,Good,31,Moderate,2018-08-17 19:00:00
+Germany,Goslar,38,Good,1,Good,61,Good,77,Good,4,Good,2018-08-21 22:00:00
+India,Hangal,70,Moderate,4,Good,54,Good,85,Good,13,Moderate,2018-03-18 00:00:00
+India,Sardhana,160,Unhealthy,14,Good,66,Unhealthy for Sensitive Groups,67,Good,103,Unhealthy,2018-12-28 03:00:00
+Japan,Hitoyoshi,52,Moderate,5,Good,113,Good,58,Good,32,Moderate,2018-07-25 10:00:00
+Germany,Bremen,66,Moderate,0,Good,105,Good,95,Good,21,Moderate,2018-01-05 18:00:00
+United States of America,Taylors,58,Moderate,8,Good,4,Good,23,Good,35,Moderate,2018-12-13 19:00:00
+Russian Federation,Gorkovskiy,38,Good,9,Good,109,Good,83,Good,4,Good,2018-02-27 16:00:00
+China,Beibei,166,Unhealthy,6,Good,83,Moderate,30,Good,140,Unhealthy,2018-06-16 15:00:00
+Spain,Huesca,37,Good,3,Good,31,Good,82,Good,5,Good,2018-02-09 14:00:00
+Ghana,Nsawam,28,Good,13,Good,82,Good,41,Good,3,Good,2018-04-01 01:00:00
+Pakistan,Sarhari,165,Unhealthy,6,Good,92,Good,15,Good,117,Unhealthy,2018-05-02 20:00:00
+United States of America,Ledyard,41,Good,14,Good,104,Good,5,Good,4,Good,2018-05-08 06:00:00
+Germany,Kall,58,Moderate,5,Good,77,Good,86,Good,13,Moderate,2018-05-07 01:00:00
+Kazakhstan,Ilyich,161,Unhealthy,4,Good,27,Moderate,87,Good,136,Unhealthy,2018-12-29 07:00:00
+India,Phulabani,161,Unhealthy,8,Good,103,Moderate,96,Good,140,Unhealthy,2018-05-10 23:00:00
+India,Kodumudi,71,Moderate,0,Good,61,Good,94,Good,16,Moderate,2018-02-24 09:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,5,Good,63,Good,36,Good,45,Unhealthy for Sensitive Groups,2018-09-29 23:00:00
+Russian Federation,Korkino,34,Good,1,Good,63,Good,39,Good,8,Good,2018-01-13 02:00:00
+France,Epernay,53,Moderate,7,Good,97,Good,7,Good,22,Moderate,2018-10-13 06:00:00
+United States of America,Wayland,47,Good,10,Good,96,Good,41,Good,6,Good,2018-03-09 03:00:00
+Chile,Curico,93,Moderate,13,Good,85,Good,69,Good,28,Moderate,2018-09-03 18:00:00
+France,Septemes Les Vallons,31,Good,6,Good,66,Good,87,Good,12,Good,2018-09-20 07:00:00
+Myanmar,Taunggyi,39,Good,2,Good,119,Good,45,Good,12,Good,2018-09-12 04:00:00
+United Republic of Tanzania,Kisesa,24,Good,3,Good,58,Good,8,Good,3,Good,2018-06-08 19:00:00
+India,Manohar Thana,168,Unhealthy,10,Good,29,Good,13,Good,109,Unhealthy,2018-02-08 09:00:00
+United States of America,Lompoc,38,Good,1,Good,108,Good,19,Good,10,Good,2018-08-24 06:00:00
+Russian Federation,Cherdakly,51,Moderate,12,Good,33,Good,3,Good,32,Moderate,2018-12-13 08:00:00
+France,Levallois Perret,70,Moderate,6,Good,13,Good,44,Good,27,Moderate,2018-05-29 13:00:00
+France,Epernay,53,Moderate,5,Good,55,Good,61,Good,21,Moderate,2018-10-31 01:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,4,Good,43,Good,40,Good,143,Unhealthy,2018-01-25 07:00:00
+Japan,Inuyama,47,Good,6,Good,106,Good,74,Good,7,Good,2018-02-08 00:00:00
+Hungary,Tata,66,Moderate,10,Good,113,Good,34,Good,16,Moderate,2018-10-24 06:00:00
+Germany,Wehr,94,Moderate,14,Good,97,Good,64,Good,32,Moderate,2018-01-14 09:00:00
+Brazil,Iguaba Grande,61,Moderate,12,Good,105,Good,8,Good,15,Moderate,2018-12-13 04:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,2,Good,109,Good,52,Good,18,Moderate,2018-12-17 15:00:00
+Belgium,De Pinte,36,Good,12,Good,5,Good,20,Good,2,Good,2018-02-04 20:00:00
+Brazil,Caririacu,27,Good,2,Good,83,Good,90,Good,11,Good,2018-09-11 21:00:00
+United States of America,Shawnee,95,Moderate,14,Good,114,Good,66,Good,29,Moderate,2018-07-26 05:00:00
+India,Neyveli,61,Moderate,12,Good,88,Good,4,Good,23,Moderate,2018-07-05 10:00:00
+United States of America,Beeville,36,Good,5,Good,113,Good,16,Good,10,Good,2018-01-10 09:00:00
+France,Levallois Perret,70,Moderate,1,Good,67,Good,46,Good,20,Moderate,2018-11-30 22:00:00
+United States of America,Rock Springs,22,Good,0,Good,114,Good,88,Good,8,Good,2018-07-10 00:00:00
+Poland,Katowice,80,Moderate,14,Good,63,Good,8,Good,15,Moderate,2018-12-18 22:00:00
+United States of America,Hopkins,54,Moderate,2,Good,92,Good,92,Good,32,Moderate,2018-04-22 16:00:00
+Brazil,Piquete,52,Moderate,4,Good,113,Good,36,Good,14,Moderate,2018-04-30 10:00:00
+France,Luneville,38,Good,9,Good,53,Good,1,Good,11,Good,2018-11-02 04:00:00
+Poland,Pulawy,30,Good,3,Good,43,Good,96,Good,0,Good,2018-03-20 08:00:00
+Madagascar,Arivonimamo,21,Good,11,Good,19,Good,84,Good,1,Good,2018-01-05 05:00:00
+Russian Federation,Gusev,34,Good,3,Good,11,Good,8,Good,6,Good,2018-08-10 09:00:00
+India,Mundwa,212,Very Unhealthy,14,Good,89,Good,38,Good,229,Very Unhealthy,2018-01-03 23:00:00
+United States of America,Orange,51,Moderate,11,Good,51,Good,96,Good,20,Moderate,2018-05-16 02:00:00
+Afghanistan,Dawlatabad,92,Moderate,2,Good,92,Good,46,Good,13,Moderate,2018-07-23 07:00:00
+United States of America,Rosedale,42,Good,10,Good,68,Good,49,Good,7,Good,2018-01-17 11:00:00
+Brazil,Russas,28,Good,0,Good,41,Good,25,Good,12,Good,2018-04-12 01:00:00
+Pakistan,Bhopalwala,153,Unhealthy,4,Good,86,Unhealthy for Sensitive Groups,54,Good,102,Unhealthy,2018-01-12 21:00:00
+Russian Federation,Izberbash,51,Moderate,6,Good,116,Good,71,Good,22,Moderate,2018-10-27 06:00:00
+Poland,Krotoszyn,55,Moderate,11,Good,21,Good,1,Good,16,Moderate,2018-07-09 07:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,9,Good,18,Good,3,Good,6,Good,2018-06-20 05:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,2,Good,11,Moderate,77,Good,37,Unhealthy for Sensitive Groups,2018-06-09 10:00:00
+United States of America,Corsicana,47,Good,11,Good,106,Good,91,Good,9,Good,2018-09-09 18:00:00
+France,Ajaccio,44,Good,5,Good,25,Good,23,Good,5,Good,2017-08-04 08:00:00
+India,Mangaldai,64,Moderate,9,Good,0,Good,69,Good,29,Moderate,2017-04-06 17:00:00
+Brazil,Carazinho,19,Good,14,Good,18,Good,20,Good,0,Good,2017-08-31 23:00:00
+Thailand,Chumphon,41,Good,10,Good,20,Good,56,Good,12,Good,2017-10-13 02:00:00
+Pakistan,Sarai Naurang,175,Unhealthy,6,Good,0,Moderate,93,Good,124,Unhealthy,2017-08-01 19:00:00
+France,Limeil Brevannes,73,Moderate,5,Good,97,Good,26,Good,32,Moderate,2017-12-17 11:00:00
+Italy,Porto Empedocle,65,Moderate,0,Good,10,Good,57,Good,21,Moderate,2017-04-24 22:00:00
+India,Polur,60,Moderate,12,Good,13,Good,49,Good,30,Moderate,2017-03-23 11:00:00
+India,Cumbum,106,Unhealthy for Sensitive Groups,0,Good,72,Good,29,Good,43,Unhealthy for Sensitive Groups,2017-03-07 03:00:00
+France,Saint Benoit,57,Moderate,4,Good,84,Good,74,Good,13,Moderate,2017-04-30 08:00:00
+Germany,Tostedt,35,Good,10,Good,57,Good,75,Good,5,Good,2017-01-07 23:00:00
+France,Saint Sebastien Sur Loire,32,Good,12,Good,68,Good,43,Good,7,Good,2017-06-12 04:00:00
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,9,Good,36,Good,62,Good,24,Moderate,2017-03-17 07:00:00
+India,Silvassa,134,Unhealthy for Sensitive Groups,4,Good,51,Good,2,Good,42,Unhealthy for Sensitive Groups,2017-02-10 05:00:00
+Italy,Trebaseleghe,78,Moderate,13,Good,112,Good,22,Good,27,Moderate,2017-02-11 21:00:00
+Guatemala,San Pedro Sacatepequez,57,Moderate,6,Good,23,Good,98,Good,33,Moderate,2017-10-20 14:00:00
+Montenegro,Niksic,79,Moderate,7,Good,2,Good,66,Good,34,Moderate,2017-10-14 07:00:00
+Madagascar,Nosy Varika,25,Good,6,Good,32,Good,77,Good,7,Good,2017-01-15 06:00:00
+Spain,Martorell,36,Good,4,Good,28,Good,47,Good,6,Good,2017-03-22 04:00:00
+India,Tirur,71,Moderate,13,Good,17,Good,8,Good,19,Moderate,2017-04-14 13:00:00
+Germany,Rehburg Loccum,43,Good,3,Good,29,Good,23,Good,5,Good,2017-02-18 03:00:00
+Brazil,Vitoria Da Conquista,38,Good,13,Good,54,Good,46,Good,8,Good,2017-01-24 11:00:00
+United States of America,Fairview Heights,45,Good,4,Good,72,Good,59,Good,12,Good,2017-02-07 15:00:00
+India,Sanquelim,84,Moderate,13,Good,95,Good,82,Good,32,Moderate,2017-09-06 06:00:00
+Belgium,Soignies,49,Good,10,Good,51,Good,94,Good,9,Good,2017-08-24 01:00:00
+Brazil,Sertanopolis,36,Good,0,Good,27,Good,99,Good,9,Good,2017-12-17 03:00:00
+Cameroon,Guider,76,Moderate,14,Good,81,Good,84,Good,24,Moderate,2017-09-13 21:00:00
+Afghanistan,Geresk,106,Unhealthy for Sensitive Groups,12,Good,114,Good,91,Good,49,Unhealthy for Sensitive Groups,2017-08-19 04:00:00
+United States of America,Edison,50,Good,9,Good,45,Good,80,Good,6,Good,2017-06-29 05:00:00
+Germany,Bad Langensalza,32,Good,7,Good,73,Good,65,Good,1,Good,2017-08-07 01:00:00
+France,Pessac,54,Moderate,3,Good,57,Good,57,Good,22,Moderate,2017-10-29 21:00:00
+Philippines,Katipunan,152,Unhealthy,3,Good,6,Good,64,Good,114,Unhealthy,2017-07-29 11:00:00
+Slovenia,Celje,85,Moderate,13,Good,98,Good,14,Good,27,Moderate,2017-09-27 16:00:00
+China,Shangqiu,132,Unhealthy for Sensitive Groups,5,Good,3,Unhealthy for Sensitive Groups,36,Good,22,Moderate,2017-07-19 17:00:00
+South Africa,Fochville,154,Unhealthy,2,Good,106,Good,67,Good,127,Unhealthy,2017-09-14 10:00:00
+Belgium,Herzele,51,Moderate,0,Good,38,Good,57,Good,27,Moderate,2017-02-25 00:00:00
+United States of America,Beeville,36,Good,12,Good,102,Good,59,Good,2,Good,2017-03-08 17:00:00
+Brazil,Varzea Alegre,22,Good,2,Good,32,Good,13,Good,10,Good,2017-11-15 11:00:00
+United States of America,Glen Allen,53,Moderate,12,Good,25,Good,49,Good,23,Moderate,2017-10-16 10:00:00
+India,Botad,127,Unhealthy for Sensitive Groups,13,Good,12,Good,18,Good,45,Unhealthy for Sensitive Groups,2017-12-06 07:00:00
+Greece,Ioannina,69,Moderate,11,Good,70,Good,79,Good,16,Moderate,2017-03-02 16:00:00
+El Salvador,Gotera,95,Moderate,5,Good,106,Good,23,Good,13,Moderate,2017-08-05 20:00:00
+Ukraine,Chernyakhiv,56,Moderate,7,Good,44,Good,50,Good,29,Moderate,2017-03-04 05:00:00
+Spain,San Lorenzo De El Escorial,23,Good,12,Good,98,Good,24,Good,4,Good,2017-12-04 18:00:00
+Poland,Szamotuly,51,Moderate,5,Good,94,Good,46,Good,15,Moderate,2017-06-23 19:00:00
+Portugal,Lamego,25,Good,4,Good,45,Good,83,Good,9,Good,2017-08-05 05:00:00
+Italy,Bracciano,41,Good,3,Good,45,Good,55,Good,9,Good,2017-10-13 03:00:00
+United States of America,Woonsocket,42,Good,1,Good,23,Good,60,Good,3,Good,2017-06-12 11:00:00
+Panama,Panama,61,Moderate,10,Good,69,Good,79,Good,27,Moderate,2017-12-13 03:00:00
+United Republic of Tanzania,Bugarama,45,Good,4,Good,13,Good,50,Good,10,Good,2017-06-01 11:00:00
+Thailand,Phon,93,Moderate,1,Good,115,Good,78,Good,20,Moderate,2017-09-26 23:00:00
+India,Bhander,166,Unhealthy,9,Good,15,Unhealthy for Sensitive Groups,76,Good,99,Unhealthy,2017-05-25 22:00:00
+India,Karimganj,129,Unhealthy for Sensitive Groups,3,Good,119,Good,49,Good,37,Unhealthy for Sensitive Groups,2017-06-10 10:00:00
+Viet Nam,Cao Bang,47,Good,11,Good,72,Good,9,Good,2,Good,2017-02-11 14:00:00
+Russian Federation,Kurskaya,40,Good,5,Good,45,Good,13,Good,4,Good,2017-03-14 03:00:00
+Brazil,Palmares,45,Good,10,Good,60,Good,67,Good,12,Good,2017-03-19 20:00:00
+India,Sidhi,162,Unhealthy,11,Good,0,Unhealthy,61,Good,108,Unhealthy,2017-01-24 14:00:00
+Myanmar,Loikaw,15,Good,13,Good,83,Good,65,Good,9,Good,2017-05-26 17:00:00
+Netherlands,Harenkarspel,38,Good,14,Good,75,Good,70,Good,3,Good,2017-02-27 00:00:00
+Lesotho,Quthing,77,Moderate,12,Good,0,Good,46,Good,22,Moderate,2017-04-05 02:00:00
+Belgium,Brugge,37,Good,0,Good,68,Good,16,Good,0,Good,2017-09-16 23:00:00
+France,Enghien Les Bains,55,Moderate,8,Good,104,Good,92,Good,23,Moderate,2017-01-16 21:00:00
+Poland,Szamotuly,51,Moderate,9,Good,71,Good,71,Good,26,Moderate,2017-07-03 10:00:00
+Poland,Zory,68,Moderate,11,Good,37,Good,17,Good,13,Moderate,2017-02-28 07:00:00
+United States of America,Taylors,58,Moderate,4,Good,2,Good,73,Good,23,Moderate,2017-07-29 09:00:00
+Brazil,Novo Cruzeiro,23,Good,6,Good,36,Good,93,Good,8,Good,2017-08-08 10:00:00
+United States of America,Berkley,85,Moderate,11,Good,117,Good,74,Good,17,Moderate,2017-08-03 12:00:00
+India,Karauli,213,Very Unhealthy,1,Good,48,Good,34,Good,217,Very Unhealthy,2017-08-22 10:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,6,Good,38,Good,60,Good,0,Good,2017-05-01 13:00:00
+Honduras,Cofradia,74,Moderate,3,Good,22,Good,67,Good,16,Moderate,2017-01-17 18:00:00
+Nigeria,Port Harcourt,179,Unhealthy,6,Good,61,Good,11,Good,113,Unhealthy,2017-11-06 01:00:00
+Russian Federation,Uzhur,33,Good,12,Good,37,Good,78,Good,8,Good,2017-09-24 19:00:00
+India,Rajur,150,Unhealthy,6,Good,117,Good,55,Good,111,Unhealthy,2017-12-03 22:00:00
+Japan,Inuyama,47,Good,14,Good,92,Good,63,Good,1,Good,2017-04-16 06:00:00
+Czechia,Pisek,66,Moderate,10,Good,22,Good,99,Good,26,Moderate,2017-03-18 16:00:00
+Netherlands,Bussum,38,Good,3,Good,10,Good,89,Good,4,Good,2017-07-17 11:00:00
+Congo,Kinkala,68,Moderate,4,Good,30,Good,36,Good,34,Moderate,2017-04-10 00:00:00
+Brazil,Barreirinha,25,Good,10,Good,116,Good,13,Good,4,Good,2017-08-14 17:00:00
+India,Bali Chak,166,Unhealthy,14,Good,22,Moderate,36,Good,88,Unhealthy,2017-02-13 09:00:00
+United States of America,South Lake Tahoe,54,Moderate,14,Good,78,Good,32,Good,26,Moderate,2017-07-03 06:00:00
+Russian Federation,Meleuz,36,Good,5,Good,66,Good,76,Good,5,Good,2017-06-02 06:00:00
+United States of America,Grand Haven,53,Moderate,3,Good,40,Good,41,Good,18,Moderate,2017-03-29 05:00:00
+Guatemala,Cubulco,77,Moderate,4,Good,27,Good,89,Good,21,Moderate,2017-01-10 12:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,0,Good,29,Good,99,Good,53,Unhealthy for Sensitive Groups,2017-04-12 00:00:00
+El Salvador,Acajutla,71,Moderate,14,Good,101,Good,25,Good,20,Moderate,2017-09-02 07:00:00
+Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,8,Good,61,Good,19,Good,37,Unhealthy for Sensitive Groups,2017-03-02 20:00:00
+United States of America,White Settlement,50,Good,8,Good,115,Good,22,Good,12,Good,2017-04-26 01:00:00
+United States of America,University Place,44,Good,3,Good,88,Good,27,Good,4,Good,2017-12-14 02:00:00
+Netherlands,Haaren,41,Good,11,Good,70,Good,48,Good,4,Good,2017-03-09 08:00:00
+Poland,Radzionkow,112,Unhealthy for Sensitive Groups,2,Good,43,Good,54,Good,54,Unhealthy for Sensitive Groups,2017-10-29 05:00:00
+Germany,Peine,45,Good,14,Good,13,Good,61,Good,12,Good,2017-01-24 09:00:00
+China,Suozhen,156,Unhealthy,11,Good,19,Unhealthy for Sensitive Groups,87,Good,81,Unhealthy,2017-04-01 10:00:00
+India,Handia,189,Unhealthy,10,Good,3,Moderate,39,Good,140,Unhealthy,2017-11-02 14:00:00
+Romania,Petrila,53,Moderate,11,Good,90,Good,25,Good,27,Moderate,2017-05-01 22:00:00
+Netherlands,Breukelen,35,Good,12,Good,62,Good,63,Good,12,Good,2017-03-24 10:00:00
+Pakistan,Lalian,173,Unhealthy,1,Good,19,Unhealthy for Sensitive Groups,8,Good,147,Unhealthy,2017-06-09 04:00:00
+Italy,Villa Literno,49,Good,14,Good,100,Good,21,Good,7,Good,2017-11-14 12:00:00
+Nepal,Baglung,121,Unhealthy for Sensitive Groups,13,Good,24,Good,46,Good,53,Unhealthy for Sensitive Groups,2017-03-21 02:00:00
+Germany,Hagen,30,Good,13,Good,61,Good,57,Good,5,Good,2017-05-13 01:00:00
+Bulgaria,Kazanlak,56,Moderate,8,Good,30,Good,89,Good,15,Moderate,2017-05-19 00:00:00
+Italy,Trezzo,59,Moderate,6,Good,51,Good,47,Good,32,Moderate,2017-02-25 02:00:00
+India,Harpalpur,167,Unhealthy,5,Good,91,Unhealthy for Sensitive Groups,57,Good,138,Unhealthy,2017-07-19 15:00:00
+United States of America,Little Rock,68,Moderate,2,Good,15,Good,26,Good,25,Moderate,2017-03-12 12:00:00
+Italy,Roncade,52,Moderate,2,Good,20,Good,37,Good,14,Moderate,2017-09-19 12:00:00
+India,Handia,189,Unhealthy,12,Good,107,Moderate,7,Good,132,Unhealthy,2017-10-21 02:00:00
+Brazil,Guapiacu,57,Moderate,14,Good,7,Good,53,Good,13,Moderate,2017-02-19 18:00:00
+India,Narnaund,152,Unhealthy,10,Good,77,Unhealthy for Sensitive Groups,87,Good,64,Unhealthy,2017-03-18 08:00:00
+Germany,Hameln,37,Good,0,Good,73,Good,97,Good,9,Good,2017-03-11 20:00:00
+United Republic of Tanzania,Kilindoni,36,Good,0,Good,58,Good,46,Good,1,Good,2017-11-22 07:00:00
+Croatia,Vukovar,69,Moderate,10,Good,22,Good,87,Good,31,Moderate,2017-10-14 15:00:00
+Germany,Erlenbach,35,Good,12,Good,110,Good,86,Good,0,Good,2017-07-21 10:00:00
+India,Baramula,152,Unhealthy,10,Good,37,Good,45,Good,70,Unhealthy,2017-11-12 02:00:00
+Paraguay,Asuncion,26,Good,3,Good,62,Good,64,Good,5,Good,2017-10-30 17:00:00
+Japan,Nobeoka,40,Good,0,Good,98,Good,63,Good,11,Good,2017-07-07 17:00:00
+Germany,Cadolzburg,64,Moderate,10,Good,66,Moderate,2,Good,25,Moderate,2017-05-28 22:00:00
+Philippines,Calatagan,50,Good,13,Good,90,Good,96,Good,11,Good,2017-08-06 21:00:00
+India,Shahpura,169,Unhealthy,7,Good,31,Good,22,Good,109,Unhealthy,2017-12-02 17:00:00
+United States of America,Takoma Park,47,Good,1,Good,90,Good,58,Good,4,Good,2017-03-03 15:00:00
+Mexico,Cuautepec,160,Unhealthy,2,Good,90,Good,10,Good,83,Unhealthy,2017-07-25 21:00:00
+United Republic of Tanzania,Maswa,24,Good,11,Good,24,Good,42,Good,0,Good,2017-11-09 17:00:00
+France,Coudekerque Branche,44,Good,0,Good,33,Good,59,Good,10,Good,2017-01-04 13:00:00
+Belgium,Temse,42,Good,11,Good,21,Good,28,Good,11,Good,2017-12-13 09:00:00
+India,Dahanu,76,Moderate,11,Good,61,Good,65,Good,17,Moderate,2017-08-14 10:00:00
+Japan,Yoshii,69,Moderate,5,Good,78,Good,61,Good,19,Moderate,2017-12-13 10:00:00
+United States of America,Rome,67,Moderate,6,Good,117,Good,18,Good,35,Moderate,2017-06-19 20:00:00
+South Africa,Glencoe,139,Unhealthy for Sensitive Groups,0,Good,96,Good,90,Good,44,Unhealthy for Sensitive Groups,2017-05-04 15:00:00
+Colombia,Soata,26,Good,0,Good,43,Good,81,Good,2,Good,2017-01-22 09:00:00
+Russian Federation,Krasnogvardeyskoye,48,Good,14,Good,47,Good,7,Good,3,Good,2017-07-16 22:00:00
+Lesotho,Quthing,77,Moderate,12,Good,22,Good,2,Good,21,Moderate,2017-10-23 01:00:00
+Italy,Racconigi,73,Moderate,2,Good,84,Good,84,Good,16,Moderate,2017-10-12 17:00:00
+United Kingdom of Great Britain and Northern Ireland,Havant,41,Good,12,Good,116,Good,92,Good,11,Good,2017-12-09 13:00:00
+Netherlands,Sint Oedenrode,38,Good,13,Good,14,Good,38,Good,3,Good,2017-08-05 21:00:00
+Italy,Porto Empedocle,65,Moderate,10,Good,90,Good,5,Good,28,Moderate,2017-08-24 17:00:00
+United Kingdom of Great Britain and Northern Ireland,Cheltenham,47,Good,10,Good,26,Good,57,Good,6,Good,2017-07-12 10:00:00
+India,Fatehgarh Churian,248,Very Unhealthy,1,Good,69,Unhealthy,4,Good,229,Very Unhealthy,2017-05-03 08:00:00
+Poland,Sulecin,55,Moderate,7,Good,35,Good,37,Good,33,Moderate,2017-02-03 02:00:00
+Japan,Yatsuo,43,Good,3,Good,86,Good,15,Good,8,Good,2017-12-01 12:00:00
+Germany,Lilienthal,65,Moderate,14,Good,58,Good,36,Good,23,Moderate,2017-07-21 01:00:00
+India,Karauli,213,Very Unhealthy,7,Good,5,Good,59,Good,232,Very Unhealthy,2017-04-18 07:00:00
+Iran (Islamic Republic of),Zanjan,58,Moderate,4,Good,67,Good,44,Good,35,Moderate,2017-07-18 02:00:00
+Germany,Goslar,38,Good,8,Good,56,Good,13,Good,8,Good,2017-08-23 16:00:00
+India,Hangal,70,Moderate,13,Good,90,Good,50,Good,22,Moderate,2017-08-11 13:00:00
+India,Sardhana,160,Unhealthy,0,Good,16,Unhealthy for Sensitive Groups,61,Good,108,Unhealthy,2017-04-01 06:00:00
+Japan,Hitoyoshi,52,Moderate,10,Good,115,Good,87,Good,30,Moderate,2017-08-23 13:00:00
+Germany,Bremen,66,Moderate,13,Good,76,Good,27,Good,24,Moderate,2017-04-19 16:00:00
+United States of America,Taylors,58,Moderate,1,Good,116,Good,11,Good,33,Moderate,2017-12-31 02:00:00
+Russian Federation,Gorkovskiy,38,Good,11,Good,57,Good,38,Good,6,Good,2017-03-05 04:00:00
+China,Beibei,166,Unhealthy,2,Good,106,Moderate,49,Good,66,Unhealthy,2017-07-17 06:00:00
+Spain,Huesca,37,Good,8,Good,21,Good,79,Good,4,Good,2017-08-07 09:00:00
+Ghana,Nsawam,28,Good,6,Good,102,Good,4,Good,3,Good,2017-04-23 07:00:00
+Pakistan,Sarhari,165,Unhealthy,14,Good,90,Good,80,Good,135,Unhealthy,2017-09-13 11:00:00
+United States of America,Ledyard,41,Good,6,Good,34,Good,17,Good,7,Good,2017-06-26 21:00:00
+Germany,Kall,58,Moderate,3,Good,115,Good,68,Good,18,Moderate,2017-10-27 16:00:00
+Kazakhstan,Ilyich,161,Unhealthy,11,Good,32,Moderate,10,Good,88,Unhealthy,2017-09-05 17:00:00
+India,Phulabani,161,Unhealthy,2,Good,24,Moderate,2,Good,58,Unhealthy,2017-05-25 08:00:00
+India,Kodumudi,71,Moderate,3,Good,71,Good,73,Good,34,Moderate,2017-02-21 18:00:00
+France,Le Robert,106,Unhealthy for Sensitive Groups,2,Good,97,Good,77,Good,43,Unhealthy for Sensitive Groups,2017-07-15 14:00:00
+Russian Federation,Korkino,34,Good,12,Good,62,Good,58,Good,3,Good,2017-12-12 19:00:00
+France,Epernay,53,Moderate,12,Good,100,Good,16,Good,33,Moderate,2017-12-18 10:00:00
+United States of America,Wayland,47,Good,14,Good,10,Good,58,Good,0,Good,2017-10-29 02:00:00
+Chile,Curico,93,Moderate,2,Good,9,Good,17,Good,28,Moderate,2017-02-22 10:00:00
+France,Septemes Les Vallons,31,Good,12,Good,87,Good,85,Good,7,Good,2017-09-18 05:00:00
+Myanmar,Taunggyi,39,Good,6,Good,104,Good,35,Good,0,Good,2017-09-21 19:00:00
+United Republic of Tanzania,Kisesa,24,Good,2,Good,109,Good,8,Good,9,Good,2017-03-29 06:00:00
+India,Manohar Thana,168,Unhealthy,8,Good,7,Good,66,Good,127,Unhealthy,2017-11-04 01:00:00
+United States of America,Lompoc,38,Good,3,Good,40,Good,74,Good,2,Good,2017-09-21 16:00:00
+Russian Federation,Cherdakly,51,Moderate,14,Good,1,Good,29,Good,20,Moderate,2017-06-26 11:00:00
+France,Levallois Perret,70,Moderate,1,Good,44,Good,37,Good,17,Moderate,2017-12-16 14:00:00
+France,Epernay,53,Moderate,12,Good,29,Good,97,Good,32,Moderate,2017-11-01 20:00:00
+Iran (Islamic Republic of),Bandar E Torkaman,153,Unhealthy,1,Good,7,Good,92,Good,110,Unhealthy,2017-08-09 11:00:00
+Japan,Inuyama,47,Good,9,Good,44,Good,49,Good,3,Good,2017-04-15 10:00:00
+Hungary,Tata,66,Moderate,2,Good,15,Good,59,Good,29,Moderate,2017-02-27 23:00:00
+Germany,Wehr,94,Moderate,0,Good,115,Good,61,Good,23,Moderate,2017-06-27 22:00:00
+Brazil,Iguaba Grande,61,Moderate,10,Good,111,Good,13,Good,19,Moderate,2017-10-15 16:00:00
+Italy,Pavullo Nel Frignano,95,Moderate,1,Good,56,Good,92,Good,23,Moderate,2017-03-01 19:00:00
+Belgium,De Pinte,36,Good,11,Good,20,Good,97,Good,4,Good,2017-07-16 13:00:00
+Brazil,Caririacu,27,Good,11,Good,113,Good,95,Good,2,Good,2017-01-25 06:00:00
+United States of America,Shawnee,95,Moderate,5,Good,48,Good,60,Good,15,Moderate,2017-06-10 06:00:00
+India,Neyveli,61,Moderate,5,Good,48,Good,17,Good,24,Moderate,2017-07-25 08:00:00
+United States of America,Beeville,36,Good,0,Good,91,Good,69,Good,5,Good,2017-12-30 23:00:00
+France,Levallois Perret,70,Moderate,1,Good,28,Good,97,Good,22,Moderate,2017-11-30 09:00:00
+United States of America,Rock Springs,22,Good,9,Good,36,Good,86,Good,0,Good,2017-12-21 14:00:00
+Poland,Katowice,80,Moderate,4,Good,59,Good,50,Good,22,Moderate,2017-10-16 05:00:00
+United States of America,Hopkins,54,Moderate,9,Good,40,Good,86,Good,25,Moderate,2017-05-03 04:00:00
+Brazil,Piquete,52,Moderate,4,Good,90,Good,42,Good,25,Moderate,2017-01-07 08:00:00
+France,Luneville,38,Good,11,Good,94,Good,26,Good,10,Good,2017-05-07 03:00:00
+Poland,Pulawy,30,Good,5,Good,82,Good,52,Good,1,Good,2017-08-17 23:00:00
+Madagascar,Arivonimamo,21,Good,8,Good,11,Good,51,Good,7,Good,2017-09-27 08:00:00
+Russian Federation,Gusev,34,Good,1,Good,79,Good,88,Good,10,Good,2017-12-30 00:00:00
+India,Mundwa,212,Very Unhealthy,7,Good,34,Good,62,Good,173,Very Unhealthy,2017-02-13 01:00:00
+United States of America,Orange,51,Moderate,10,Good,115,Good,1,Good,32,Moderate,2017-03-09 19:00:00
+Afghanistan,Dawlatabad,92,Moderate,7,Good,37,Good,7,Good,22,Moderate,2017-10-07 15:00:00
+United States of America,Rosedale,42,Good,11,Good,34,Good,13,Good,9,Good,2017-06-28 17:00:00
+Brazil,Russas,28,Good,2,Good,98,Good,69,Good,8,Good,2017-06-12 09:00:00
+Pakistan,Bhopalwala,153,Unhealthy,3,Good,1,Unhealthy for Sensitive Groups,36,Good,135,Unhealthy,2017-11-02 06:00:00
+Russian Federation,Izberbash,51,Moderate,1,Good,73,Good,15,Good,17,Moderate,2017-05-12 03:00:00
+Poland,Krotoszyn,55,Moderate,6,Good,60,Good,2,Good,23,Moderate,2017-03-27 12:00:00
+Venezuela (Bolivarian Republic of),El Tocuyo,39,Good,10,Good,56,Good,48,Good,1,Good,2017-11-07 17:00:00
+India,Rudarpur,119,Unhealthy for Sensitive Groups,2,Good,106,Moderate,24,Good,42,Unhealthy for Sensitive Groups,2017-10-31 13:00:00
+United States of America,Corsicana,47,Good,2,Good,111,Good,20,Good,11,Good,2017-08-20 18:00:00
