@@ -9,10 +9,10 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # InfluxDB Configuration
-url = 'http://localhost:8086'
-token = 'onVqYKp1f1ETEqOpCgVF44RWLZCCb87PiZK8iNyfN7NIF3w9NpUKUE2A4etEmtxZ3EupspZx0TyCAB1NYPBB1A=='
-org = 'EntregableFinal'
-bucket = 'EntregableFinal'
+url = 'http://influxdb:8086'
+token = 'AVniTEq3wnjzSyDT4ehfYKu-u52PMDLp86HLScgp9dNcgMkifnoe_ueoX3vJmLOKXGmZYhrLTIxh2roekdb9DA=='
+org = 'my-org'
+bucket = 'my-bucket'
 
 client = InfluxDBClient(url=url, token=token, org=org)
 write_api = client.write_api(write_options=SYNCHRONOUS)
@@ -91,11 +91,20 @@ async def load_csv_data():
     if not city_air_quality_instances:
         raise HTTPException(status_code=404, detail="No data loaded from CSV")
     
-    # Función para escribir un punto en la base de datos
     def write_point(data):
-        point = Point("air_quality").tag("city", data.city).tag("country", data.country)\
-            .field("aqi_value", data.air_quality_data.aqi_value)\
-            .field("pm25_aqi_value", data.air_quality_data.pm25_aqi_value)\
+        point = Point("air_quality") \
+            .tag("city", data.city) \
+            .tag("country", data.country) \
+            .field("aqi_value", data.air_quality_data.aqi_value) \
+            .field("co_aqi_value", data.air_quality_data.co_aqi_value) \
+            .field("ozone_aqi_value", data.air_quality_data.ozone_aqi_value) \
+            .field("no2_aqi_value", data.air_quality_data.no2_aqi_value) \
+            .field("pm25_aqi_value", data.air_quality_data.pm25_aqi_value) \
+            .field("aqi_category", data.air_quality_data.aqi_category) \
+            .field("co_aqi_category", data.air_quality_data.co_aqi_category) \
+            .field("ozone_aqi_category", data.air_quality_data.ozone_aqi_category) \
+            .field("no2_aqi_category", data.air_quality_data.no2_aqi_category) \
+            .field("pm25_aqi_category", data.air_quality_data.pm25_aqi_category) \
             .time(data.date_time, WritePrecision.NS)
         write_api.write(bucket=bucket, org=org, record=point)
 
