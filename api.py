@@ -93,8 +93,8 @@ async def load_csv_data():
     
     def write_point(data):
         point = Point("air_quality") \
-            .tag("city", data.city) \
-            .tag("country", data.country) \
+            .field("city", data.city) \
+            .field("country", data.country) \
             .field("aqi_value", data.air_quality_data.aqi_value) \
             .field("co_aqi_value", data.air_quality_data.co_aqi_value) \
             .field("ozone_aqi_value", data.air_quality_data.ozone_aqi_value) \
