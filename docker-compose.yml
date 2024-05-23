@@ -4,32 +4,27 @@ services:
   fastapi:
     build: .
     ports:
-      - "8000:8000"
-    networks:
-      - my-network
+      - ${FASTAPI_PORT}:8000
 
   influxdb:
     image: influxdb:latest
     volumes:
-      - influxdb_data:/var/lib/influxdb2
+      - influxdb-storage:/var/lib/influxdb2:rw
     ports:
-      - "8086:8086"
-    networks:
-      - my-network
+      - ${DOCKER_INFLUXDB_INIT_PORT}:8086
+    env_file:
+      - .env
+    entrypoint: ["./entrypoint.sh"]
 
   grafana:
     image: grafana/grafana:latest
-    ports:
-      - "3000:3000"
     volumes:
-      - grafana_data:/var/lib/grafana
-    networks:
-      - my-network
+      - grafana-storage:/var/lib/grafana:rw
+    depends_on:
+      - influxdb
+    ports:
+      - ${GRAFANA_PORT}:3000
 
 volumes:
-  influxdb_data:
-  grafana_data:
-
-networks:
-  my-network:
-    driver: bridge
+  grafana-storage:
+  influxdb-storage:
