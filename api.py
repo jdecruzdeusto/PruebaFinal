@@ -9,8 +9,8 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # InfluxDB Configuration
-url = 'http://localhost:8090'
-token = 'PbLwc5J72BkQ7kCL7zh0a-Or8QJINr-bK3S5H6NylhTEVohI_pu1-bQXSY-WV6ge7g0VHUMFWtlWRD3EMebFNA=='
+url = 'http://influxdb:8086'
+token = 'deusto2024-secret-token'
 org = 'deusto-org'
 bucket = 'deusto-bucket'
 
