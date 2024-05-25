@@ -127,7 +127,7 @@ Uso de JWT (JSON Web Tokens) para manejar la autenticación y seguridad de la AP
 
 ## entrypoint.sh
 
-Este script shell configura y ejecuta comandos iniciales para InfluxDB, asegurando que todas las variables de entorno necesarias estén establecidas y maneja la configuración inicial del bucket de InfluxDB.
+- Este script shell configura y ejecuta comandos iniciales para InfluxDB, asegurando que todas las variables de entorno necesarias estén establecidas y maneja la configuración inicial del bucket de InfluxDB.
 
 ## Otros Archivos
 
